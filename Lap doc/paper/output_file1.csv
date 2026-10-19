@@ -1,0 +1,1001 @@
+Unnamed: 0,ID,name,docket,term,first_party,second_party,majority_vote,minority_vote,judgement,decision_type,issue_area,age
+0,50606,Roe v. Wade,70-18,1971,Jane Roe,Henry Wade,17.0,2,True,majority opinion,,28
+1,50613,Stanley v. Illinois,70-5014,1971,"Peter Stanley, Sr. ",Illinois,18.0,2,True,majority opinion,Civil Rights,44
+2,50623,Giglio v. United States,70-29,1971,John Giglio ,United States,8.0,0,True,majority opinion,Due Process,29
+3,50632,Reed v. Reed,70-4,1971,Sally Reed,Cecil Reed,27.0,0,True,majority opinion,Civil Rights,30
+4,50643,Miller v. California,70-73,1971,Marvin Miller,California,26.0,4,True,majority opinion,First Amendment,27
+5,50644,Kleindienst v. Mandel,71-16,1971,"Richard G. Kleindienst, Attorney General of the United States; William P. Rogers, Secretary of State","Ernest E. Mandel, et al.",47.0,3,True,minority opinion,First Amendment,38
+6,50655,Sarno v. Illinois Crime Investigating Commission,70-7,1971,Sarno,Illinois Crime Investigating Commission,83.0,2,False,judge,Criminal Procedure,45
+7,50656,Argersinger v. Hamlin,70-5015,1971,Argersinger,Hamlin,1.0,0,True,majority opinion,Criminal Procedure,30
+8,50657,Eisenstadt v. Baird,70-17,1971,Eisenstadt,Baird,20.0,1,False,majority opinion,Privacy,50
+9,50663,Gooding v. Wilson,70-26,1971,Gooding,Wilson,14.0,2,False,majority opinion,First Amendment,27
+10,50671,Furman v. Georgia,69-5003,1971,Furman,Georgia,94.0,4,True,judge,Criminal Procedure,28
+11,50683,Moose Lodge No. 107 v. Irvis,70-75,1971,Moose Lodge No. 107,Irvis,58.0,3,True,minority opinion,Civil Rights,29
+12,50688,Branzburg v. Hayes,70-85,1971,Branzburg,Hayes,8.0,4,False,majority opinion,First Amendment,24
+13,50689,Kirby v. Illinois,70-5061,1971,Thomas Kirby,Illinois,93.0,4,False,judge,Criminal Procedure,30
+14,50692,Wisconsin v. Yoder,70-110,1971,Wisconsin,Yoder,2.0,0,False,majority opinion,First Amendment,36
+15,50695,Board of Regents of State Colleges v. Roth,71-162,1971,Board of Regents of State Colleges,David Roth,17.0,3,True,majority opinion,Due Process,25
+16,50707,United States v. Mississippi Chemical Corporation,70-52,1971,United States,"Mississippi Chemical Corporation, Costal Chemical Corp",12.0,0,True,majority opinion,Federal Taxation,27
+17,50709,Santobello v. New York,70-98,1971,Rudolph Santobello,State of New York,45.0,3,True,minority opinion,Criminal Procedure,27
+18,50715,Morrissey v. Brewer,71-5103,1971,Morrissey,Brewer,26.0,0,True,majority opinion,Due Process,46
+19,50719,Younger v. Gilmore,70-9,1971,"Evelle J. Younger, et al.","Robert O. Gilmore, Jr., et al.",82.0,0,False,judge,Due Process,45
+20,50721,Gravel v. United States,71-1017,1971,Gravel,United States,13.0,4,True,majority opinion,First Amendment,39
+21,50722,Adams v. Williams,70-283,1971,Frederick E. Adams,Robert Williams,14.0,3,True,majority opinion,Criminal Procedure,25
+22,50723,"Lloyd Corporation, Ltd. v. Tanner",71-492,1971,Lloyd Corp. Ltd.,Donald Tanner et al.,17.0,4,True,majority opinion,First Amendment,22
+23,50724,Police Department of the City of Chicago v. Mosley,70-87,1971,Police Department of the City of Chicago,Mosley,49.0,0,False,minority opinion,First Amendment,35
+24,50725,Chevron Oil Company v. Huson,70-11,1971,Chevron Oil Company,Huson,3.0,0,False,majority opinion,Economic Activity,37
+25,50745,Flood v. Kuhn,71-32,1971,Curtis C. Flood,"Bowie K. Kuhn, Commissioner of Baseball, et al.",3.0,3,False,majority opinion,Economic Activity,39
+26,50742,Gelbard v. United States,71-110,1971,David Gelbard,United States,20.0,4,True,majority opinion,Criminal Procedure,25
+27,50749,Haines v. Kerner,70-5025,1971,Francis Haines,"Otto J. Kerner, former Governor of Illinois",73.0,0,True,judge,Criminal Procedure,32
+28,50753,Kastigar v. United States,70-117,1971,Kastigar,United States,24.0,2,False,majority opinion,Criminal Procedure,39
+29,50754,"D. H. Overmyer Company, Inc., of Ohio v. Frick",69-5,1971,"D. H. Overmyer Company, Inc., of Ohio",Frick,34.0,0,False,minority opinion,Civil Rights,39
+30,50756,Barker v. Wingo,71-5255,1971,Willie Mae Barker,"John W. Wingo, Warden",17.0,0,False,majority opinion,Criminal Procedure,39
+31,50775,Dunn v. Blumstein,70-13,1971,Dunn,Blumstein,3.0,1,False,majority opinion,Civil Rights,44
+32,50779,United States v. Generes,70-28,1971,United States,Allen H. Generes and Edna Generes,11.0,1,True,majority opinion,Federal Taxation,40
+33,50783,Sierra Club v. Morton,70-34,1971,Sierra Club,"Roger C. B. Morton, Secretary of the Interior of the United States",8.0,3,False,majority opinion,Economic Activity,24
+34,50784,United States v. United States District Court for the Eastern District of Michigan,70-153,1971,United States,United States District Court for the Eastern District of Michigan,2.0,0,False,majority opinion,Criminal Procedure,29
+35,50786,Murel v. Baltimore City Criminal Court,70-5276,1971,"Albert Delanor Murel, et al.","Baltimore City Criminal Court, et al.",69.0,1,False,minority opinion,Judicial Power,39
+36,50790,Perry v. Sindermann,70-36,1971,Charles R. Perry et al.,Robert P. Sindermann,29.0,3,False,majority opinion,Due Process,18
+37,50805,Schneckloth v. Bustamonte,71-732,1972,Merle R. Schneckloth,Robert Clyde Bustamonte,18.0,3,True,majority opinion,Criminal Procedure,44
+38,50808,"Keyes v. School District No. 1, Denver, Colorado",71-507,1972,Keyes,"School District No. 1, Denver, Colorado",3.0,1,True,majority opinion,Civil Rights,34
+39,50816,Frontiero v. Richardson,71-1694,1972,Sharron Frontiero,"Elliot Richardson, Secretary of Defense",94.0,1,True,judge,Civil Rights,39
+40,50821,Mahan v. Howell,71-364,1972,Mahan,Howell,6.0,3,True,majority opinion,Civil Rights,46
+41,50834,United States v. Ash,71-1255,1972,United States,Charles J. Ash Jr.,66.0,3,True,minority opinion,Criminal Procedure,32
+42,50844,Neil v. Biggers,71-586,1972,"William S. Neil, Warden of the Tennessee State Penitentiary ",Archie Nathaniel Biggers,10.0,0,True,majority opinion,Criminal Procedure,23
+43,50842,In re Griffiths,71-1336,1972,Fre Le Poole Griffiths,State Bar Examining Committee of Connecticut,11.0,2,True,majority opinion,Civil Rights,30
+44,50847,Pittsburgh Press Company v. Pittsburgh Commission on Human Relations,72-419,1972,Pittsburgh Press Company,Pittsburgh Commission on Human Relations,3.0,4,False,majority opinion,First Amendment,29
+45,50877,Gottschalk v. Benson,71-485,1972,Gottschalk,Benson,19.0,0,True,majority opinion,Economic Activity,29
+46,50900,United States v. Russell,71-1585,1972,United States,Russell,4.0,4,True,majority opinion,Criminal Procedure,50
+47,50931,Gagnon v. Scarpelli,71-1225,1972,John R Gagnon,Gerald Scarpello,60.0,1,True,minority opinion,Criminal Procedure,46
+48,50940,California v. LaRue,71-36,1972,"California, et al.","Robert LaRue, et al.",17.0,3,True,majority opinion,First Amendment,39
+49,50941,Committee for Public Education & Religious Liberty v. Nyquist,72-694,1972,Committee for Public Education & Religious Liberty,"Ewald B. Nyquist, Commissioner of Education of New York",13.0,3,True,majority opinion,First Amendment,24
+50,50944,Sugarman v. Dougall,71-1222,1972,"Jule M. Sugarman, Administrator, New York City Human Resources Administration et al.",Patrick McL. Dougall et al.,30.0,1,False,majority opinion,Civil Rights,20
+51,50946,Chambers v. Mississippi,71-5908,1972,Leon Chambers,Mississippi,22.0,1,True,majority opinion,Criminal Procedure,42
+52,50949,Lemon v. Kurtzman,71-1470,1972,Lemon,Kurtzman,79.0,3,False,judge,First Amendment,32
+53,50954,United States Department of Agriculture v. Moreno,72-534,1972,U.S. Department of Agriculture et al.,Jacinta Moreno et al.,60.0,2,False,minority opinion,Civil Rights,43
+54,50961,Paris Adult Theatre I v. Slaton,71-1051,1972,Paris Adult Theatre I,Slaton,15.0,4,True,majority opinion,First Amendment,30
+55,50979,McClanahan v. Arizona State Tax Commission,71-834,1972,Rosalind McClanahan,Arizona State Tax Commission,29.0,0,True,majority opinion,Civil Rights,19
+56,50985,McDonnell Douglas Corporation v. Green,72-490,1972,McDonnell Douglas Corporation,Percy Green,2.0,0,True,majority opinion,Civil Rights,19
+57,50984,San Antonio Independent School District v. Rodriguez,71-1332,1972,San Antonio Independent School District,Rodriguez,7.0,4,True,majority opinion,Civil Rights,32
+58,50993,United States v. Giordano,72-1057,1973,United States,Dominic Nicholas Giordano et al. ,26.0,4,False,majority opinion,Criminal Procedure,22
+59,50995,United States v. Nixon,73-1766,1973,United States,"Richard M. Nixon, et al.",69.0,0,False,minority opinion,Criminal Procedure,23
+60,51007,Milliken v. Bradley,73-434,1973,Milliken,Bradley,11.0,4,True,majority opinion,Civil Rights,46
+61,51017,United States v. Matlock,72-1355,1973,United States,William Earl Matlock,4.0,3,True,majority opinion,Criminal Procedure,49
+62,51026,Communist Party of Indiana v. Whitcomb,72-1040,1973,"Communist Party of Indiana, et al.","Edgar D. Whitcomb, etc., at al.",8.0,0,True,majority opinion,First Amendment,49
+63,51029,Wolff v. McDonnell,73-679,1973,Wolff,McDonnell,6.0,3,True,majority opinion,Due Process,40
+64,51031,Geduldig v. Aiello,73-640,1973,"Geduldig, Director, Department of Human Resources Development",Carolyn Aiello et al.,30.0,3,True,majority opinion,Civil Rights,26
+65,51033,United States v. Calandra,72-734,1973,United States,John P. Calandra,53.0,3,True,minority opinion,Criminal Procedure,36
+66,51035,United States v. Richardson,72-885,1973,United States,Richardson,15.0,4,True,majority opinion,Judicial Power,42
+67,51039,Jenkins v. Georgia,73-557,1973,Jenkins,Georgia,28.0,0,True,majority opinion,First Amendment,18
+68,51062,Cleveland Board of Education v. LaFleur,72-777,1973,"Cleveland Board of Education, Chesterfield County School Board, Dr. Robert F. Kelly","Jo Carol LaFleur, Ann Elizabeth Nelson, Susan Cohen",30.0,2,False,majority opinion,Civil Rights,27
+69,51071,Kahn v. Shevin,73-78,1973,"Mel Kahn, etc.","Robert L. Shevin, et al.",8.0,3,False,majority opinion,Civil Rights,32
+70,51075,Steffel v. Thompson,72-5581,1973,Richard Guy Steffel,"John R. Thompson, et al.",9.0,0,True,majority opinion,Judicial Power,20
+71,51081,Mitchell v. W. T. Grant Company,72-6160,1973,Mitchell,W. T. Grant Company,45.0,4,False,minority opinion,Civil Rights,24
+72,51084,Morton v. Mancari,73-362,1973,"Rogers C. B. Morton, Secretary of the Interior et al.",C. R. Mancari et al.,21.0,0,True,majority opinion,Civil Rights,40
+73,51096,American Pipe & Construction Company v. Utah,72-1195,1973,"American Pipe and Construction Company, et al","State of Utah, et al",8.0,0,False,majority opinion,Judicial Power,45
+74,51107,Davis v. United States,72-1454,1973,Joseph Anthony Davis,United States,8.0,2,True,majority opinion,Criminal Procedure,27
+75,51114,Miami Herald Publishing Company v. Tornillo,73-797,1973,Miami Herald Publishing Company,Pat Tornillo,23.0,0,True,majority opinion,First Amendment,34
+76,51113,Spence v. Washington,72-1690,1973,Harold Omond Spence ,Washington,74.0,3,True,judge,First Amendment,32
+77,51121,Gertz v. Robert Welch Inc.,72-617,1973,Gertz,Robert Welch Inc.,51.0,2,True,minority opinion,First Amendment,36
+78,51130,Village of Belle Terre v. Boraas,73-191,1973,"Village of Belle Terre, et al.","Bruce Boraas, et al.",5.0,2,True,majority opinion,Economic Activity,26
+79,51132,United States v. Robinson,72-936,1973,United States,Robinson,8.0,3,True,majority opinion,Criminal Procedure,32
+80,51142,Gerstein v. Pugh,73-477,1973,"Richard E. Gerstein, State Attorney for the Eleventh Judicial Circuit of Florida ","Robert Pugh, Nathaniel Henderson, Thomas Turner, Gary Faulk on their own behalf and on behalf of other similarly situated",8.0,0,True,majority opinion,Criminal Procedure,40
+81,51145,Lehman v. City of Shaker Heights,73-328,1973,Harry Lehman,City of Shaker Heights,72.0,4,False,judge,First Amendment,35
+82,51143,Procunier v. Martinez,72-1465,1973,"Raymond K. Procunier, Director, California Department of Corrections, et al.","Robert Martinez, et al.",14.0,0,False,majority opinion,First Amendment,42
+83,51150,Lau v. Nichols,72-6520,1973,"Kinney Kinmon Lau, et al.","Alan H. Nichols, et al.",56.0,0,True,minority opinion,Civil Rights,48
+84,51151,Arnett v. Kennedy,72-1118,1973,Arnett,Kennedy,96.0,4,True,judge,Due Process,47
+85,51152,"Old Dominion Branch No. 496, National Association of Letter Carriers, AFL-CIO v. Austin",72-1180,1973,"Old Dominion Branch No. 496, National Association of Letter Carriers, AFL-CIO","Henry M. Austin, et al.",28.0,3,True,majority opinion,First Amendment,29
+86,51161,DeFunis v. Odegaard,73-235,1973,DeFunis,Odegaard,98.0,4,True,judge,Civil Rights,18
+87,51163,Lascaris v. Shirley,73-1016,1974,"John Lascaris, Commissioner, Dept. of Social Services of Onondaga County","Sylvia Shirley, Elizabeth Anderson, Jane Doe",100.0,3,False,judge,Civil Rights,19
+88,51167,Cox Broadcasting Corporation v. Cohn,73-938,1974,Cox Broadcasting Corporation,Cohn,3.0,1,True,majority opinion,First Amendment,32
+89,51171,Colonial Pipeline Company v. Traigle,73-1595,1974,Colonial Pipeline Company,"Joseph N. Triagle, Collector of Revenue of Louisiana",40.0,1,False,minority opinion,Economic Activity,29
+90,51170,Bigelow v. Virginia,73-1309,1974,Bigelow,Virginia,27.0,2,True,majority opinion,First Amendment,47
+91,51172,National League of Cities v. Usery,74-878,1974,National League of Cities,Usery,21.0,4,True,majority opinion,Unions,22
+92,51173,Murphy v. Florida,74-5116,1974,Jack Roland Murphy,Florida,18.0,1,False,majority opinion,Criminal Procedure,31
+93,51175,Faretta v. California,73-5772,1974,Anthony Pasquall Faretta ,California,23.0,3,True,majority opinion,Criminal Procedure,42
+94,51192,Breed v. Jones,73-1995,1974,"Allen F. Breed, Director of California Your Authority ",Gary Steven Jones,8.0,0,True,majority opinion,Civil Rights,50
+95,51196,Maness v. Meyers,73-689,1974,Michael Anthony Maness ,The Honorable James R. Meyers,44.0,0,True,minority opinion,Criminal Procedure,18
+96,51202,Vella v. Ford Motor Company,73-1994,1974,Julian Vell,Ford Motor Company,6.0,0,True,majority opinion,Economic Activity,31
+97,51203,United States v. Brignoni-Ponce,74-114,1974,United States,Felix Humberto Brignoni-Ponce,9.0,0,False,majority opinion,Criminal Procedure,46
+98,51210,Saxbe v. Bustos,73-300,1974,"William B. Saxbe, United Farm Workers Organizing Committee","Robert Bustos, et al.",15.0,4,True,majority opinion,Civil Rights,31
+99,51212,"Bowman Transportation, Inc. v. Arkansas-Best Freight System, Inc.",73-1055,1974,"Bowman Transportation, Inc., et al.","Arkansas-Best Freight System, Inc. et al.",12.0,0,True,majority opinion,Economic Activity,29
+100,51219,United States v. Tax Commission of Mississippi,74-548,1974,United States,"Mississippi Tax Commission, et al.",9.0,2,True,majority opinion,Federalism,34
+101,51225,Harris County Commissioners Court v. Moore,73-1475,1974,"Harris County Commissioners Court, et al.","Richard E. Moore, et al.",32.0,1,True,minority opinion,Judicial Power,50
+102,51229,"American Radio Assn., AFL-CIO v. Mobile Steamship Assn., Inc.",73-748,1974,"American Radio Assn., AFL-CIO, et al.","Mobile Steamship Association, Robert Malone",28.0,4,False,majority opinion,Federalism,22
+103,51234,Ellis v. Dyson,73-130,1974,Tom E. Ellis and Robert D. Love ,"Frank M. Dyson, Alex Bickley, Scott McDonald, Hugh Jones, Wes Wise",29.0,3,True,majority opinion,Judicial Power,25
+104,51240,Goss v. Lopez,73-898,1974,Goss,Lopez,13.0,4,False,majority opinion,Due Process,36
+105,51239,Taylor v. Louisiana,73-5744,1974,Billy J. Taylor,State of Louisiana,17.0,1,True,majority opinion,Civil Rights,49
+106,51247,"Connell Constr. Company, Inc. v. Plumbers & Steamfitters Local Union of the Plumbing & Pipefitting Industry of the United States and Canada, AFL-CIO",73-1256,1974,"Connell Construction Company, Inc.","Plumbers & Steamfitters Local Union No. 100, United Association of Journeymen & Apprentices of the plumbing & Pipefitting Industry of the United States and Canada",25.0,4,True,majority opinion,Unions,38
+107,51244,Eastland v. United States Servicemen's Fund,73-1923,1974,Eastland,United States Servicemen's Fund,65.0,1,True,minority opinion,First Amendment,20
+108,51257,Erznoznik v. City of Jacksonville,73-1942,1974,Richard Erznoznik,City of Jacksonville,4.0,3,True,majority opinion,First Amendment,35
+109,51258,Jackson v. Metropolitan Edison Company,73-5845,1974,Catherine Jackson,Metropolitan Edison Company,6.0,3,False,majority opinion,Due Process,19
+110,51259,Wood v. Strickland,73-1285,1974,"John P. Wood, et al.","Peggy Strickland, et al.",21.0,4,True,majority opinion,Civil Rights,21
+111,51266,Weinberger v. Wiesenfeld,73-1892,1974,"Caspar Weinberger, Secretary of Health, Education, and Welfare","Stephen Charles Wiesenfeld, etc.",27.0,0,False,majority opinion,Civil Rights,42
+112,51269,"Gordon v. New York Stock Exchange, Inc.",74-304,1974,"Richard A. Gordon, members of the Independent Investor Protection League","New York Stock Exchange, Inc., et al.",29.0,0,False,majority opinion,Economic Activity,50
+113,51270,Albemarle Paper Company v. Moody,74-389,1974,"Albemarle Paper Company, et al.","Joseph P. Moody, et al.",33.0,1,True,minority opinion,Civil Rights,49
+114,51279,Brown v. Illinois,73-6650,1974,Richard Brown,Illinois,22.0,0,True,majority opinion,Criminal Procedure,38
+115,51278,United States v. Feola,73-1123,1974,United States,Ralph Feola,15.0,2,True,majority opinion,Criminal Procedure,37
+116,51286,Schick v. Reed,73-5677,1974,Schick,Reed,26.0,3,False,majority opinion,Civil Rights,44
+117,51292,Cantrell v. Forest City Publishing Company,73-5520,1974,"Margaret Mae Cantrell, et al.","Forest City Publishing Company, et al.",15.0,1,True,majority opinion,First Amendment,25
+118,51296,"ICC v. Oregon Pacific Industries, Inc.",73-1210,1974,Interstate Commerce Commission ,"Oregon Pacific Industries, Inc., et al.",21.0,0,True,majority opinion,Economic Activity,25
+119,51300,Burns v. Alcala,73-1708,1974,"Kevin J. Burns, Commissioner, Dept of Social Services of Iowa, et al.","Linda Alcala, Jane Doe, Joan Roe, et al.",58.0,1,True,minority opinion,Civil Rights,30
+120,51299,International Ladies' Garment Workers' Union v. Quality Manufacturing Company,73-765,1974,International Ladies' Garment Workers' Union,"Quality Manufacturing Company, National Labor Relations Board",12.0,3,True,majority opinion,Unions,43
+121,51303,O'Connor v. Donaldson,74-8,1974,"J.B. O'Connor, M.D.",Kenneth Donaldson,19.0,0,True,majority opinion,Due Process,38
+122,51310,"Alfred Dunhill Of London, Inc. v. Cuba",73-1288,1974,"Alfred Dunhill Of London, Inc.","Republic of Cuba, et. al",2.0,4,True,majority opinion,Judicial Power,30
+123,51308,Gurley v. Rhoden,73-1734,1974,W. M. Gurley dba Gurley Oil Co. ,"Arny Rhoden, Chairman, Tax Commission of Mississippi",25.0,0,False,majority opinion,Economic Activity,33
+124,51318,"United States v. Reliable Transfer Company, Inc.",74-363,1974,United States,"Reliable Transfer Company, Inc.",20.0,0,True,majority opinion,Economic Activity,35
+125,51325,Foster v. Dravo Corporation,73-1773,1974,Earl R. Foster ,Dravo Corporation,48.0,0,False,minority opinion,Civil Rights,24
+126,51327,"Southeastern Promotions, Ltd. v. Conrad",73-1004,1974,"Southeastern Promotions, Ltd.",Steve Conrad et al.,3.0,3,True,majority opinion,First Amendment,29
+127,51332,United States v. Santana,75-19,1975,United States,Santana,10.0,2,True,majority opinion,Criminal Procedure,20
+128,51336,Paul v. Davis,74-891,1975,Paul,Davis,28.0,3,True,majority opinion,Civil Rights,36
+129,51333,Nebraska Press Association v. Stuart,75-817,1975,Nebraska Press Association et al.,"Hugh Stuart, Judge, District Court of Lincoln County, Nebraska et al.",30.0,0,True,majority opinion,First Amendment,43
+130,51350,Roberts v. Louisiana,75-5844,1975,Roberts,Louisiana,89.0,4,True,judge,Criminal Procedure,40
+131,51349,Roemer v. Board of Public Works of Maryland,74-730,1975,"John C. Roemer, III, et al.",Board of Public Works of Maryland et al.,61.0,4,False,minority opinion,First Amendment,30
+132,51351,Michelin Tire Corporation v. Wages,74-1396,1975,Michelin Tire Corporation,Wages,5.0,0,False,majority opinion,Economic Activity,44
+133,51355,United States v. Watson,74-538,1975,United States,Henry Ogle Watson,30.0,2,True,majority opinion,Criminal Procedure,42
+134,51363,United States v. Miller,74-1179,1975,United States,Mitch Miller,1.0,2,True,majority opinion,Criminal Procedure,26
+135,51365,"Time, Inc. v. Firestone",74-944,1975,"Time, Inc.",Mary Alice Firestone,30.0,2,True,majority opinion,First Amendment,39
+136,51368,Mathews v. Eldridge,74-204,1975,Mathews,Eldridge,11.0,2,True,majority opinion,Civil Rights,24
+137,51377,"Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, Inc.",74-895,1975,Virginia State Board of Pharmacy,"Virginia Citizens Consumer Council, Inc.",51.0,1,False,minority opinion,First Amendment,47
+138,51373,Buckley v. Valeo,75-436,1975,Buckley,Valeo,86.0,1,True,judge,First Amendment,43
+139,51383,Bellotti v. Baird,75-73,1975,"Frances Bellotti, Attorney General of Massachusetts et al.",William Baird et al.,18.0,0,True,majority opinion,Judicial Power,23
+140,51384,"Transamerican Freight Lines, Inc. v. Brada Miller Freight Systems, Inc.",74-54,1975,"Transamerican Freight Lines, Inc.","Brada Miller Freight Systems, Inc.",21.0,0,True,majority opinion,Economic Activity,34
+141,51395,Washington v. Davis,74-1492,1975,Washington,Davis,25.0,2,True,majority opinion,Civil Rights,31
+142,51397,Proffitt v. Florida,75-5706,1975,Proffitt,Florida,76.0,2,False,judge,Criminal Procedure,42
+143,51400,Federal Power Commission v. Transcontinental Gas Pipe Line Corporation,75-584,1975,Federal Power Commission,Transcontinental Gas Pipe Line Corporation,35.0,0,True,minority opinion,Judicial Power,38
+144,51416,"Young v. American Mini Theatres, Inc.",75-312,1975,Coleman Young,"American Mini Theatres, Inc.",29.0,4,True,majority opinion,First Amendment,48
+145,51412,Runyon v. McCrary,75-62,1975,Russell L. Runyon et al.,Michael McCrary et al.,21.0,2,False,majority opinion,Civil Rights,40
+146,51419,Hampton v. United States,74-5822,1975,Charles Hampton,United States,90.0,3,False,judge,Criminal Procedure,42
+147,51426,South Dakota v. Opperman,75-76,1975,South Dakota,Opperman,20.0,4,True,majority opinion,Criminal Procedure,21
+148,51429,United States v. Martinez-Fuerte,74-1560,1975,United States,Martinez-Fuerte,26.0,2,True,majority opinion,Criminal Procedure,30
+149,51445,Stone v. Powell,74-1055,1975,Stone,Powell,39.0,3,True,minority opinion,Criminal Procedure,45
+150,51448,Woodson v. North Carolina,75-5491,1975,Woodson,North Carolina,100.0,4,True,judge,Criminal Procedure,29
+151,51449,Jurek v. Texas,75-5394,1975,Jurek,Texas,71.0,2,False,judge,Criminal Procedure,26
+152,51461,Imbler v. Pachtman,74-5435,1975,Paul Imbler ,Richard Pachtman,22.0,0,False,majority opinion,Civil Rights,36
+153,51472,Massachusetts Board of Retirement v. Murgia,74-1044,1975,Massachusetts Board of Retirement,Murgia,89.0,1,True,judge,Civil Rights,49
+154,51471,Hortonville Independent School District No. 1 v. Hortonville Education Association,74-1606,1975,Hortonville Independent School District No. 1 et al. ,Hortonville Education Association et al. ,3.0,3,True,majority opinion,Due Process,47
+155,51473,Michigan v. Moseley,74-653,1975,State of Michigan,Richard Bert Mosley,67.0,2,True,minority opinion,Criminal Procedure,46
+156,51491,General Electric Company v. Gilbert,74-1589,1975,General Electric Company,"Martha V. Gilbert, et al.",28.0,3,True,majority opinion,Civil Rights,31
+157,51495,Kerr v. United States Dist. Court for Northern Dist. of Cal.,74-1023,1975,Henry W. Kerr,United States Dist. Court for Northern Dist. of Cal.,27.0,0,False,majority opinion,Criminal Procedure,26
+158,51498,Gregg v. Georgia,74-6257,1975,Gregg,Georgia,81.0,2,False,judge,Criminal Procedure,38
+159,51496,Planned Parenthood of Central Missouri v. Danforth,74-1151,1975,"Planned Parenthood of Central Missouri, David Hall. M.D., and Michael Freiman, M.D.","John C. Danforth, Attorney General of New Jersey; and J. Brendan Ryan, Circuit Attorney of the City of St. Louis, Missouri",17.0,4,True,majority opinion,Privacy,22
+160,51512,Wooley v. Maynard,75-1453,1976,Wooley,Maynard,7.0,3,False,majority opinion,First Amendment,29
+161,51514,Milliken v. Bradley,76-447,1976,"William G. Milliken, Governor of Michigan et al.",Ronald Bradley et al.,40.0,0,False,minority opinion,Civil Rights,42
+162,51521,Nixon v. Administrator of General Services,75-1605,1976,Richard M. Nixon,Administrator of General Services,18.0,2,False,majority opinion,First Amendment,32
+163,51524,Moore v. City of East Cleveland,75-6289,1976,Moore,City of East Cleveland,78.0,4,True,judge,Economic Activity,41
+164,51528,United States v. Antelope,75-661,1976,United States,"Gabriel Francis Antelope, et al.",26.0,0,True,majority opinion,Civil Rights,30
+165,51534,Bounds v. Smith,75-915,1976,"Vernon Lee Bounds; Commission, State Department of Corrections; Stanley Blackledge, Warden, Cetral State Prison; R. L. Turner, Superintendent of Odom Correctional Institution et al.","Robert (Bobby) Smith, Donald W. Morgan, John Harrington et al.",29.0,3,False,majority opinion,Due Process,49
+166,51538,Oregon v. Mathiason,76-201,1976,Oregon,Carl Mathiason,94.0,3,True,judge,Criminal Procedure,19
+167,51546,Dothard v. Rawlinson,76-422,1976,"E.C. Dothard, Director, Dept. of Public Safety of Alabama ",Dianne Rawlinson et al.,33.0,2,True,minority opinion,Civil Rights,49
+168,51551,Poelker v. Doe,75-442,1976,Poelker,Doe,85.0,3,True,judge,Privacy,35
+169,51555,City of Philadelphia v. New Jersey,75-1150,1976,City of Philadelphia et al.,New Jersey et al.,85.0,4,True,judge,Economic Activity,41
+170,51556,Coker v. Georgia,75-5444,1976,Coker,Georgia,76.0,2,True,judge,Criminal Procedure,30
+171,51564,Bates v. State Bar of Arizona,76-316,1976,Bates,State Bar of Arizona,26.0,4,True,majority opinion,Attorneys,48
+172,51565,Beal v. Doe,75-554,1976,Beal,Doe,20.0,3,True,majority opinion,Privacy,18
+173,51569,Hunt v. Washington State Apple Advertising Commission,76-63,1976,Hunt,Washington State Apple Advertising Commission,50.0,0,False,minority opinion,Economic Activity,26
+174,51584,Hazelwood School District v. United States,76-255,1976,"Hazelwood School District; C. O. McDonald, Superintendent; Robert Bischof, Robert Coleman, Dorothy Smith, Charles Sweeney, Donald Mattox and Milton Strauss, Members of the Board of Education of the Hazelwood School District",United States,17.0,1,True,majority opinion,Civil Rights,37
+175,51587,"Continental T. V., Inc. v. GTE Sylvania Inc.",76-15,1976,"Continental T. V., Inc., et al. ",GTE Sylvania Inc.,16.0,2,False,majority opinion,Economic Activity,44
+176,51599,Zacchini v. Scripps-Howard Broadcasting Company,76-577,1976,Zacchini,Scripps-Howard Broadcasting Company,22.0,4,True,majority opinion,First Amendment,34
+177,51597,Brewer v. Williams,74-1263,1976,"Lou V. Brewer, Warden of the Iowa State Penitentiary",Robert Anthony Williams aka Anthony Erthel Williams,12.0,4,False,majority opinion,Criminal Procedure,36
+178,51602,Maher v. Roe,75-1440,1976,Maher,Roe,19.0,3,True,majority opinion,Privacy,32
+179,51606,United States v. Lovasco,75-1844,1976,United States,Eugene Lovasco ,69.0,1,True,minority opinion,Criminal Procedure,32
+180,51609,Whalen v. Roe,75-839,1976,Whalen,Roe,20.0,0,True,majority opinion,Privacy,22
+181,51612,Complete Auto Transit Inc. v. Brady,76-29,1976,Complete Auto Transit Inc.,Brady,29.0,0,False,majority opinion,Economic Activity,32
+182,51616,National Socialist Party of America v. Village of Skokie,76-1786,1976,National Socialist Party of America,Village of Skokie,96.0,4,True,judge,First Amendment,46
+183,51623,E. I. du Pont de Nemours & Company v. Train,75-978,1976,E. I. du Pont de Nemours and Company et al. ,"Russell E. Train, Administrator, Environmental Protection Agency, et al.",2.0,0,False,majority opinion,Economic Activity,40
+184,51627,Ingraham v. Wright,75-6527,1976,"James Ingraham, Roosevelt Andrews","Willie J. Wright, Lemmie Deliford, Solomon Barnes, Edward L. Whigham",29.0,4,False,majority opinion,Criminal Procedure,36
+185,51629,Califano v. Goldfarb,75-699,1976,"Joseph Califano, Secretary of Health, Education, and Welfare",Leon Goldfarb,54.0,4,False,minority opinion,Civil Rights,40
+186,51648,Trimble v. Gordon,75-5952,1976,Trimble,Gordon,24.0,4,True,majority opinion,Civil Rights,42
+187,51656,Village of Arlington Heights v. Metropolitan Housing Development Corporation,75-616,1976,Village of Arlington Heights,Metropolitan Housing Development Corporation,19.0,3,True,majority opinion,Civil Rights,32
+188,51673,"United Jewish Organizations of Williamsburgh, Inc. v. Carey",75-104,1976,"United Jewish Organizations of Williamsburgh, Inc.",Carey,76.0,1,False,judge,Civil Rights,36
+189,51677,United States Trust Company of New York v. New Jersey,75-1687,1976,United States Trust Company of New York,New Jersey,19.0,3,True,majority opinion,Economic Activity,41
+190,51675,Ward v. Illinois,76-415,1976,Wesley Ward ,Illinois,8.0,4,False,majority opinion,First Amendment,35
+191,51676,Dobbert v. Florida,76-5306,1976,"Ernest John Dobbert, Jr.",Florida,35.0,3,False,minority opinion,Criminal Procedure,44
+192,51682,Estelle v. Gamble,75-929,1976,"W. J. Estelle, Jr., Director, Texas Department of Corrections, Ralph Gray, Medical Director of the Texas Department of Corrections, H. H. Husbands, Warden of the Walls Unit.",J. W. Gamble,19.0,1,True,majority opinion,Criminal Procedure,25
+193,51689,Manson v. Brathwaite,75-871,1976,"John R. Manson, Commissioner of Correction of the State of Connecticut ",Nowell A. Brathwaite,26.0,2,True,majority opinion,Criminal Procedure,22
+194,51690,Craig v. Boren,75-628,1976,Curtis Craig and Carolyn Whitener,"David Boren, Governor of Oklahoma",6.0,2,True,majority opinion,Civil Rights,23
+195,51703,Mt. Healthy City Bd. of Ed. v. Doyle,75-1278,1976,Mt. Healthy City School District Board of Education,Fred Doyle,25.0,0,True,majority opinion,First Amendment,37
+196,51713,Stump v. Sparkman,76-1750,1977,Judge Harold D. Stump,Linda Kay Spitler Sparkman,14.0,3,True,majority opinion,Civil Rights,35
+197,51715,First National Bank of Boston v. Bellotti,76-1172,1977,"First National Bank of Boston, et al.","Francis X. Bellotti, Attorney General of Massachusetts",40.0,4,True,minority opinion,First Amendment,41
+198,51717,In re Primus,77-56,1977,Edna Smith Primus,United States,17.0,1,True,majority opinion,Attorneys,19
+199,51718,Mincey v. Arizona,77-5353,1977,Rufus Junior Mincey,Arizona,23.0,0,True,majority opinion,Criminal Procedure,34
+200,51727,Zablocki v. Redhail,76-879,1977,Zablocki,Redhail,25.0,1,False,majority opinion,Civil Rights,25
+201,51732,Monell v. Department of Social Services of the City of New York,75-1914,1977,"Jane Monell, et al.","Department of Social Services of the City of New York, et al.",5.0,2,True,majority opinion,Civil Rights,47
+202,51729,Hicklin v. Orbeck,77-324,1977,Hicklin,Orbeck,5.0,0,True,majority opinion,Civil Rights,32
+203,51731,Bordenkircher v. Hayes,76-1334,1977,Bordenkircher,Hayes,49.0,4,True,minority opinion,Criminal Procedure,30
+204,51736,"Landmark Communications, Inc. v. Virginia",76-1450,1977,Landmark Communications Inc.,Virginia,8.0,0,True,majority opinion,First Amendment,25
+205,51734,Pennsylvania v. Mimms,76-1830,1977,Commonwealth of Pennsylvania,Harry Mimms,79.0,3,True,judge,Criminal Procedure,40
+206,51735,Carey v. Piphus,76-1149,1977,"John D. Carey, et al.","Jarius Piphus, et al.",12.0,0,True,majority opinion,Civil Rights,33
+207,51746,"American Broadcasting Companies, Inc. v. Writers Guild of America, West, Inc.",76-1121,1977,"American Broadcasting Companies, Inc.","Writers Guild of America, West, Inc.",7.0,4,True,majority opinion,Unions,49
+208,51754,Michigan v. Tyler,76-1608,1977,Michigan,Loren Tyler and Robert Tompkins,7.0,1,False,majority opinion,Criminal Procedure,34
+209,51759,Exxon Corporation v. Governor of Maryland,77-10,1977,Exxon Corporation et al.,Governor of Maryland  et al.,34.0,1,False,minority opinion,Economic Activity,20
+210,51756,Butz v. Economou,76-709,1977,Butz,Economou,26.0,4,True,majority opinion,Economic Activity,49
+211,51763,Foley v. Connelie,76-839,1977,Foley,Connelie,13.0,3,False,majority opinion,Civil Rights,37
+212,51767,Ballew v. Georgia,76-761,1977,Ballew,Georgia,77.0,0,True,judge,Criminal Procedure,34
+213,51775,Tennessee Valley Authority v. Hill,76-1701,1977,Tennessee Valley Authority,Hiram G. Hill,16.0,3,False,majority opinion,Economic Activity,39
+214,51778,Massachusetts v. United States,76-1500,1977,Massachusetts,United States,6.0,2,False,majority opinion,Federalism,24
+215,51784,Board of Curators of the University of Missouri v. Horowitz,76-695,1977,Board of Curators of the University of Missouri,Charlotte Horowitz,70.0,3,True,minority opinion,Due Process,25
+216,51786,Lockett v. Ohio,76-6997,1977,Lockett,Ohio,94.0,1,True,judge,Criminal Procedure,32
+217,51789,Penn Central Transportation Company v. New York City,77-444,1977,Penn Central Transportation Company,New York City,27.0,3,False,majority opinion,Due Process,31
+218,51793,Hutto v. Finney,76-1660,1977,Hutto,Finney,7.0,4,False,majority opinion,Attorneys,50
+219,51790,Beth Israel Hospital v. National Labor Relations Board,77-152,1977,Beth Israel Hospital,National Labor Relations Board,24.0,0,False,majority opinion,Unions,30
+220,51798,Parker v. Flook,77-642,1977,"Lutrelle F. Parker, Acting Commissioner of Patents and Trademarks",Dale R. Flook,29.0,3,True,majority opinion,Economic Activity,39
+221,51797,Baldwin v. Fish and Game Commission of Montana,76-1150,1977,Baldwin,Fish and Game Commission of Montana,68.0,3,False,minority opinion,Civil Rights,25
+222,51800,McDaniel v. Paty,76-1427,1977,Paul A. McDaniel,"Selma Cash Paty, et al.",91.0,0,True,judge,First Amendment,47
+223,51803,United States v. California,5-orig,1977,United States,California,13.0,3,,majority opinion,,35
+224,51804,Zurcher v. Stanford Daily,76-1484,1977,Zurcher,Stanford Daily,24.0,3,True,majority opinion,Criminal Procedure,25
+225,51811,United States v. Jacobs,76-1193,1977,United States,Estelle Jacobs (aka Mrs. Kramer),97.0,0,False,judge,Judicial Power,43
+226,51820,Federal Communications Commission v. Pacifica Foundation,77-528,1977,Federal Communications Commission,Pacifica Foundation,2.0,4,True,majority opinion,First Amendment,33
+227,51823,Houchins v. KQED Inc.,76-1310,1977,Houchins,KQED Inc.,57.0,3,True,minority opinion,First Amendment,49
+228,51831,"Flagg Bros., Inc. v. Brooks",77-25,1977,"Flagg Bros., Inc., et al.","Shirley Herriott Brooks, et al.",13.0,3,True,majority opinion,Civil Rights,49
+229,51833,Allied Structural Steel Company v. Spannaus,77-747,1977,Allied Structural Steel Company,Spannaus,1.0,3,True,majority opinion,Economic Activity,36
+230,51844,City of Philadelphia v. New Jersey,77-404,1977,City of Philadelphia,New Jersey,3.0,2,True,majority opinion,Economic Activity,22
+231,51849,United States Steel Corporation v. Multistate Tax Commission,76-635,1977,United States Steel Corporation,Multistate Tax Commission,17.0,2,False,majority opinion,Federalism,44
+232,51852,Holloway v. Arkansas,76-5856,1977,"Winston M. Holloway, et al.",State of Arkansas,12.0,3,True,majority opinion,Civil Rights,46
+233,51853,Regents of the University of California v. Bakke,76-811,1977,Regents of the University of California,Allan Bakke,35.0,4,False,minority opinion,Civil Rights,25
+234,51873,City of Los Angeles Department of Water and Power v. Manhart,76-1810,1977,"City of Los Angeles Department of Water and Power, et al.","Marie Manhart, et al.",5.0,2,True,majority opinion,Civil Rights,27
+235,51874,Securities and Exchange Commission v. Sloan,76-1607,1977,Securities and Exchange Commission,Samuel H. Sloan,18.0,0,False,majority opinion,Economic Activity,25
+236,51875,Ohralik v. Ohio State Bar Assn.,76-1650,1977,Albert Ohralik,Ohio State Bar Assn.,3.0,0,False,majority opinion,Attorneys,33
+237,51878,Ambach v. Norwick,76-808,1978,Gordon M. Ambach,Susan M. W. Norwick and Tarja U. K. Dachinger,1.0,4,True,majority opinion,Civil Rights,36
+238,51882,Brown v. Texas,77-6673,1978,Zackary C. Brown,Texas,26.0,0,True,majority opinion,Criminal Procedure,35
+239,51884,Herbert v. Lando,77-1105,1978,Herbert,Lando,45.0,3,True,minority opinion,First Amendment,38
+240,51886,Scott v. Illinois,77-1177,1978,Scott,Illinois,22.0,4,False,majority opinion,Criminal Procedure,18
+241,51889,Smith v. Daily Mail Publishing Company,78-482,1978,Smith,Daily Mail Publishing Company,17.0,0,False,majority opinion,First Amendment,50
+242,51888,"Lo-Ji Sales, Inc. v. New York",78-511,1978,"Lo-Ji Sales, Inc.",New York,6.0,0,True,majority opinion,Criminal Procedure,46
+243,51897,Burch v. Louisiana,78-90,1978,Burch,Louisiana,13.0,0,True,majority opinion,Criminal Procedure,24
+244,51902,Mackey v. Montrym,77-69,1978,Mackey,Montrym,11.0,4,True,majority opinion,Due Process,33
+245,51912,Arkansas v. Sanders,77-1497,1978,Arkansas,Sanders,61.0,2,False,minority opinion,Criminal Procedure,49
+246,51913,Payton v. New York,78-5420,1978,Payton,New York,2.0,3,True,majority opinion,Criminal Procedure,28
+247,51917,Green v. Georgia,78-5944,1978,"Roosevelt Green, Jr.",Georgia,82.0,1,True,judge,Criminal Procedure,37
+248,51916,Toll v. Moreno,77-154,1978,"John S. Toll, President of the University of Maryland","Juan Carlos Moreno, et al.",79.0,0,True,judge,Judicial Power,48
+249,51925,Parham v. Hughes,78-3,1978,Parham,Hughes,79.0,4,False,judge,Civil Rights,21
+250,51927,Orr v. Orr,77-1119,1978,Willam Orr,Lillian Orr,17.0,3,True,majority opinion,Civil Rights,39
+251,51930,Hutchinson v. Proxmire,78-680,1978,Hutchinson,Proxmire,68.0,1,True,minority opinion,First Amendment,24
+252,51944,Bell v. Wolfish,77-1829,1978,Bell,Wolfish,18.0,3,True,majority opinion,Due Process,26
+253,51948,Moore v. Sims,78-6,1978,"Hilmar G. Moore, Raul Jimenez, Jaime Clements","John Pleasant Sims, Mary Carter Sims, Sabrina Marie Sims, Paul Edward Sims, Shawna Evette Sims",28.0,4,True,majority opinion,Judicial Power,39
+254,51953,Personnel Administrator of Massachusetts v. Feeney,78-233,1978,Personnel Administrator of Massachusetts,Feeney,8.0,2,True,majority opinion,Civil Rights,21
+255,51954,Fare v. Michael C.,78-334,1978,"Kenneth F. Fare, Acting Chief Probation Officer ",Michael C.,21.0,4,True,majority opinion,Criminal Procedure,30
+256,51958,Stafford v. Briggs,77-1546,1978,"William H. Stafford, Jr., et al.","John Briggs, et al.",18.0,2,True,majority opinion,Judicial Power,48
+257,51966,Harrah Independent School District v. Martin,78-443,1978,"Harrah Independent School District, et al.",Mary Jane Martin,49.0,0,True,minority opinion,Civil Rights,23
+258,51975,Delaware v. Prouse,77-1571,1978,Delaware,Prouse,15.0,1,False,majority opinion,Criminal Procedure,19
+259,51977,Davis v. Passman,78-5072,1978,Davis,Passman,29.0,4,True,majority opinion,Civil Rights,24
+260,51980,Smith v. Maryland,78-5374,1978,Michael Lee Smith,Maryland,6.0,3,False,majority opinion,Criminal Procedure,28
+261,51994,"United Steelworkers of America, AFL-CIO-CLC v. Weber",78-432,1978,"United Steelworkers of America, AFL-CIO-CLC",Weber,18.0,2,True,majority opinion,Civil Rights,45
+262,51997,North Carolina v. Butler,78-354,1978,North Carolina,Willie Thomas Butler,5.0,3,True,majority opinion,Criminal Procedure,25
+263,52008,Jones v. Wolf,78-91,1978,"R. W. Jones, Sr., et al.",Charles T. Wolf et al.,45.0,4,True,minority opinion,First Amendment,36
+264,52014,Greenholtz v. Inmates of Nebraska Penal and Correctional Complex,78-201,1978,John B. Greenholtz,Inmates of Nebraska Penal and Correctional Complex,3.0,4,True,majority opinion,Due Process,19
+265,52017,City of Mobile v. Bolden,77-1844,1978,City of Mobile,Bolden,79.0,3,True,judge,,35
+266,52019,Duren v. Missouri,77-6067,1978,Billy Duren ,Missouri,25.0,1,True,majority opinion,Civil Rights,19
+267,52021,Vance v. Bradley,77-1254,1978,"Cyrus Vance, Secretary of State et al.",Holbrook Bradley et al.,14.0,1,True,majority opinion,Civil Rights,31
+268,52025,New York City Transit Authority v. Beazer,77-1427,1978,New York City Transit Authority,Carl Beazer et al.,12.0,3,True,majority opinion,Civil Rights,39
+269,52028,Dunaway v. New York,78-5066,1978,Irving Jerome Dunaway,State of New York,42.0,2,True,minority opinion,Criminal Procedure,21
+270,52031,Southeastern Community College v. Davis,78-711,1978,Southeastern Community College,Frances Davis,30.0,0,True,majority opinion,Civil Rights,27
+271,52035,Addington v. Texas,77-5992,1978,Frank O’Neal Addington,Texas,8.0,0,True,majority opinion,Due Process,46
+272,52039,"Wolston v. Reader's Digest Association, Inc.",78-5414,1978,Ilya Wolston,"Reader's Digest Association, Inc., et al.",28.0,1,True,majority opinion,First Amendment,28
+273,52043,Bellotti v. Baird,78-329,1978,Bellotti,Baird,88.0,1,False,judge,Privacy,18
+274,52047,"Gannett Company, Inc. v. DePasquale",77-1301,1978,"Gannett Company, Inc.",DePasquale,18.0,4,False,majority opinion,Criminal Procedure,32
+275,52060,United States v. Raddatz,79-8,1979,United States,Herman Raddatz,62.0,4,True,minority opinion,Due Process,22
+276,52078,Harris v. McRae,79-1268,1979,Harris,McRae,11.0,4,True,majority opinion,Privacy,29
+277,52079,Chiarella v. United States,78-1202,1979,Chiarella,United States,10.0,3,True,majority opinion,Criminal Procedure,50
+278,52092,Richmond Newspapers Inc. v. Virginia,79-243,1979,Richmond Newspapers Inc.,Virginia,82.0,1,True,judge,First Amendment,42
+279,52098,Diamond v. Chakrabarty,79-136,1979,Diamond,Chakrabarty,11.0,4,False,majority opinion,Economic Activity,33
+280,52095,Crown Simpson Pulp Company v. Costle,79-797,1979,"Crown Simpson Pulp Company, et al.",Douglas M. Costle,93.0,0,True,judge,Economic Activity,39
+281,52096,Rush v. Savchuk,78-952,1979,"Randal Rush, et al.",Jeffrey Savchuk,39.0,2,True,minority opinion,Due Process,21
+282,52112,United States v. Sioux Nation of Indians,79-639,1979,United States,Sioux Nation of Indians,4.0,1,False,majority opinion,Civil Rights,22
+283,52119,World-Wide Volkwagen Corporation v. Woodson,78-1078,1979,"World Wide Volkswagen Corp., Seaway Volkswagen Inc.","The Honorable Charles Woodson, District Judge of Creek County, State of Oklahoma; Key Eloise Robinson; Eva May Robinson; Harry Robinson; George Samuel Robinson",17.0,3,True,majority opinion,Due Process,44
+284,52125,Village of Schaumburg v. Citizens for Better Environment,78-1335,1979,Village of Schaumburg,Citizens for Better Environment,24.0,1,False,majority opinion,First Amendment,29
+285,52127,Rhode Island v. Innis,78-1076,1979,Rhode Island,Innis,17.0,3,True,majority opinion,Criminal Procedure,31
+286,52135,Walter v. United States,79-67,1979,William Walter,United States,73.0,4,True,judge,Criminal Procedure,48
+287,52139,Williams v. Zbaraz,79-4,1979,"Jasper F. Williams, et al.","David Zbaraz, et al. ",37.0,4,True,minority opinion,Privacy,32
+288,52142,Snepp v. United States,78-1871,1979,Snepp,United States,96.0,3,False,judge,First Amendment,27
+289,52140,Martinez v. California,78-1268,1979,Martinez,California,27.0,0,False,majority opinion,Civil Rights,28
+290,52147,"Sears, Roebuck and Co. v. County of Los Angeles and City of Compton",78-1577,1979,"Sears, Roebuck and Co.",County of Los Angeles and City of Compton,,4,False,equally divided,,28
+291,52149,Central Hudson Gas & Electric Corporation v. Public Service Commission of New York,79-565,1979,Central Hudson Gas & Electric Corporation,Public Service Commission of New York,23.0,1,True,majority opinion,First Amendment,32
+292,52151,United States v. California,5-orig,1979,United States,California,12.0,0,True,majority opinion,,31
+293,52162,Reeves Inc. v. Stake,79-677,1979,Reeves Inc.,Stake,48.0,4,False,minority opinion,Economic Activity,39
+294,52164,Fullilove v. Klutznick,78-1007,1979,Fullilove,Klutznick,78.0,3,False,judge,Civil Rights,45
+295,52169,Aaron v. SEC,79-66,1979,Peter E. Aaron,Securities and Exchange Commission,23.0,3,True,majority opinion,Economic Activity,34
+296,52183,Ohio v. Roberts,78-756,1979,Ohio,Herschel Roberts,22.0,3,True,majority opinion,Criminal Procedure,31
+297,52185,"American Export Lines, Inc. v. Alvez",79-1,1979,"American Export Lines, Inc.","Gilberto Alvez, Joseph Vinal Ship Maintenance, Inc.",73.0,3,False,judge,Economic Activity,24
+298,52186,Goldwater v. Carter,79-856,1979,Barry Goldwater et al.,"James Earl Carter, President of the United States, et al.",75.0,3,False,judge,,25
+299,52187,PruneYard Shopping Center v. Robins,79-289,1979,PruneYard Shopping Center,Robins,41.0,0,False,minority opinion,Due Process,33
+300,52190,Ybarra v. Illinois,78-5937,1979,Ventura E. Ybarra,State of Illinois,19.0,3,True,majority opinion,Criminal Procedure,19
+301,52188,"Supreme Court of Virginia v. Consumers Union of the United States, Inc.",79-198,1979,"Supreme Court of Virginia, et al.","Consumers Union of the United States, Inc., et al.",7.0,0,True,majority opinion,Civil Rights,31
+302,52196,Rummel v. Estelle,78-6386,1979,Rummel,Estelle,2.0,4,False,majority opinion,Criminal Procedure,29
+303,52210,Godfrey v. Georgia,78-6899,1979,Robert Franklin Godfrey,Georgia,94.0,3,True,judge,Criminal Procedure,48
+304,52211,"Industrial Union Department, AFL-CIO v. American Petroleum Institute",78-911,1979,"Industrial Union Department, AFL-CIO",American Petroleum Institute,84.0,4,False,judge,Unions,42
+305,52217,Trammel v. United States,78-5705,1979,"Otis Trammel, Jr. ",United States,49.0,0,False,minority opinion,Judicial Power,31
+306,52233,New York v. Belton,80-328,1980,New York,Roger Belton,10.0,3,True,majority opinion,Criminal Procedure,20
+307,52243,Flynt v. Ohio,80-420,1980,Larry C. Flynt,State of Ohio,74.0,4,False,judge,First Amendment,47
+308,52253,Democratic Party of United States v. Wisconsin ex rel. La Follette,79-1631,1980,Democratic Party of the United States,Wisconsin ex rel. La Follette,29.0,3,True,majority opinion,First Amendment,32
+309,52257,Chandler v. Florida,79-1260,1980,Chandler,Florida,21.0,0,False,majority opinion,Criminal Procedure,43
+310,52268,"American Textile Mfrs. Institute, Inc. v. Donovan",79-1429,1980,"American Textile Manufacturers Institute, Inc., et al.","Raymond J. Donovan, Secretary of Labor",28.0,3,True,majority opinion,Unions,46
+311,52270,Steagald v. United States,79-6777,1980,Gary Keith Steagald,United States,39.0,2,True,minority opinion,Criminal Procedure,47
+312,52272,Texas Department of Community Affairs v. Burdine,79-1764,1980,Texas Department of Community Affairs,Joyce Ann Burdine,18.0,0,True,majority opinion,Civil Rights,47
+313,52276,Thomas v. Review Board of the Indiana Employment Security Division,79-952,1980,Eddie C. Thomas,Review Board of the Indiana Employment Security Division et al.,4.0,1,True,majority opinion,First Amendment,30
+314,52281,United States v. Morrison,79-395,1980,United States,Hazel Morrison,14.0,0,True,majority opinion,Criminal Procedure,41
+315,52293,Minnesota v. Clover Leaf Creamery Company,79-1171,1980,Minnesota,Clover Leaf Creamery Company,16.0,1,True,majority opinion,Economic Activity,45
+316,52288,Lassiter v. Department of Social Services,79-6423,1980,Abby Gail Lassiter,"Department of Social Services of Durham County, North Carolina",14.0,4,False,majority opinion,Criminal Procedure,36
+317,52294,United States v. Will,79-983,1980,United States,Will,46.0,0,True,minority opinion,Miscellaneous,43
+318,52299,Rostker v. Goldberg,80-251,1980,Rostker,Goldberg,13.0,3,True,majority opinion,Civil Rights,27
+319,52313,Stone v. Graham,80-321,1980,Stone,Graham,74.0,4,True,judge,First Amendment,27
+320,52308,Michigan v. Summers,79-1794,1980,Michigan,Summers,13.0,3,True,majority opinion,Criminal Procedure,24
+321,52320,Michael M. v. Superior Court of Sonoma County,79-1344,1980,Michael M.,Superior Court of Sonoma County,81.0,4,False,judge,Civil Rights,39
+322,52323,Haig v. Agee,80-83,1980,Haig,Agee,16.0,2,True,majority opinion,First Amendment,23
+323,52325,Diamond v. Diehr,79-1112,1980,Diamond,Diehr,40.0,4,False,minority opinion,Economic Activity,49
+324,52332,United States Railroad Retirement Board v. Fritz,79-870,1980,United States Railroad Retirement Board,Gerhard H. Fritz,27.0,2,True,majority opinion,Civil Rights,21
+325,52344,"Metromedia, Inc. v. City of San Diego",80-195,1980,"Metromedia, Inc. et al.",City of San Diego et al.,80.0,3,True,judge,First Amendment,27
+326,52347,Robbins v. California,80-148,1980,Jeffrey Richard Robbins,California,80.0,3,True,judge,Criminal Procedure,45
+327,52349,"Heffron v. International Soc. for Krishna Consciousness, Inc.",80-795,1980,Heffron,"International Soc. for Krishna Consciousness, Inc.",20.0,4,True,majority opinion,First Amendment,21
+328,52352,Dames & Moore v. Regan,80-2078,1980,Dames & Moore,Regan,18.0,1,False,majority opinion,Due Process,30
+329,52356,Kassel v. Consolidated Freightways Corporation of Delaware,79-1320,1980,Kassel,Consolidated Freightways Corporation of Delaware,44.0,3,False,minority opinion,Economic Activity,33
+330,52370,"CBS, Inc. v. Federal Communications Commission",80-207,1980,"CBS, Inc.",Federal Communications Commission,19.0,3,False,majority opinion,Economic Activity,21
+331,52372,Watkins v. Sowders,79-5949,1980,John Gregory Watkins,Dewey Sowders,12.0,2,False,majority opinion,Criminal Procedure,31
+332,52384,Piper Aircraft Company v. Reyno,80-848,1981,Piper Aircraft Company,Reyno,9.0,3,True,majority opinion,Judicial Power,33
+333,52388,Mississippi University for Women v. Hogan,81-406,1981,Mississippi University for Women,Hogan,1.0,4,False,majority opinion,Civil Rights,45
+334,52393,Washington v. Chrisman,81-1349,1981,Washington,Chrisman,17.0,3,True,majority opinion,,47
+335,52399,Weinberger v. Romero-Barcelo,80-1990,1981,"Caspar W. Weinberger, Secretary of Defense","Carlos Romero-Barcelo, Radamees Tirado Guevara, Environmental Quality Board",31.0,1,True,minority opinion,Economic Activity,27
+336,52403,Edgar v. MITE Corporation,80-1188,1981,Edgar,MITE Corporation,4.0,3,False,majority opinion,Economic Activity,32
+337,52414,"Lugar v. Edmondson Oil Company, Inc.",80-1730,1981,Giles M. Lugar,"Edmondson Oil Company, Inc.",8.0,4,True,majority opinion,Civil Rights,38
+338,52419,"Board of Education, Island Trees Union Free School District No. 26 v. Pico by Pico",80-2043,1981,"Board of Education, Island Trees Union Free School District No. 26",Pico by Pico,100.0,4,False,judge,First Amendment,22
+339,52423,Nixon v. Fitzgerald,79-1738,1981,Nixon,Fitzgerald,14.0,4,True,majority opinion,Economic Activity,19
+340,52428,Washington v. Seattle School District No. 1,81-9,1981,Washington,Seattle School District No. 1,4.0,4,False,majority opinion,Civil Rights,49
+341,52440,Eddings v. Oklahoma,80-5727,1981,Monty Lee Eddings,Oklahoma,49.0,4,True,minority opinion,Criminal Procedure,22
+342,52462,"Valley Forge Christian College v. Americans United for Separation of Church and State, Inc.",80-327,1981,Valley Forge Christian College,"Americans United for Separation of Church and State, Inc.",1.0,4,True,majority opinion,Judicial Power,44
+343,52461,Rogers v. Lodge,80-2100,1981,Rogers,Lodge,21.0,3,False,majority opinion,Civil Rights,50
+344,52466,"Florida Department of State v. Treasure Salvors, Inc.",80-1348,1981,Florida Department of State,"Treasure Salvors, Inc.",93.0,4,False,judge,Judicial Power,33
+345,52468,Widmar v. Vincent,80-689,1981,Gary E. Widmar,Clark Vincent,25.0,1,False,majority opinion,First Amendment,19
+346,52474,"Board of Ed. of Hendrick Hudson Central School Dist., Westchester Cty. v. Rowley",80-1002,1981,"Board of Education of the Hendrick Hudson Central School District, Westchester County, The Commissioner of Education of the State of New York","Amy Rowley, by her parents Clifford and Nancy Rowley, and Clifford and Nacy Rowley in their own right",16.0,3,True,majority opinion,Civil Rights,24
+347,52490,Rodriguez v. Popular Democratic Party,81-328,1981,Rodriguez,Popular Democratic Party,39.0,0,False,minority opinion,Civil Rights,21
+348,52491,Youngberg v. Romeo,80-1429,1981,Duane Youngberg,Nicholas Romeo,8.0,0,True,majority opinion,Due Process,31
+349,52496,"Globe Newspaper Co. v. Superior Court, County of Norfolk",81-611,1981,Globe Newspaper Co.,"Superior Court, County of Norfolk",13.0,3,True,majority opinion,First Amendment,20
+350,52494,Engle v. Isaac,80-1430,1981,"Ted Engle, Superintendant, Chillicothe Correctional Institute","Lincoln Isaac, et al.",6.0,2,True,majority opinion,Criminal Procedure,33
+351,52501,New York v. Ferber,81-55,1981,New York,Ferber,4.0,0,True,majority opinion,First Amendment,40
+352,52507,American Tobacco Company v. Patterson,80-1199,1981,"American Tobacco Company, et al.","John Patterson, et al.",13.0,4,True,majority opinion,Civil Rights,48
+353,52511,National Association for the Advancement of Colored People v. Claiborne Hardware Company,81-202,1981,National Association for the Advancement of Colored People,Claiborne Hardware Company,56.0,0,True,minority opinion,First Amendment,43
+354,52514,Larson v. Valente,80-1666,1981,"John R. Larson, et al.","Pamela Valente, et al.",15.0,4,False,majority opinion,First Amendment,33
+355,52530,Northern Pipeline Constr. Company v. Marathon Pipe Line Company,81-150,1981,Northern Pipeline Constr. Company,Marathon Pipe Line Company,80.0,3,False,judge,Judicial Power,28
+356,52531,United Mine Workers of America Health & Retirement Funds v. Robinson,81-61,1981,United Mine Workers of America Health & Retirement Funds,"Gracie Robinson and Juanita Hager, et al.",27.0,0,True,majority opinion,Unions,22
+357,52532,United States v. Lee,80-767,1981,United States,Edwin D. Lee,13.0,0,True,majority opinion,First Amendment,28
+358,52535,United States v. Ross,80-2209,1981,United States,Ross,29.0,3,True,majority opinion,Criminal Procedure,21
+359,52537,INS v. Chadha,80-1832,1981,Chadha,Immigration and Naturalization Service (INS),54.0,2,False,minority opinion,Miscellaneous,18
+360,52540,Enmund v. Florida,81-5321,1981,Earl Enmund ,Florida,5.0,4,True,majority opinion,Criminal Procedure,20
+361,52541,United States v. MacDonald,80-1582,1981,United States,MacDonald,13.0,3,True,majority opinion,Criminal Procedure,30
+362,52552,Plyler v. Doe,80-1538,1981,Plyler,Doe,27.0,4,False,majority opinion,Civil Rights,29
+363,52549,North Haven Bd. of Educ. v. Bell,80-986,1981,North Haven Bd. of Educ.,Bell,22.0,3,False,majority opinion,Civil Rights,33
+364,52559,Harlow v. Fitzgerald,80-945,1981,Bryce Harlow and Alexander Butterfield,A. Ernest Fitzgerald,6.0,1,True,majority opinion,Economic Activity,26
+365,52571,Regan v. Taxation With Representation of Washington,81-2338,1982,"Donald Regan, Secretary of the Treasury",Taxation With Representation of Washington,36.0,0,True,minority opinion,First Amendment,25
+366,52584,City of Los Angeles v. Lyons,81-1064,1982,City of Los Angeles,Lyons,4.0,4,False,majority opinion,Judicial Power,33
+367,52581,United States v. Rodgers,81-1476,1982,United States,Rodgers,15.0,4,True,majority opinion,Federal Taxation,40
+368,52583,Solem v. Helm,82-492,1982,Solem,Helm,18.0,4,False,majority opinion,Criminal Procedure,34
+369,52597,Martinez v. Bynum,81-857,1982,Martinez,Bynum,17.0,1,False,majority opinion,Civil Rights,31
+370,52603,Pacific Gas & Electric Company v. State Energy Resources Conservation and Development Commission,81-1945,1982,Pacific Gas & Electric Company,State Energy Resources Conservation and Development Commission,24.0,0,False,majority opinion,Federalism,21
+371,52623,Exxon Corporation v. Eagerton,81-1020,1982,Exxon Corporation,Ralph P. Eagerton Jr.,42.0,0,True,minority opinion,Economic Activity,26
+372,52631,Marsh v. Chambers,82-23,1982,Marsh,Chambers,2.0,3,True,majority opinion,First Amendment,29
+373,52635,Kolender v. Lawson,81-1320,1982,Kolender,Lawson,14.0,2,False,majority opinion,Due Process,34
+374,52638,United States v. Knotts,81-1802,1982,United States,Leroy Carlton Knotts,20.0,0,True,majority opinion,Criminal Procedure,27
+375,52636,"Motor Vehicle Manufacturers Association of the United States, Inc. v. State Farm Mutual Automobile Insurance Company",82-354,1982,"Motor Vehicle Manufacturers Association of the United States, et al.","State Farm Mutual Automobile Insurance Company, et al.",1.0,0,True,majority opinion,Judicial Power,45
+376,52652,Verlinden B. V. v. Central Bank of Nigeria,81-920,1982,Verlinden B. V.,Central Bank of Nigeria,12.0,0,True,majority opinion,Judicial Power,46
+377,52659,Lehr v. Robertson,81-1756,1982,Jonathan Lehr,"Lorrain Robertson, Richard N. Robinson",47.0,3,False,minority opinion,Civil Rights,40
+378,52670,"Falls City Industries, Inc. v. Vanco Beverage, Inc.",81-1271,1982,"Falls City Industries, Inc.","Vanco Beverage, Inc.",9.0,0,True,majority opinion,Economic Activity,45
+379,52672,Akron v. Akron Center For Reproductive Health,81-746,1982,Akron,Akron Center For Reproductive Health,21.0,3,False,majority opinion,Privacy,18
+380,52673,Michigan v. Long,82-256,1982,Michigan,Long,16.0,3,True,majority opinion,Criminal Procedure,21
+381,52677,Simopoulos v. Virginia,81-185,1982,Chris Simopoulos ,Virginia,4.0,1,False,majority opinion,Privacy,37
+382,52682,"Sony Corporation of America v. Universal City Studios, Inc.",81-1687,1982,Sony Corporation of America,"Universal City Studios, Inc.",4.0,4,True,majority opinion,Economic Activity,40
+383,52686,Bob Jones University v. United States,81-3,1982,Bob Jones University,United States,63.0,1,False,minority opinion,Civil Rights,32
+384,52690,Minneapolis Star & Tribune Company v. Minnesota Commissioner of Revenue,81-1839,1982,Minneapolis Star & Tribune Company,Minnesota Commissioner of Revenue,7.0,1,True,majority opinion,First Amendment,44
+385,52695,United States v. Place,81-1617,1982,United States,Raymond J. Place,26.0,0,False,majority opinion,Criminal Procedure,22
+386,52697,Mueller v. Allen,82-195,1982,Mueller,Allen,14.0,4,False,majority opinion,First Amendment,21
+387,52698,Barefoot v. Estelle,82-6080,1982,Thomas A. Barefoot,"W.J. Estelle, Director, Texas Department of Corrections",5.0,3,False,majority opinion,Criminal Procedure,48
+388,52699,Karcher v. Daggett,81-2057,1982,Karcher,Daggett,21.0,4,False,majority opinion,Civil Rights,43
+389,52705,Dirks v. Securities and Exchange Commission,82-276,1982,Raymond L. Dirks,Securities and Exchange Commission,66.0,3,True,minority opinion,Economic Activity,44
+390,52707,Connick v. Myers,81-1251,1982,Harry Connick ,Sheila Meyers,3.0,4,True,majority opinion,First Amendment,43
+391,52712,Zant v. Stephens,81-89,1982,"Walter Zant, Warden of Georgia Diagnostic and Classification Center ",Alpha Otis O'Daniel Stephens,4.0,2,True,majority opinion,Criminal Procedure,23
+392,52709,Perry Education Association v. Perry Local Educators' Association,81-896,1982,Perry Education Association,Perry Local Educators' Association,20.0,4,True,majority opinion,First Amendment,43
+393,52717,Brown v. Thomson,82-65,1982,Brown,Thomson,13.0,4,False,majority opinion,Civil Rights,35
+394,52724,IIllinois v. Gates,81-430,1982,Illinois,"Lance Gates, et ux",21.0,3,True,majority opinion,Criminal Procedure,43
+395,52741,"Energy Reserves Group, Inc. v. Kansas City Power & Light Company",81-1370,1982,"Energy Reserves Group, Inc.",Kansas City Power & Light Company,49.0,0,False,minority opinion,Economic Activity,38
+396,52745,Bush v. Lucas,81-469,1982,Bush,Lucas,21.0,0,False,majority opinion,Economic Activity,38
+397,52747,Hawaii Housing Authority v. Midkiff,83-141,1983,Hawaii Housing Authority,Midkiff,20.0,0,True,majority opinion,Due Process,25
+398,52748,Roberts v. United States Jaycees,83-724,1983,Roberts,United States Jaycees,13.0,0,True,majority opinion,First Amendment,20
+399,52749,Immigration and Naturalization Service v. Phinpathya,82-91,1983,Immigration and Naturalization Service,Padungsri Phinpathya,1.0,0,True,majority opinion,Civil Rights,28
+400,52761,Florida v. Meyers,83-1279,1983,Florida,Meyers,73.0,3,True,judge,Criminal Procedure,50
+401,52762,Koehler v. Engle,83-1,1983,Koehler,Engle,41.0,4,False,minority opinion,Criminal Procedure,18
+402,52769,United States v. Yermian,83-346,1983,United States,Esmail Yermian,13.0,4,True,majority opinion,Criminal Procedure,32
+403,52770,National Collegiate Athletic Association v. Board of Regents of the University of Oklahoma,83-271,1983,NCAA,"Board of Regents of the University of Oklahoma, et al.",14.0,2,False,majority opinion,Economic Activity,28
+404,52778,Hishon v. King & Spalding,82-940,1983,Elizabeth Anderson Hishon,King & Spalding,26.0,0,True,majority opinion,Civil Rights,25
+405,52781,Selective Service System v. Minnesota Public Interest Research Group,83-276,1983,Selective Service System,Minnesota Public Interest Research Group,10.0,2,True,majority opinion,Criminal Procedure,37
+406,52783,Garcia v. San Antonio Metro. Transit Authority,82-1913,1983,Garcia,San Antonio Metro. Transit Authority,19.0,4,True,majority opinion,Unions,47
+407,52785,"Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc.",82-1005,1983,Chevron U.S.A. Inc.,"Natural Resources Defense Council, Inc. et al.",52.0,0,True,minority opinion,Economic Activity,28
+408,52796,Michigan v. Clifford,82-357,1983,Michigan,Raymond Clifford and Emma Jean Clifford,83.0,4,False,judge,Criminal Procedure,49
+409,52803,"Capital Cities Cable, Inc. v. Crisp",82-1795,1983,"Capital Cities Cable, Inc.",Crisp,9.0,0,True,majority opinion,Federalism,48
+410,52807,Strickland v. Washington,82-1554,1983,Strickland,Washington,24.0,1,True,majority opinion,Civil Rights,28
+411,52814,INS v. Lopez-Mendoza,83-491,1983,INS,Lopez-Mendoza,4.0,4,True,majority opinion,Criminal Procedure,41
+412,52818,United States v. S.A. Empressa de Viacao Aerea Rio Grandense (Varig Airlines),82-1349,1983,United States,S.A. Empressa de Viacao Aerea Rio Grandense (Varig Airlines),13.0,0,True,majority opinion,Economic Activity,35
+413,52819,"Dun & Bradstreet, Inc. v. Greenmoss Builders, Inc.",83-18,1983,"Dun & Bradstreet, Inc.","Greenmoss Builders, Inc.",36.0,4,False,minority opinion,First Amendment,18
+414,52836,New York v. Quarles,82-1213,1983,New York,Quarles,4.0,4,True,majority opinion,Criminal Procedure,41
+415,52838,Heckler v. Matthews,82-1050,1983,Heckler,Matthews,17.0,0,True,majority opinion,Civil Rights,37
+416,52841,"Sure-Tan, Inc. v. National Labor Relations Board",82-945,1983,"Sure-Tan, Inc., et al.",National Labor Relations Board,14.0,2,False,majority opinion,Civil Rights,39
+417,52842,Bacchus Imports Ltd. v. Dias,82-1565,1983,Bacchus Imports Ltd.,Dias,27.0,3,True,majority opinion,Economic Activity,47
+418,52844,Nix v. Williams,82-1651,1983,Nix,Williams,21.0,2,True,majority opinion,Criminal Procedure,19
+419,52843,"Bose Corporation v. Consumers Union of United States, Inc.",82-1246,1983,Bose Corporation,"Consumers Union of United States, Inc.",42.0,3,False,minority opinion,First Amendment,47
+420,52848,New Jersey v. T.L.O.,83-712,1983,New Jersey,T.L.O.,8.0,3,True,majority opinion,,46
+421,52849,Massachusetts v. Sheppard,82-963,1983,Massachusetts,Osborne Sheppard,10.0,2,True,majority opinion,Criminal Procedure,30
+422,52850,Berkemer v. McCarty,83-710,1983,"Harry J. Berkemer, Sheriff of Franklin County, Ohio",Richard N. McCarty,28.0,0,False,majority opinion,Criminal Procedure,31
+423,52854,United States v. Leon,82-1771,1983,United States,Alberto Leon,27.0,3,True,majority opinion,Criminal Procedure,23
+424,52855,Commissioner of Internal Revenue v. Engle,82-599,1983,"Commissioner of Internal Revenue, Philip D. Farmar, et al.","Fred L. Engle et ux., United States",10.0,4,False,majority opinion,Federal Taxation,33
+425,52858,United States v. Karo,83-850,1983,United States,"James Karo, et al.",30.0,3,True,minority opinion,Criminal Procedure,30
+426,52860,Clark v. Community for Creative Non-Violence,82-1998,1983,Clark,Community for Creative Non-Violence,5.0,2,True,majority opinion,First Amendment,40
+427,52861,Irving Independent School District v. Tatro,83-558,1983,Irving Independent School District,"Henri Tatro, et ex.",22.0,0,False,majority opinion,Civil Rights,38
+428,52862,Minnesota v. Murphy,82-827,1983,Minnesota,Marshall Donald Murphy,24.0,3,True,majority opinion,Criminal Procedure,42
+429,52867,Federal Communications Commission v. League of Women Voters of California,82-912,1983,League of Women Voters of California,Federal Communications Commission,11.0,4,False,majority opinion,First Amendment,25
+430,52866,Grove City College v. Bell,82-792,1983,Grove City College,Bell,4.0,2,False,majority opinion,Civil Rights,18
+431,52869,Palmore v. Sidoti,82-1734,1983,Palmore,Sidoti,53.0,0,True,minority opinion,Civil Rights,39
+432,52872,Waller v. Georgia,83-321,1983,Waller,Georgia,27.0,0,True,majority opinion,Criminal Procedure,28
+433,52870,California v. Trombetta,83-305,1983,California,Trombetta,29.0,0,True,majority opinion,Due Process,45
+434,52871,Hudson v. Palmer,82-1630,1983,Hudson,Palmer,22.0,4,True,majority opinion,Criminal Procedure,21
+435,52873,United States v. Jacobsen,82-1167,1983,United States,Bradley Thomas Jacobsen and Donna Marie Jacobsen,29.0,2,True,majority opinion,Criminal Procedure,27
+436,52878,McKaskle v. Wiggins,82-1135,1983,"Dan V. McKaskle, Acting Director of the Texas Department of Corrections",Carl Edwin Wiggins,27.0,3,True,majority opinion,Criminal Procedure,23
+437,52880,Lynch v. Donnelly,82-1256,1983,Lynch,Donnelly,53.0,4,True,minority opinion,First Amendment,43
+438,52887,Schall v. Martin,82-1248,1983,"Ellen Schall, Commissioner of New York City Department of Juvenile Justice","Gregory Martin, et al.",16.0,3,True,majority opinion,Civil Rights,34
+439,52899,Calder v. Jones,82-1401,1983,"Ian Calder, John South",Shirley Jones,13.0,0,False,majority opinion,Due Process,31
+440,52904,Oliver v. United States,82-15,1983,Oliver,United States,21.0,3,False,majority opinion,Criminal Procedure,27
+441,52902,United States v. Cronic,82-660,1983,United States,Harrison P. Cronic,25.0,0,True,majority opinion,Criminal Procedure,32
+442,52907,Pulliam v. Allen,82-1432,1983,"Gladys Pulliam, Magistrate for the County of Culpeper, Virginia",Richmond Allen and Jesse Nicholson,2.0,4,False,majority opinion,Civil Rights,31
+443,52913,Block v. Rutherford,83-317,1983,Block,Rutherford,54.0,3,True,minority opinion,Due Process,42
+444,52919,Heckler v. Day,82-1371,1983,Heckler,Day,16.0,4,True,majority opinion,Civil Rights,18
+445,52924,United States v. Stauffer Chemical Company,82-1448,1983,United States,Stauffer Chemical Company,16.0,0,False,majority opinion,Judicial Power,33
+446,52923,"Keeton v. Hustler Magazine, Inc.",82-485,1983,Keeton,"Hustler Magazine, Inc.",29.0,0,True,majority opinion,Due Process,41
+447,52926,Allen v. Wright,81-757,1983,Allen,Wright,1.0,3,True,majority opinion,Judicial Power,36
+448,52929,Wallace v. Jaffree,83-812,1984,Wallace,Jaffree,7.0,3,False,majority opinion,First Amendment,21
+449,52936,"City of Cleburne, Texas v. Cleburne Living Center, Inc.",84-468,1984,"City of Cleburne, Texas","Cleburne Living Center, Inc.",49.0,0,False,minority opinion,Economic Activity,27
+450,52948,United States v. Miller,83-1750,1984,United States,James Rual Miller,9.0,0,True,majority opinion,Criminal Procedure,29
+451,52954,California v. Carney,83-859,1984,California,Charles R. Carney,22.0,3,True,majority opinion,Criminal Procedure,37
+452,52958,Wilson v. Garcia,83-2146,1984,Wilson,Garcia,27.0,1,False,majority opinion,Civil Rights,29
+453,52979,Heckler v. Chaney,83-1878,1984,Heckler,Chaney,19.0,0,True,majority opinion,Judicial Power,46
+454,52984,Wayte v. United States,83-1292,1984,Wayte,United States,27.0,2,False,majority opinion,First Amendment,32
+455,52982,United States v. Bagley,84-48,1984,United States,Hughes Anderson Bagley,37.0,3,True,minority opinion,Criminal Procedure,47
+456,52986,"Estate of Thornton v. Caldor, Inc.",83-1158,1984,Estate of Thornton,"Caldor, Inc.",20.0,1,False,majority opinion,First Amendment,23
+457,53024,McDonald v. Smith,84-476,1984,Robert McDonald,David I. Smith,26.0,0,False,majority opinion,First Amendment,22
+458,53027,Aguilar v. Felton,84-237,1984,Aguilar,Felton,25.0,4,False,majority opinion,First Amendment,48
+459,53028,"Harper & Row, Publishers, Inc. v. Nation Enterprises",83-1632,1984,"Harper & Row, Publishers, Inc.",Nation Enterprises,25.0,3,True,majority opinion,Economic Activity,20
+460,53030,Board of Ed. of Oklahoma City v. National Gay Task Force,83-2030,1984,Board of Education of Oklahoma City ,National Gay Task Force,,4,False,equally divided,First Amendment,19
+461,53034,United States v. Montoya de Hernandez,84-755,1984,United States,Rosa Elvira Montoya de Hernandez,46.0,2,True,minority opinion,Criminal Procedure,29
+462,53029,"Mitsubishi Motors Corporation v. Soler Chrysler-Plymouth, Inc.",83-1569,1984,Mitsubishi Motors Corporation,"Soler Chrysler-Plymouth, Inc.",5.0,3,True,majority opinion,Economic Activity,41
+463,53039,"Northeast Bancorp, Inc. v. Board of Governors of the Federal Reserve System",84-363,1984,"Northeast Bancorp, Inc.",Board of Governors of the Federal Reserve System,6.0,0,False,majority opinion,Economic Activity,27
+464,53040,School Committee of the Town of Burlington v. Department of Education of Massachusetts,84-433,1984,"School Committee of Burlington, Massachusetts, et al.","Department of Education of the Commonwealth of Massachusetts, et al.",8.0,0,False,majority opinion,Civil Rights,21
+465,53038,Williamson County Regional Planning Commission v. Hamilton Bank of Johnson City,84-4,1984,Williamson County Regional Planning Commission,Hamilton Bank of Johnson City,3.0,0,True,majority opinion,Due Process,48
+466,53048,Commodity Futures Trading Commission v. Weintraub,84-261,1984,Commodity Futures Trading Commission,"Gary Weintraub, Frank H. McGhee, Andrew McGhee",10.0,0,True,majority opinion,Economic Activity,22
+467,53050,Cleveland Board of Education v. Loudermill,83-1362,1984,Cleveland Board of Education,James Loudermill,40.0,1,False,minority opinion,Due Process,49
+468,53046,Federal Election Commission v. National Conservative Political Action Committee,83-1032,1984,Federal Election Commission,National Conservative Political Action Committee,9.0,2,False,majority opinion,First Amendment,39
+469,53051,Tennessee v. Garner,83-1035,1984,Tennessee,Garner,2.0,3,False,majority opinion,Criminal Procedure,39
+470,53053,Ake v. Oklahoma,83-5424,1984,Glen Burton Ake,Oklahoma,18.0,1,True,majority opinion,Civil Rights,33
+471,53057,City of Oklahoma City v. Tuttle,83-1919,1984,City of Oklahoma City,"Rose Marie Tuttle, Individually and as Administratrix of the Estate of Tuttle",74.0,1,True,judge,Civil Rights,46
+472,53065,United States v. Abel,83-935,1984,United States,John Clyde Abel,21.0,0,True,majority opinion,Criminal Procedure,42
+473,53076,Oregon v. Elstad,83-773,1984,Oregon,Elstad,70.0,3,True,minority opinion,Criminal Procedure,24
+474,53090,Supreme Court of New Hampshire v. Piper,83-1466,1984,Supreme Court of New Hampshire,Piper,24.0,1,False,majority opinion,Civil Rights,32
+475,53091,School District of the City of Grand Rapids v. Ball,83-990,1984,"School District of the City of Grand Rapids, et al.","Phyllis Ball, et al.",11.0,4,False,majority opinion,First Amendment,41
+476,53094,Winston v. Lee,83-1334,1984,"Andrew J. Winston, Sheriff, et al.","Rudolph Lee, Jr.",2.0,0,False,majority opinion,Criminal Procedure,31
+477,53099,"City of Renton v. Playtime Theatres, Inc.",84-1360,1985,City of Renton,"Playtime Theatres, Inc.",14.0,2,True,majority opinion,First Amendment,25
+478,53102,Bethel School District No. 403 v. Fraser,84-1667,1985,Bethel School District No. 403,"Matthew N. Fraser, a minor, and E.L. Fraser, Guardian Ad Litem",13.0,2,True,majority opinion,First Amendment,34
+479,53103,Dow Chemical Company v. United States,84-1259,1985,Dow Chemical Company,United States,61.0,4,False,minority opinion,Criminal Procedure,24
+480,53118,Regents of the University of Michigan v. Ewing,84-1273,1985,Regents of the University of Michigan,Ewing,25.0,0,True,majority opinion,Due Process,43
+481,53119,"Meritor Savings Bank, FSB v. Vinson",84-1979,1985,"Meritor Savings Bank, FSB",Vinson,10.0,0,False,majority opinion,Civil Rights,31
+482,53120,Batson v. Kentucky,84-6263,1985,Batson,Kentucky,17.0,2,True,majority opinion,Civil Rights,45
+483,53124,Thornburgh v. American College of Obstetricians and Gynecologists,84-495,1985,Thornburgh,American College of Obstetricians and Gynecologists,27.0,4,False,majority opinion,Privacy,25
+484,53131,California v. Ciraolo,84-1513,1985,California,Ciraolo,22.0,4,True,majority opinion,Criminal Procedure,45
+485,53134,Lockhart v. McCree,84-1865,1985,Lockhart,McCree,49.0,3,True,minority opinion,Criminal Procedure,25
+486,53147,Pennsylvania v. Delaware Valley Citizens' Council for Clean Air,85-5,1985,Pennsylvania,Delaware Valley Citizens' Council for Clean Air,70.0,3,True,judge,Attorneys,37
+487,53145,Local 28 of the Sheet Metal Workers' International Association v. Equal Employment Opportunity Commission,84-1656,1985,Local 28 of the Sheet Metal Workers' International Association,Equal Employment Opportunity Commission,7.0,4,False,majority opinion,Civil Rights,41
+488,53149,Murray v. Carrier,84-1554,1985,Murray,Carrier,26.0,2,True,majority opinion,Criminal Procedure,20
+489,53148,"Press-Enterprise Co. v. Superior Court of Cal., County of Riverside",84-1560,1985,Press-Enterprise Co.,Superior Court of California for the County of Riverside,27.0,2,True,majority opinion,First Amendment,19
+490,53154,Goldman v. Weinberger,84-1097,1985,Goldman,Weinberger,1.0,4,False,majority opinion,First Amendment,26
+491,53152,Michigan v. Jackson,84-1531,1985,Michigan,Robert Bernard Jackson,68.0,3,False,minority opinion,Criminal Procedure,20
+492,53159,United States v. American College of Physicians,84-1737,1985,United States,American College of Physicians,11.0,0,True,majority opinion,Federal Taxation,39
+493,53163,Vasquez v. Hillery,84-836,1985,Vasquez,Hillery,21.0,3,False,majority opinion,Civil Rights,41
+494,53160,United States v. City of Fulton,84-1725,1985,United States,City of Fulton,16.0,0,True,majority opinion,Judicial Power,32
+495,53169,Heath v. Alabama,84-5555,1985,Larry Gene Heath,Alabama,2.0,2,False,majority opinion,Criminal Procedure,38
+496,53176,Bowers v. Hardwick,85-140,1985,Bowers,Hardwick,1.0,4,True,majority opinion,Privacy,20
+497,53180,McLaughlin v. United States,85-5189,1985,McLaughlin,United States,32.0,0,False,minority opinion,Criminal Procedure,34
+498,53208,Turner v. Murray,84-6646,1985,Turner,Murray,29.0,2,True,majority opinion,Criminal Procedure,29
+499,53207,"United States v. Hughes Properties, Inc.",85-554,1985,United States,"Hughes Properties, Inc.",29.0,2,False,majority opinion,Federal Taxation,29
+500,53212,City of Riverside v. Rivera,85-224,1985,City of Riverside,Rivera,78.0,4,False,judge,Attorneys,33
+501,53214,East River Steamship Corporation v. Transamerica Delaval Inc.,84-1726,1985,East River Steamship Corporation,Transamerica Delaval Inc.,25.0,0,False,majority opinion,Economic Activity,20
+502,53217,"Anderson v. Liberty Lobby, Inc.",84-1602,1985,Anderson,"Liberty Lobby, Inc.",5.0,3,True,majority opinion,First Amendment,48
+503,53218,Wygant v. Jackson Board of Education,84-1340,1985,Wygant,Jackson Board of Education,60.0,4,True,minority opinion,Civil Rights,30
+504,53219,Maine v. Taylor,85-62,1985,Maine,Taylor,7.0,1,True,majority opinion,Economic Activity,50
+505,53223,"Square D Company v. Niagara Frontier Tariff Bureau, Inc.",85-21,1985,"Square D Company, et al.","Niagara Frontier Tariff Bureau, Inc., et al.",23.0,1,False,majority opinion,Economic Activity,47
+506,53229,Witters v. Washington Department of Services for the Blind,84-1070,1985,Larry Witters,Washington Department of Services for the Blind,29.0,0,True,majority opinion,First Amendment,42
+507,53228,Federal Deposit Insurance Corporation v. Philadelphia Gear Corporation,84-1972,1985,Federal Deposit Insurance Corporation,Philadelphia Gear Corporation,10.0,3,True,majority opinion,Economic Activity,47
+508,53231,Moran v. Burbine,84-1485,1985,"John Moran, Superintendent of the Rhode Island Dept. of Corrections ",Brian K. Burbine,27.0,3,True,majority opinion,Criminal Procedure,42
+509,53233,Bowen v. Roy,84-780,1985,"Otis R. Bowen, Secretary of Health and Human Services; John R. Block, Secretary of Agriculture; Walter Cohen, Secretary of the Pennsylvania Department of Public Welfare ",Stephen J. Roy and Karen Miller,48.0,1,True,minority opinion,First Amendment,24
+510,53242,Malley v. Briggs,84-1586,1985,Edward Malley and Rhode Island,James R. Briggs and Louisa Briggs,4.0,2,False,majority opinion,Civil Rights,48
+511,53241,Ford v. Wainwright,85-5542,1985,Ford,Wainwright,30.0,4,True,majority opinion,Criminal Procedure,39
+512,53240,"Posadas de Puerto Rico Associates, dba Condado Holiday Inn v. Tourism Company of Puerto Rico",84-1903,1985,"Posadas de Puerto Rico Associates, dba Condado Holiday Inn",Tourism Company of Puerto Rico,18.0,4,False,majority opinion,First Amendment,37
+513,53254,Thornburg v. Gingles,83-1968,1985,"Lacy H. Thornburg, Attorney General of North Carolina",Ralph Gingles et al.,3.0,0,False,majority opinion,Civil Rights,41
+514,53253,Davis v. Bandemer,84-1244,1985,Davis,Bandemer,1.0,3,True,majority opinion,Civil Rights,24
+515,53256,"New York v. P. J. Video, Inc.",85-363,1985,New York,"P. J. Video, Inc. et al.",43.0,3,True,minority opinion,First Amendment,28
+516,53257,Philadelphia Newspapers Inc. v. Hepps,84-1491,1985,Philadelphia Newspapers Inc.,Hepps,28.0,4,True,majority opinion,First Amendment,30
+517,53259,Firefighters v. City of Cleveland,84-1999,1985,Firefighters,City of Cleveland,24.0,3,False,majority opinion,Civil Rights,39
+518,53258,"Ohio Civil Rights Commission v. Dayton Christian Public Schools, Inc.",85-488,1985,"Ohio Civil Rights Commission, et al.","Dayton Christian Schools, Inc., et al.",6.0,0,True,majority opinion,Judicial Power,21
+519,53263,"Matsushita Electric Industrial Company, Ltd. v. Zenith Radio Corporation",83-2004,1985,"Matsushita Electric Industrial Company, Ltd.",Zenith Radio Corporation,4.0,4,True,majority opinion,Economic Activity,49
+520,53267,Bowsher v. Synar,85-1377,1985,Bowsher,Synar,23.0,2,False,majority opinion,Miscellaneous,34
+521,53269,McCleskey v. Kemp,84-6811,1986,McCleskey,Kemp,45.0,4,False,minority opinion,Criminal Procedure,47
+522,53273,Anderson v. Creighton,85-1520,1986,Russell Anderson,"Robert E. Creighton, Jr., et ux., et al.",4.0,3,True,majority opinion,Economic Activity,47
+523,53276,Colorado v. Spring,85-1517,1986,Colorado,John Leroy Spring,16.0,2,True,majority opinion,Criminal Procedure,36
+524,53275,Turner v. Safley,85-1384,1986,"William R. Turner, et al.","Leonard Safley, et al.",11.0,4,True,majority opinion,First Amendment,31
+525,53286,United States v. Paradise,85-999,1986,United States,Paradise,89.0,4,False,judge,Civil Rights,22
+526,53287,"Board of Airport Commissioners of the City of Los Angeles v. Jews for Jesus, Inc.",86-104,1986,Board of Airport Commissioners of the City of Los Angeles,"Jews for Jesus, Inc.",9.0,0,False,majority opinion,First Amendment,27
+527,53290,Colorado v. Connelly,85-660,1986,Colorado,Francis Connelly,64.0,2,True,minority opinion,Criminal Procedure,25
+528,53291,Tanner v. United States,86-177,1986,"Anthony R. Tanner, William M. Conover",United States,7.0,4,True,majority opinion,Criminal Procedure,20
+529,53294,Pope v. Illinois,85-1973,1986,Richard Pope and Charles Morrison,Illinois,30.0,4,True,majority opinion,First Amendment,42
+530,53298,"Federal Election Commission v. Massachusetts Citizens for Life, Inc.",85-701,1986,Federal Election Commission,"Massachusetts Citizens for Life, Inc.",18.0,4,False,majority opinion,First Amendment,47
+531,53302,Burlington Northern Railroad Company v. Brotherhood of Maintenance of Way Employes,86-39,1986,"Burlington Northern Railroad Co., et al.","Brotherhood of Maintenance of Way Employees, et al.",19.0,0,False,majority opinion,Unions,44
+532,53303,Illinois v. Krull,85-608,1986,Illinois,"Albert Krull, George Lucas, Salvatore Mucerino",24.0,4,True,majority opinion,Criminal Procedure,25
+533,53307,United States v. Salerno,86-87,1986,United States,Salerno,61.0,3,True,minority opinion,Due Process,47
+534,53308,Bowen v. Gilliard,86-509,1986,"Otis R. Bowen, Secretary of Health and Human Services","Beaty Mae Gilliard, et al.",16.0,3,True,majority opinion,Civil Rights,50
+535,53312,"Board of Directors, Rotary International v. Rotary Club of Duarte",86-421,1986,"Board of Directors, Rotary International",Rotary Club of Duarte,15.0,0,False,majority opinion,Civil Rights,40
+536,53323,Hodel v. Irving,85-637,1986,Donald P. Hodel,"Mary Irving, et al.",13.0,0,False,majority opinion,Due Process,23
+537,53328,Shaare Tefila Congregation v. Cobb,85-2156,1986,Shaare Tefila Congregation,Cobb,3.0,0,True,majority opinion,Civil Rights,31
+538,53333,Nollan v. California Coastal Commission,86-133,1986,Nollan,California Coastal Commission,4.0,4,True,majority opinion,Due Process,28
+539,53334,Hobbie v. Unemployment Appeals Comm'n of Florida,85-993,1986,Hobbie,Unemployment Appeals Comm'n of Florida,40.0,1,True,minority opinion,First Amendment,45
+540,53344,"Asahi Metal Industry Co. v. Superior Court of Cal., Solano Cty.",85-693,1986,"Asahi Metal Company, Ltd.","Superior Court of California, Solano County",17.0,0,True,majority opinion,Due Process,47
+541,53345,Rankin v. McPherson,85-2068,1986,Rankin,McPherson,18.0,4,False,majority opinion,First Amendment,45
+542,53347,Saint Francis College v. Al-Khazraji,85-2169,1986,Saint Francis College,Al-Khazraji,14.0,0,False,majority opinion,Civil Rights,43
+543,53353,"San Francisco Arts & Athletics, Inc. v. United States Olympic Committee",86-270,1986,"San Francisco Arts & Athletics, Inc.",United States Olympic Committee,9.0,4,False,majority opinion,First Amendment,39
+544,53354,Arizona v. Hicks,85-1027,1986,Arizona,Hicks,21.0,3,False,majority opinion,Criminal Procedure,19
+545,53356,Richardson v. Marsh,85-1433,1986,"Gloria Richardson, Warden",Clarissa Marsh,50.0,3,True,minority opinion,Criminal Procedure,42
+546,53357,United States v. Stanley,86-393,1986,"United States, et al.",James B. Stanley,5.0,4,True,majority opinion,Economic Activity,22
+547,53360,O'lone v. Estate Of Shabazz,85-1722,1986,Edward O'Lone,Estate of Ahmad Uthman Shabazz and Sadr-Ud-Din Nafis Mateen,26.0,4,True,majority opinion,First Amendment,48
+548,53361,Keystone Bituminous Coal Association. v. DeBenedictis,85-1092,1986,Keystone Bituminous Coal Association et al.,Debenedictis et al.,25.0,4,False,majority opinion,Due Process,28
+549,53362,Edwards v. Aguillard,85-1513,1986,Edwards,Aguillard,2.0,2,False,majority opinion,First Amendment,37
+550,53365,United States v. Dunn,85-998,1986,United States,Ronald Dale Dunn,14.0,2,True,majority opinion,Criminal Procedure,36
+551,53373,Tison v. Arizona,84-6075,1986,Ricky and Ramond Tison,Arizona,31.0,4,True,minority opinion,Criminal Procedure,33
+552,53375,Puerto Rico v. Branstad,85-2116,1986,Puerto Rico,Branstad,8.0,0,True,majority opinion,Criminal Procedure,36
+553,53381,Griffith v. Kentucky,85-5221,1986,Griffith,Kentucky,9.0,3,True,majority opinion,Criminal Procedure,34
+554,53383,"Johnson v. Transportation Agency, Santa Clara Cty.",85-1129,1986,Johnson,"Transportation Agency, Santa Clara Cty.",4.0,3,False,majority opinion,Civil Rights,32
+555,53385,Pennzoil Co. v. Texaco Inc.,85-1798,1986,Pennzoil Co.,Texaco Inc.,13.0,0,True,majority opinion,Judicial Power,22
+556,53390,Bourjaily v. United States,85-6725,1986,Bourjaily,United States,3.0,3,False,majority opinion,Criminal Procedure,45
+557,53393,South Dakota v. Dole,86-260,1986,South Dakota,Dole,69.0,2,False,minority opinion,Federalism,25
+558,53392,California v. Cabazon Band of Mission Indians,85-1708,1986,California,Cabazon Band of Mission Indians,20.0,3,False,majority opinion,Civil Rights,38
+559,53397,Commissioner of Internal Revenue v. Groetzinger,85-1226,1986,Commissioner of Internal Revenue,Groetzinger,16.0,3,False,majority opinion,Federal Taxation,23
+560,53403,"American Trucking Associations, Inc. v. Scheiner",86-357,1986,"American Trucking Associations, Inc.",Scheiner,29.0,4,True,majority opinion,Economic Activity,34
+561,53402,Booth v. Maryland,86-5020,1986,Booth,Maryland,14.0,4,True,majority opinion,Criminal Procedure,20
+562,53406,Maryland v. Garrison,85-759,1986,Maryland,Harold Garrison,10.0,3,True,majority opinion,Criminal Procedure,20
+563,53407,Rock v. Arkansas,86-130,1986,Vickie Lorene Rock,Arkansas,66.0,4,True,minority opinion,Criminal Procedure,35
+564,53410,Corporation of the Presiding Bishop of the Church of Jesus Christ of Latter-Day Saints v. Amos,86-179,1986,Corporation of the Presiding Bishop of the Church of Jesus Christ of Latter-Day Saints,Amos,10.0,0,True,majority opinion,First Amendment,41
+565,53418,"First English Evangelical Lutheran Church of Glendale v. County of Los Angeles, California",85-1199,1986,First English Evangelical Lutheran Church of Glendale,"County of Los Angeles, California",3.0,3,True,majority opinion,Due Process,30
+566,53416,Griffin v. Wisconsin,86-5324,1986,Griffin,Wisconsin,19.0,4,False,majority opinion,Criminal Procedure,24
+567,53422,O'Connor v. Ortega,85-530,1986,O'Connor,Ortega,99.0,4,True,judge,Criminal Procedure,39
+568,53424,Gray v. Mississippi,85-5454,1986,David Randolph Gray,Mississippi,7.0,4,True,majority opinion,Criminal Procedure,47
+569,53429,"School Board of Nassau County, Florida v. Arline",85-1277,1986,School Board of  Nassau County,Gene Arline,40.0,2,False,minority opinion,Civil Rights,38
+570,53447,Pennell v. City of San Jose,86-753,1987,Pennell,City of San Jose,28.0,2,False,majority opinion,Due Process,21
+571,53448,Murray v. United States,86-995,1987,Michael F. Murray,United States,13.0,3,False,majority opinion,Criminal Procedure,25
+572,53450,Karcher v. May,85-1551,1987,Karcher,May,18.0,0,False,majority opinion,Judicial Power,24
+573,53449,Hazelwood School District v. Kuhlmeier,86-836,1987,Hazelwood School District,Kuhlmeier,10.0,3,True,majority opinion,First Amendment,22
+574,53459,United States v. Kozminski,86-2000,1987,United States,"Ike Kozminski, et al.",11.0,0,False,majority opinion,Criminal Procedure,39
+575,53462,Boyle v. United Technologies Corporation,86-492,1987,"Delbert Boyle, Personal Representative of the heirs and Estate of David A. Boyle, Deceased",United Technologies Corporation,67.0,4,False,minority opinion,Economic Activity,49
+576,53465,Braswell v. United States,87-3,1987,Randy Braswell,United States,2.0,4,False,majority opinion,Criminal Procedure,34
+577,53466,Honig v. Doe,86-728,1987,Bill Honig,John Doe and Jack Smith,22.0,2,False,majority opinion,Civil Rights,30
+578,53468,Lyng v. Northwest Indian Cemetery Protective Association,86-1013,1987,Lyng,Northwest Indian Cemetery Protective Association,2.0,3,True,majority opinion,First Amendment,18
+579,53467,Wheat v. United States,87-4,1987,Mark Erick Wheat,United States,23.0,4,False,majority opinion,Criminal Procedure,28
+580,53482,"Employment Division, Department of Human Resources of the State of Oregon v. Smith",86-946,1987,"Employment Division, Department of Human Resources of the State of Oregon et al.",Alfred Smith,30.0,3,True,majority opinion,First Amendment,48
+581,53486,Coy v. Iowa,86-6757,1987,Coy,Iowa,66.0,2,True,minority opinion,Criminal Procedure,34
+582,53488,Doe v. United States,86-1753,1987,John Doe,United States,2.0,1,False,majority opinion,Criminal Procedure,21
+583,53495,Thompson v. Oklahoma,86-6169,1987,Thompson,Oklahoma,71.0,3,True,judge,Criminal Procedure,42
+584,53496,Morrison v. Olson,87-1279,1987,Morrison,Olson,5.0,1,True,majority opinion,Miscellaneous,22
+585,53497,"United States Catholic Conference v. Abortion Rights Mobilization, Inc.",87-416,1987,United States Catholic Conference,"Abortion Rights Mobilization, Inc.",15.0,1,True,majority opinion,Judicial Power,38
+586,53508,California v. Greenwood,86-684,1987,California,Greenwood,1.0,2,True,majority opinion,Criminal Procedure,26
+587,53506,Schweiker v. Chilicky,86-1781,1987,Richard Schweiker,James Chilicky,48.0,3,True,minority opinion,Economic Activity,28
+588,53513,New York State Club Association Inc. v. City of New York,86-1836,1987,New York State Club Association Inc.,City of New York,5.0,0,False,majority opinion,Civil Rights,34
+589,53512,Bowen v. Kendrick,87-253,1987,Bowen,Kendrick,23.0,4,True,majority opinion,First Amendment,23
+590,53519,Mansell v. Mansell,87-201,1988,Gerald E. Mansell,Gaye M. Mansell,26.0,2,True,majority opinion,Federalism,20
+591,53517,"Texas Monthly, Inc. v. Bullock",87-1245,1988,"Texas Monthly, Inc.","Bob Bullock, Comptroller of Public Accounts of the State of Texas et al.",91.0,3,True,judge,First Amendment,21
+592,53520,Penry v. Lynaugh,87-6177,1988,Penry,Lynaugh,29.0,4,False,majority opinion,Criminal Procedure,50
+593,53521,National Treasury Employees Union v. Von Raab,86-1879,1988,National Treasury Employees Union,Von Raab,30.0,4,False,minority opinion,Criminal Procedure,32
+594,53525,"Bonito Boats, Inc. v. Thunder Craft Boats, Inc.",87-1346,1988,"Bonito Boats, Inc.","Thunder Craft Boats, Inc.",18.0,0,False,majority opinion,Federalism,42
+595,53529,Department of Justice v. Reporters Committee for Freedom of the Press,87-1379,1988,Department of Justice,Reporters Committee for Freedom of the Press,22.0,0,True,majority opinion,Privacy,28
+596,53532,Brower v. Inyo County,87-248,1988,"Georgia Brower, et al.","County of Inyo, et al.",27.0,0,True,majority opinion,Criminal Procedure,36
+597,53537,Webster v. Reproductive Health Services,88-605,1988,Webster,Reproductive Health Services,26.0,4,True,majority opinion,Privacy,21
+598,53541,Skinner v. Railway Labor Executives' Association,87-1555,1988,Skinner,Railway Labor Executives' Association,16.0,2,True,majority opinion,Criminal Procedure,50
+599,53542,Duckworth v. Eagan,88-317,1988,Duckworth,Eagan,44.0,4,True,minority opinion,Criminal Procedure,46
+600,53547,Community for Creative Non-Violence v. Reid,88-293,1988,Community for Creative Non-Violence,Reid,21.0,0,False,majority opinion,Economic Activity,46
+601,53546,Sable Communications of California v. Federal Communications Commission,88-515,1988,Sable Communications of California,Federal Communications Commission,21.0,3,False,majority opinion,First Amendment,35
+602,53554,Martin v. Wilks,87-1614,1988,Martin,Wilks,23.0,4,False,majority opinion,Civil Rights,44
+603,53566,"American Trucking Associations, Inc. v. Smith",88-325,1988,"American Trucking Associations, Inc.",Smith,99.0,4,False,judge,Economic Activity,35
+604,53580,Owens v. Okure,87-56,1988,Javan Owens and Daniel G. Lessard,Tom U. U. Okure,15.0,0,False,majority opinion,Civil Rights,45
+605,53588,United States v. Halper,87-1383,1988,United States,Halper,39.0,0,False,minority opinion,Criminal Procedure,32
+606,53589,"City of Canton, Ohio v. Harris",86-1088,1988,"City of Canton, Ohio",Geraldine Harris,16.0,3,True,majority opinion,Civil Rights,40
+607,53592,Graham v. Connor,87-6571,1988,Dethorne Graham,M.S. Connor,29.0,0,True,majority opinion,Civil Rights,38
+608,53597,"Granfinanciera, S. A. v. Nordberg",87-1716,1988,"Granfinanciera, S.A., et al.",Paul C. Nordberg,5.0,3,True,majority opinion,Criminal Procedure,25
+609,53599,Price Waterhouse v. Hopkins,87-1167,1988,Price Waterhouse,Ann B. Hopkins,95.0,3,True,judge,Civil Rights,39
+610,53600,Massachusetts v. Morash,88-32,1988,Massachusetts,Richard N. Morash,8.0,0,True,majority opinion,Economic Activity,38
+611,53604,Texas v. Johnson,88-155,1988,Texas,Gregory Lee Johnson,68.0,4,False,minority opinion,First Amendment,22
+612,53607,DeShaney v. Winnebago County Department of Social Services,87-154,1988,DeShaney,Winnebago County Department of Social Services,16.0,3,False,majority opinion,Civil Rights,25
+613,53608,Consolidated Rail Corporation v. Railway Labor Executives' Association,88-1,1988,Consolidated Rail Corporation,Railway Labor Executives' Association,18.0,2,True,majority opinion,Unions,43
+614,53609,Frazee v. Illinois Department of Employment Security,87-1945,1988,William A. Frazee ,"Illinois Dept. of Employment Security; Sally Ward, Director of the Illinois Dept. of Employment Security; Bruce W. Barnes, Chairman of the Board of Review; Kelly Services",12.0,0,True,majority opinion,First Amendment,46
+615,53611,Florida v. Riley,87-764,1988,Florida,Michael A. Riley,87.0,4,True,judge,Criminal Procedure,43
+616,53615,Mistretta v. United States,87-7028,1988,John Mistretta,United States,2.0,1,False,majority opinion,Miscellaneous,48
+617,53620,"Harte-Hanks Communications, Inc. v. Connaughton",88-10,1988,"Harte-Hanks Communications, Inc.",Daniel Connaughton,62.0,0,False,minority opinion,First Amendment,50
+618,53618,Michael H. v. Gerald D.,87-746,1988,Michael H. et al.,Gerald D.,73.0,4,False,judge,Due Process,23
+619,53621,City of Richmond v. J. A. Croson Company,87-998,1988,City of Richmond,J. A. Croson Company,19.0,3,False,majority opinion,Civil Rights,49
+620,53624,Arizona v. Youngblood,86-1904,1988,Arizona,Larry Youngblood,11.0,3,True,majority opinion,Due Process,24
+621,53633,Missouri v. Jenkins,88-64,1988,Missouri,Kalima Jenkins et al.,13.0,3,False,majority opinion,Attorneys,38
+622,53639,United States v. Sokolow,87-1295,1988,United States,Sokolow,2.0,2,True,majority opinion,Criminal Procedure,38
+623,53643,Stanford v. Kentucky,87-5765,1988,Kevin Stanford,Kentucky,49.0,4,False,minority opinion,Criminal Procedure,21
+624,53640,Florida Star v. B. J. F.,87-329,1988,Florida Star,Betty Jean Freeman,16.0,3,True,majority opinion,First Amendment,49
+625,53645,"County of Allegheny v. American Civil Liberties Union, Greater Pittsburgh Chapter",87-2050,1988,County of Allegheny,"American Civil Liberties Union, Greater Pittsburgh Chapter",27.0,4,False,majority opinion,First Amendment,48
+626,53656,Ward v. Rock Against Racism,88-226,1988,Ward,Rock Against Racism,16.0,3,True,majority opinion,First Amendment,24
+627,53654,Murray v. Giarratano,88-411,1988,Murray,Giarratano,97.0,4,True,judge,Civil Rights,43
+628,53658,City of Dallas v. Stanglin,87-1848,1988,"City of Dallas, et al.",Charles M. Stanglin,26.0,0,True,majority opinion,First Amendment,50
+629,53662,"Wards Cove Packing Company, Inc. v. Atonio",87-1387,1988,Wards Cove Packing Co. et al.,Frank Atonio et al.,50.0,4,True,minority opinion,Civil Rights,37
+630,53665,Davis v. Michigan Department of the Treasury,87-1020,1988,Paul Davis,Michigan Department of the Treasury,3.0,1,True,majority opinion,Federalism,48
+631,53673,Lewis v. Jeffers,89-189,1989,"Samuel A. Lewis, Director of the Arizona Department of Corrections, et al.",Jimmie Wayne Jeffers,6.0,4,True,majority opinion,Criminal Procedure,27
+632,53674,United States v. Eichman,89-1433,1989,United States,Eichman,23.0,4,False,majority opinion,First Amendment,28
+633,53681,Illinois v. Rodriguez,88-2018,1989,Illinois,Edward Rodriguez,19.0,3,True,majority opinion,Criminal Procedure,22
+634,53682,Jimmy Swaggart Ministries v. Board of Equalization of California,88-1374,1989,Jimmy Swaggart Ministries,Board of Equalization of California,1.0,0,False,majority opinion,First Amendment,27
+635,53685,Board of Education of Westside Community Schools v. Mergens By and Through Mergens,88-1597,1989,BOE of Westside Community Schools,Mergens By and Through Mergens,40.0,1,False,minority opinion,First Amendment,40
+636,53689,Pennsylvania v. Muniz,89-213,1989,Pennsylvania,Inocencio Muniz,15.0,1,True,majority opinion,Criminal Procedure,44
+637,53694,Rutan v. Republican Party of Illinois,88-1872,1989,Rutan,Republican Party of Illinois,14.0,4,True,majority opinion,First Amendment,27
+638,53693,Illinois v. Perkins,88-1972,1989,Illinois,Perkins,11.0,1,True,majority opinion,Criminal Procedure,25
+639,53695,"W.S. Kirkpatrick & Company, Inc. v. Environmental Tectonics Corporation, International",87-2066,1989,"W.S. Kirkpatrick & Company, Inc.","Environmental Tectonics Corporation, International",18.0,0,False,majority opinion,Judicial Power,45
+640,53699,Peel v. Attorney Registration and Disciplinary Commission of Illinois,88-1775,1989,Peel,Attorney Registration and Disciplinary Commission of Illinois,94.0,4,True,judge,Attorneys,45
+641,53698,Florida v. Wells,88-1835,1989,Florida,Martin Leslie Wells,57.0,0,False,minority opinion,Criminal Procedure,21
+642,53703,"Eli Lilly and Company v. Medtronic, Inc.",89-243,1989,Eli Lilly and Company,"Medtronic, Inc.",18.0,2,False,majority opinion,Economic Activity,32
+643,53708,"Burnham v. Superior Court of California, County of Marin",89-44,1989,Dennis Burnham,"Superior Court of California, Marin County",76.0,0,False,judge,Due Process,45
+644,53706,Sisson v. Ruby,88-2041,1989,Everett A. Sisson,"Burton B. Ruby, et al.",3.0,0,True,majority opinion,Economic Activity,28
+645,53712,Austin v. Michigan Chamber of Commerce,88-1569,1989,Austin,Michigan Chamber of Commerce,3.0,3,True,majority opinion,First Amendment,26
+646,53714,Idaho v. Wright,89-260,1989,Idaho,Laura Lee Wright,20.0,4,False,majority opinion,Criminal Procedure,24
+647,53715,Ohio v. Akron Center for Reproductive Health,88-805,1989,Ohio,Akron Center for Reproductive Health,61.0,3,True,minority opinion,Privacy,35
+648,53719,"Employment Division, Department of Human Resources of Oregon v. Smith",88-1213,1989,"Employment Division, Department of Human Resources of Oregon",Alfred Smith et al.,6.0,3,True,majority opinion,First Amendment,22
+649,53734,Lujan v. National Wildlife Federation,89-640,1989,Lujan,National Wildlife Federation,21.0,4,True,majority opinion,Judicial Power,30
+650,53732,Alabama v. White,89-789,1989,Alabama,Vanessa Rose White,3.0,3,True,majority opinion,Criminal Procedure,25
+651,53731,United States v. Montalvo-Murillo,89-163,1989,United States,Guadalupe Montalvo-Murillo,11.0,3,True,majority opinion,Criminal Procedure,27
+652,53738,"Metro Broadcasting, Inc. v. Federal Communications Commission",89-453,1989,"Metro Broadcasting, Inc.",Federal Communications Commission,8.0,4,False,majority opinion,Civil Rights,46
+653,53741,Missouri v. Jenkins,88-1150,1989,Missouri,Jenkins,39.0,0,False,minority opinion,Civil Rights,42
+654,53748,Walton v. Arizona,88-7351,1989,Jeffrey Alan Walton,State of Arizona,28.0,4,False,majority opinion,Criminal Procedure,36
+655,53752,Maryland v. Craig,89-478,1989,Maryland,Craig,24.0,4,True,majority opinion,Criminal Procedure,41
+656,53758,Horton v. California,88-7164,1989,Terry Brice Horton,California,5.0,2,False,majority opinion,Criminal Procedure,25
+657,53762,Office of Personnel Management v. Richmond,88-1943,1989,Office of Personnel Management,Charles Richmond,16.0,2,True,majority opinion,Economic Activity,36
+658,53761,Georgia v. South Carolina,74-orig,1989,Georgia,South Carolina,6.0,0,True,majority opinion,,46
+659,53766,United States v. Verdugo-Urquidez,88-1353,1989,United States,Verdugo-Urquidez,65.0,3,True,minority opinion,Criminal Procedure,44
+660,53768,Wilder v. Virginia Hospital Association,88-2043,1989,Wilder,Virginia Hospital Association,5.0,4,False,majority opinion,Judicial Power,27
+661,53771,Grady v. Corbin,89-474,1989,"William V. Grady, District Attorney of Dutchess County",Thomas J. Corbin,26.0,4,False,majority opinion,Criminal Procedure,23
+662,53772,Atlantic Richfield Company v. USA Petroleum Company,88-1668,1989,Atlantic Richfield Company,USA Petroleum Company,8.0,2,True,majority opinion,Economic Activity,33
+663,53773,"Metro Broadcasting, Inc. v. Federal Communications Commission",89-700,1989,"Metro Broadcasting, Inc.",Federal Communications Commission,16.0,4,True,majority opinion,Civil Rights,37
+664,53775,Osborne v. Ohio,88-5986,1989,Osborne,Ohio,26.0,3,False,majority opinion,First Amendment,32
+665,53778,Maryland v. Buie,88-1369,1989,Maryland,Jerome Edward Buie,61.0,2,True,minority opinion,Criminal Procedure,38
+666,53780,United States v. Kokinda,88-2031,1989,United States,Kokinda,94.0,4,True,judge,First Amendment,45
+667,53784,Michigan Department of State Police v. Sitz,88-1897,1989,Michigan Department of State Police,Rick Sitz,24.0,3,True,majority opinion,Criminal Procedure,34
+668,53790,Milkovich v. Lorain Journal Company,89-645,1989,Michael Milkovich ,"Lorain Journal Co., The News Herald, J. Theodore Diadiun ",27.0,2,True,majority opinion,First Amendment,29
+669,53796,University of Pennsylvania v. Equal Employment Opportunity Commission,88-493,1989,University of Pennsylvania,Equal Employment Opportunity Commission,6.0,0,False,majority opinion,First Amendment,26
+670,53800,"Cruzan by Cruzan v. Director, Missouri Department of Health",88-1503,1989,Cruzan by Cruzan,"Director, Missouri Department of Health",21.0,4,False,majority opinion,Privacy,26
+671,53799,New York v. Harris,88-1000,1989,New York,Bernard Harris,31.0,4,True,minority opinion,Criminal Procedure,30
+672,53801,Hodgson v. Minnesota,88-1125,1989,Hodgson,Minnesota,12.0,3,False,majority opinion,Privacy,30
+673,53805,James v. Illinois,88-6075,1989,James,Illinois,13.0,4,True,majority opinion,Criminal Procedure,31
+674,53812,FMC Corporation v. Holliday,89-1048,1990,FMC Corporation,Holliday,15.0,1,True,majority opinion,Federalism,40
+675,53815,"Eastern Airlines, Inc. v. Floyd",89-1598,1990,"Eastern Airlines, Inc.",Rose Marie Floyd,22.0,0,True,majority opinion,Economic Activity,30
+676,53816,Irwin v. Department of Veterans Affairs,89-5867,1990,Irwin,Department of Veterans Affairs,19.0,1,False,majority opinion,Judicial Power,28
+677,53817,California v. Hodari D.,89-1632,1990,California,Hodari D.,57.0,2,True,minority opinion,Criminal Procedure,36
+678,53826,Harmelin v. Michigan,89-7272,1990,Harmelin,Michigan,15.0,4,False,majority opinion,Criminal Procedure,18
+679,53827,Wilson v. Seiter,89-7376,1990,Pearly L. Wilson,Richard Seiter et al.,21.0,4,False,majority opinion,Criminal Procedure,31
+680,53828,Chisom v. Roemer,90-757,1990,Chisom,Roemer,3.0,3,True,majority opinion,Civil Rights,32
+681,53832,McNeil v. Wisconsin,90-5319,1990,Paul McNeil,Wisconsin,10.0,3,False,majority opinion,Criminal Procedure,50
+682,53835,Board of Education of Oklahoma City Public Schools v. Dowell,89-1080,1990,Board of Education of Oklahoma City Public Schools,Robert L. Dowell,1.0,3,True,majority opinion,Civil Rights,23
+683,53837,Leathers v. Medlock,90-29,1990,Leathers,Medlock,56.0,2,True,minority opinion,First Amendment,28
+684,53845,United States v. Centennial Savings Bank FSB,89-1926,1990,United States,Centennial Savings Bank FSB,29.0,2,False,majority opinion,Federal Taxation,35
+685,53848,California v. Acevedo,89-1690,1990,California,Acevedo,12.0,3,True,majority opinion,Criminal Procedure,43
+686,53850,Grogan v. Garner,89-1149,1990,Grogan,Garner,15.0,0,True,majority opinion,Economic Activity,19
+687,53847,"Exxon Corporation v. Central Gulf Lines, Inc.",90-34,1990,Exxon Corporation,"Central Gulf Lines, Inc.",16.0,0,True,majority opinion,Judicial Power,36
+688,53854,Touby v. United States,90-6282,1990,"Daniel Touby, et ux.",United States,7.0,0,False,majority opinion,Criminal Procedure,42
+689,53852,Florida v. Bostick,89-1717,1990,Florida,Bostick,64.0,3,True,minority opinion,Criminal Procedure,20
+690,53861,"International Union, United Automobile, Aerospace & Agricultural Implement Workers of America, UAW",89-1215,1990,Automobile Workers,"Johnson Controls, Inc.",23.0,0,True,majority opinion,Civil Rights,27
+691,53868,Gregory v. Ashcroft,90-50,1990,Gregory,Ashcroft,28.0,2,False,majority opinion,Civil Rights,38
+692,53873,Florida v. Jimeno,90-622,1990,Florida,Jimeno,24.0,2,True,majority opinion,Criminal Procedure,22
+693,53875,Rust v. Sullivan,89-1391,1990,Rust,Sullivan,4.0,4,False,majority opinion,Privacy,44
+694,53893,Minnick v. Mississippi,89-6332,1990,Robert S. Minnick ,Mississippi,23.0,2,True,majority opinion,Criminal Procedure,22
+695,53891,Payne v. Tennessee,90-5721,1990,Pervis Tyrone Payne,Tennessee,61.0,3,False,minority opinion,Criminal Procedure,37
+696,53895,Cohen v. Cowles Media Company,90-634,1990,Cohen,Cowles Media Company,12.0,4,True,majority opinion,First Amendment,40
+697,53902,"Feist Publications, Inc. v. Rural Telephone Service Company, Inc.",89-1909,1990,"Feist Publications, Inc.","Rural Telephone Service Company, Inc.",27.0,0,True,majority opinion,Economic Activity,30
+698,53904,"Virginia Bankshares, Inc.  v. Sandberg",89-1448,1990,"Virginia Bankshares, Inc.",Sandberg,1.0,4,True,majority opinion,Economic Activity,44
+699,53905,Freytag v. Commissioner,90-762,1990,Freytag,Commissioner,15.0,0,False,majority opinion,Miscellaneous,36
+700,53906,Schad v. Arizona,90-5551,1990,Schad,Arizona,5.0,4,False,majority opinion,Due Process,30
+701,53915,Barnes v. Glen Theatre Inc.,90-26,1990,Barnes,Glen Theatre Inc.,30.0,4,True,minority opinion,First Amendment,46
+702,53918,Cottage Savings Association v. Commissioner of Internal Revenue,89-1965,1990,Cottage Savings Association,Commissioner of Internal Revenue,13.0,2,True,majority opinion,Federal Taxation,34
+703,53916,Arizona v. Fulminante,89-839,1990,Arizona,Oreste Fulminante,20.0,4,False,majority opinion,Criminal Procedure,42
+704,53925,Riverside County v. McLaughlin,89-1817,1990,Riverside County,McLaughlin,8.0,4,True,majority opinion,Criminal Procedure,23
+705,53934,"Masson v. New Yorker Magazine, Inc.",89-1799,1990,Masson,"New Yorker Magazine, Inc.",28.0,2,True,majority opinion,First Amendment,23
+706,53935,Powers v. Ohio,89-5011,1990,Powers,Ohio,19.0,2,True,majority opinion,Civil Rights,36
+707,53940,Lee v. Weisman,90-1014,1991,Lee,Weisman,42.0,4,False,minority opinion,First Amendment,48
+708,53945,Franklin v. Massachusetts,91-1502,1991,Franklin,Massachusetts,4.0,0,True,majority opinion,Judicial Power,42
+709,53946,Nordlinger v. Hahn,90-1912,1991,Nordlinger,Hahn,21.0,1,False,majority opinion,Economic Activity,44
+710,53954,Rufo v. Inmates of Suffolk County Jail,90-954,1991,"Rufo, Sheriff Of Suffolk County, et al.",Inmates Of Suffolk County Jail et al.,28.0,2,True,majority opinion,Due Process,36
+711,53955,"Morales v. Trans World Airlines, Inc.",90-1604,1991,"Morales, Attorney General of Texas","Trans World Airlines, Inc. ",28.0,3,False,majority opinion,Federalism,19
+712,53958,United States v. Fordice,90-1205,1991,United States,Fordice,16.0,1,True,majority opinion,Civil Rights,21
+713,53957,Planned Parenthood of Southeastern Pennsylvania v. Casey,91-744,1991,Planned Parenthood of Southeastern Pennsylvania,"Robert P. Casey, Governor of Pennsylvania",46.0,4,True,minority opinion,Privacy,30
+714,53959,"Lechmere, Inc. v. National Labor Relations Board",90-970,1991,"Lechmere, Inc.",National Labor Relations Board,24.0,3,True,majority opinion,Unions,46
+715,53971,"Cipollone v. Liggett Group, Inc.",90-1038,1991,Cipollone,"Liggett Group, Inc.",7.0,2,True,majority opinion,Federalism,49
+716,53974,Lujan v. Defenders of Wildlife,90-1424,1991,Lujan,Defenders of Wildlife,9.0,3,True,majority opinion,Judicial Power,33
+717,53975,Robertson v. Seattle Audubon Society,90-1596,1991,"Robertson, Chief, United States Forest Service, et al.",Seattle Audubon Society et al.,16.0,0,True,majority opinion,Economic Activity,37
+718,53979,Riggins v. Nevada,90-8466,1991,David Riggins,Nevada,6.0,2,True,majority opinion,Criminal Procedure,22
+719,53981,Quill Corporation v. North Dakota,91-194,1991,Quill Corporation,"North Dakota by and through its Tax Commissioner, Heitkamp",67.0,1,True,minority opinion,Economic Activity,35
+720,53980,"Two Pesos, Inc. v. Taco Cabana, Inc.",91-971,1991,"Two Pesos, Inc.","Taco Cabana, Inc.",17.0,0,False,majority opinion,Economic Activity,38
+721,53983,New York v. United States,91-543,1991,New York,United States,7.0,3,True,majority opinion,Federalism,22
+722,54002,Presley v. Etowah County Commission,90-711,1991,Lawrence C. Presley et al.,Etowah County Commission et al.,26.0,3,False,majority opinion,Civil Rights,22
+723,54000,"International Society for Krishna Consciousness, Inc. v. Lee",91-155,1991,"International Society for Krishna Consciousness, Inc.",Lee,24.0,3,False,majority opinion,First Amendment,28
+724,54003,Burson v. Freeman,90-1056,1991,Burson,Freeman,84.0,3,True,judge,First Amendment,44
+725,54007,National Railroad Passenger Corporation v. Boston & Maine Corporation,90-1419,1991,National Railroad Passenger Corporation,Boston & Maine Corporation,39.0,3,True,minority opinion,Judicial Power,44
+726,54012,Georgia v. McCollum,91-372,1991,Georgia,Thomas McCollum et al.,28.0,2,True,majority opinion,Civil Rights,42
+727,54013,Suter v. Artist M.,90-1488,1991,Suter,Artist M.,2.0,2,True,majority opinion,Judicial Power,41
+728,54016,Morgan v. Illinois,91-5118,1991,Derrick Morgan,Illinois,17.0,3,True,majority opinion,Criminal Procedure,33
+729,54017,Hudson v. McMillian,90-6531,1991,Hudson,McMillian,29.0,2,True,majority opinion,Criminal Procedure,45
+730,54019,Jacobson v. United States,90-1124,1991,Keith Jacobson,United States,1.0,4,True,majority opinion,Criminal Procedure,46
+731,54018,Bray v. Alexandria Women's Health Clinic,90-985,1991,Bray,Alexandria Women's Health Clinic,41.0,3,True,minority opinion,,42
+732,54025,"Republic of Argentina v. Weltover, Inc.",91-763,1991,Republic of Argentina,"Weltover, Inc.",27.0,0,False,majority opinion,Judicial Power,23
+733,54028,White v. Illinois,90-6113,1991,Randall D. White,State of Illinois,27.0,0,False,majority opinion,Criminal Procedure,34
+734,54039,American National Red Cross v. S.G.,91-594,1991,American National Red Cross,S.G.,27.0,4,True,majority opinion,Judicial Power,45
+735,54045,Lucas v. South Carolina Coast Council,91-453,1991,Lucas,South Carolina Coast Council,20.0,3,True,majority opinion,Due Process,23
+736,54048,Freeman v. Pitts,89-1290,1991,Robert R. Freeman et al.,Willie Eugene Pitts et al.,5.0,0,True,majority opinion,Civil Rights,41
+737,54049,"Lee v. International Society for Krishna Consciousness, Inc.",91-339,1991,Lee,"International Society for Krishna Consciousness, Inc.",56.0,4,False,minority opinion,First Amendment,36
+738,54050,Gomez v. United States District Court for the Northern District of California,A-767,1991,James Gomez and Daniel Vasquez,United States District Court for the Northern District of California,74.0,2,True,judge,Criminal Procedure,43
+739,54051,R.A.V. v. City of St. Paul,90-7675,1991,R.A.V.,City of St. Paul,27.0,0,True,majority opinion,First Amendment,20
+740,54054,"Simon & Schuster, Inc. v. Members of New York State Crime Victims Board",90-1059,1991,"Simon & Schuster, Inc.",Members of New York State Crime Victims Board,5.0,0,True,majority opinion,First Amendment,21
+741,54058,Franklin v. Gwinnett County Public Schools,90-918,1991,Christine Franklin ,"Gwinnett County Public Schools, William Prescott",4.0,0,True,majority opinion,Civil Rights,44
+742,54057,Forsyth County v. Nationalist Movement,91-538,1991,Forsyth County,Nationalist Movement,14.0,4,False,majority opinion,First Amendment,29
+743,54059,Doggett v. United States,90-857,1991,Marc Gilbert Doggett,United States,37.0,4,True,minority opinion,Criminal Procedure,20
+744,54060,Hartford Fire Insurance Company v. California,91-1111,1992,Hartford Fire Insurance Company,California,16.0,4,True,majority opinion,Economic Activity,27
+745,54063,Minnesota v. Dickerson,91-2019,1992,Minnesota,Timothy Dickerson,22.0,0,True,majority opinion,Criminal Procedure,27
+746,54067,Deal v. United States,91-8199,1992,Deal,United States,9.0,3,False,majority opinion,Criminal Procedure,41
+747,54070,United States v. California,91-2003,1992,United States,California and California State Board of Equalization,20.0,0,False,majority opinion,Judicial Power,50
+748,54072,Hazen Paper Company v. Biggins,91-1600,1992,"Hazen Paper Co., Robert Hazen, Thomas N. Hazen ",Walter F. Biggins,12.0,0,True,majority opinion,Civil Rights,41
+749,54073,Heller  v. Doe,92-351,1992,"Heller, Secretary, Kentucky Cabinet For Human Resources","Doe, By His Mother And Next Friend, Doe, et al.",62.0,4,True,minority opinion,Due Process,42
+750,54074,Godinez v. Moran,92-725,1992,"Salvador Godinez, Warden",Richard Allan Moran,17.0,2,True,majority opinion,Criminal Procedure,37
+751,54076,Zobrest v. Catalina Foothills School District,92-94,1992,Zobrest,Catalina Foothills School District,30.0,4,True,majority opinion,First Amendment,43
+752,54078,Graham v. Collins,91-7580,1992,Gary Graham,"James A. Collins, Director of the Texas Department of Criminal Justice, Institutional Division",12.0,4,False,majority opinion,Criminal Procedure,39
+753,54086,Withrow v. Williams,91-1030,1992,Withrow,Williams,22.0,4,True,majority opinion,Criminal Procedure,50
+754,54087,Shaw v. Reno,92-357,1992,Shaw,Reno,15.0,4,True,majority opinion,Civil Rights,30
+755,54091,Moreau v. Klevenhagen,92-1,1992,Lynwood Moreau ,"Johnny Klevenhagen, Sheriff of Harris County, Texas",62.0,0,False,minority opinion,Unions,46
+756,54094,Wisconsin v. Mitchell,92-515,1992,Wisconsin,Mitchell,18.0,0,True,majority opinion,First Amendment,26
+757,54098,Lamb's Chapel v. Center Moriches Union Free School District,91-2024,1992,Lamb's Chapel,Center Moriches Union Free School District,3.0,0,True,majority opinion,First Amendment,23
+758,54104,Herrera v. Collins,91-7328,1992,Leonel Torres Herrera,"James A. Collins, Director, Texas Department of Criminal Justice, Institutional Division",22.0,3,False,majority opinion,Criminal Procedure,45
+759,54105,"Spectrum Sports, Inc. v. McQuillan",91-10,1992,Spectrum Sports Inc. and Kenneth B. Leighton ,"Shirley and Larry McQuillan, dba Sorboturf Enterprises",12.0,0,True,majority opinion,Economic Activity,22
+760,54109,"Church of Lukumi Babalu Aye, Inc. v. City of Hialeah",91-948,1992,"Church of Lukumi Babalu Aye, Inc.",City of Hialeah,6.0,0,True,majority opinion,First Amendment,33
+761,54110,Brecht v. Abrahamson,91-7358,1992,Todd A. Brecht,"Gordon A. Abrahamson, Superintendent, Dodge Correctional Institution",57.0,4,False,minority opinion,Criminal Procedure,19
+762,54113,Helling v. McKinney,91-1958,1992,Helling,McKinney,13.0,2,False,majority opinion,Criminal Procedure,50
+763,54126,"Northeastern Florida Chapter, Associated General Contractors of America v. City of Jacksonville, Florida",91-1721,1992,"Northeastern Florida Chapter, Associated General Contractors of America","City of Jacksonville, Florida, et al.",26.0,2,True,majority opinion,Judicial Power,48
+764,54129,"Federal Communications Commission v. Beach Communications, Inc.",92-603,1992,Federal Communications Commission,"Beach Communications, Inc.",13.0,0,True,majority opinion,Economic Activity,50
+765,54131,Austin v. United States,92-6073,1992,Richard Lyle Austin ,United States,26.0,0,True,majority opinion,Criminal Procedure,42
+766,54134,"Cardinal Chemical Company v. Morton International, Inc.",92-114,1992,Cardinal Chemical Company,"Morton International, Inc.",6.0,0,True,majority opinion,Judicial Power,27
+767,54136,Smith v. United States,91-8674,1992,Smith,United States,43.0,3,False,minority opinion,Criminal Procedure,35
+768,54145,United States v. Dixon,91-1231,1992,United States,Alvin J. Dixon and Michael Foster,14.0,4,False,majority opinion,Criminal Procedure,31
+769,54162,Johnson v. Texas,92-5653,1992,"Dorsie Lee Johnson, Jr.",Texas,25.0,4,False,majority opinion,Criminal Procedure,47
+770,54163,"Sale v. Haitian Centers Council, Inc.",92-344,1992,"Chris Sale, Acting Commissioner, Immigration And Naturalization Service, et al.","Haitian Centers Council, Inc., et al.",28.0,1,True,majority opinion,Civil Rights,50
+771,54168,Alexander v. United States,91-1526,1992,Ferris Alexander,United States,12.0,4,False,majority opinion,First Amendment,49
+772,54175,Nixon v. United States,91-740,1992,Nixon,United States,22.0,0,False,majority opinion,Judicial Power,32
+773,54179,"Campbell v. Acuff-Rose Music, Inc.",92-1292,1993,Campbell,"Acuff-Rose Music, Inc.",47.0,0,True,minority opinion,Economic Activity,36
+774,54180,Board of Education or Kiryas Joel Village School District v. Grumet,93-517,1993,Board of Education or Kiryas Joel Village School District,Grumet,20.0,3,False,majority opinion,First Amendment,20
+775,54186,Florence County School District Four v. Carter,91-1523,1993,Florence County School District Four,Carter,28.0,0,False,majority opinion,Civil Rights,23
+776,54187,"National Organization for Women, Inc. v. Scheidler",92-780,1993,"National Organization for Women, Inc.",Scheidler,10.0,0,True,majority opinion,Privacy,22
+777,54188,Albright v. Oliver,92-833,1993,Albright,Oliver et al.,73.0,2,False,judge,Civil Rights,26
+778,54195,"Oregon Waste Systems, Inc. v. Oregon Department of Environmental Quality",93-70,1993,"Oregon Waste Systems, Inc. et al.",Department of Environmental Quality of The State of Oregon et al.,2.0,2,True,majority opinion,Economic Activity,49
+779,54198,Consolidated Rail Corporation v. Gottshall,92-1956,1993,Consolidated Rail Corporation,Gottshall,66.0,3,True,minority opinion,Economic Activity,18
+780,54205,"C & A Carbone, Inc. v. Town of Clarkstown",92-1402,1993,"C & A Carbone, Inc., et al.",Town of Clarkstown,4.0,3,True,majority opinion,Economic Activity,18
+781,54207,"Harris v. Forklift Systems, Inc.",92-1168,1993,Harris,"Forklift Systems, Inc.",27.0,0,True,majority opinion,Civil Rights,32
+782,54208,United States v. Alvarez-Sanchez,92-1812,1993,United States,Alvarez-Sanchez,9.0,0,True,majority opinion,Criminal Procedure,20
+783,54206,BFP v. Resolution Trust Corporation,92-1370,1993,Bfp,"Resolution Trust Corporation, As Receiver Of Imperial Federal Savings Association, et al.",2.0,4,False,majority opinion,Economic Activity,25
+784,54209,"Central Bank of Denver , N. A. v. First Interstate Bank of Denver , N. A.",92-854,1993,"Central Bank of Denver , N. A.","First Interstate Bank Of Denver, N. A., et al.",4.0,4,True,majority opinion,Economic Activity,32
+785,54211,Associated Industries of Missouri v. Lohman,93-397,1993,Associated Industries of Missouri,Lohman,63.0,0,True,minority opinion,Economic Activity,31
+786,54221,Beecham v. United States,93-445,1993,Lenard Ray Beecham,United States,13.0,0,False,majority opinion,Criminal Procedure,33
+787,54231,Farmer v. Brennan,92-7247,1993,Dee Farmer,"Edward Brennan, Warden",13.0,0,True,majority opinion,Criminal Procedure,38
+788,54239,"Fogerty v. Fantasy, Inc.",92-1750,1993,Fogerty,"Fantasy, Inc.",1.0,0,True,majority opinion,Attorneys,20
+789,54241,"Digital Equipment Corporation v. Desktop Direct, Inc.",93-405,1993,Digital Equipment Corporation,"Desktop Direct, Inc.",5.0,0,False,majority opinion,Judicial Power,23
+790,54243,"Ibanez v. Florida Dept. of Business and Professional Regulation, Bd. of Accountancy",93-639,1993,Ibanez,"Florida Dept. of Business and Professional Regulation, Bd. of Accountancy",8.0,2,True,majority opinion,Attorneys,43
+791,54245,Stansbury v. California,93-5770,1993,Robert Edward Stansbury,California,59.0,0,True,minority opinion,Criminal Procedure,39
+792,54249,"Honda Motor Company, Ltd. v. Oberg",93-644,1993,"Honda Motor Company, Ltd.",Oberg,4.0,2,True,majority opinion,Economic Activity,34
+793,54253,"ABF Freight Systems, Inc. v. National Labor Relations Board",92-1550,1993,"ABF Freight Systems, Inc.",National Labor Relations Board,23.0,0,False,majority opinion,Judicial Power,25
+794,54257,United States v. Granderson,92-1662,1993,United States,Granderson,24.0,2,False,majority opinion,Criminal Procedure,29
+795,54263,"West Lynn Creamery, Inc. v. Healy",93-141,1993,"West Lynn Creamery, Inc.",Healy,11.0,2,True,majority opinion,Economic Activity,31
+796,54265,Davis v. United States,92-1949,1993,Robert L. Davis ,United States,29.0,0,False,majority opinion,Criminal Procedure,38
+797,54264,Simmons v. South Carolina,92-9059,1993,Jonathan Dale Simmons,South Carolina,36.0,2,True,minority opinion,Criminal Procedure,23
+798,54267,"Turner Broadcasting System, Inc. v. Federal Communications Commission",93-44,1993,"Turner Broadcasting System, Inc.",Federal Communications Commission,2.0,4,True,majority opinion,First Amendment,19
+799,54268,Heck v. Humphrey,93-6188,1993,Roy Heck ,"James Humphrey, Dearborn County Prosecutor, et al.",18.0,0,False,majority opinion,Civil Rights,20
+800,54269,"Madsen v. Women's Health Center, Inc.",93-880,1993,Madsen et al.,"Women's Health Center, Inc., et al.",26.0,3,False,majority opinion,Privacy,43
+801,54273,City of Ladue v. Gilleo,92-1856,1993,City of Ladue,Gilleo,9.0,0,False,majority opinion,First Amendment,44
+802,54271,"Barclay's Bank, PLC v. Franchise Tax Bd. of California",92-1384,1993,"Barclay's Bank, PLC",Franchise Tax Bd. of California,18.0,2,False,majority opinion,Economic Activity,48
+803,54279,American Dredging Company v. Miller,91-1950,1993,American Dredging Company,Miller,37.0,2,False,minority opinion,Federalism,48
+804,54282,"Babbitt v. Sweet Home Chapter, Communities for a Great Oregon",94-859,1994,"Babbitt, Secretary Of Interior, et al.",Sweet Home Chapter Of Communities For A Great Oregon et al.,9.0,3,True,majority opinion,Economic Activity,25
+805,54280,J.E.B. v. Alabama ex rel T.B.,92-1239,1993,J.E.B.,Alabama ex rel T.B.,9.0,3,True,majority opinion,Civil Rights,41
+806,54283,Rubin v. Coors Brewing Company,93-1631,1994,Rubin,Coors Brewing Company,21.0,0,False,majority opinion,First Amendment,49
+807,54285,Ryder v. United States,94-431,1994,Ryder,United States,6.0,0,True,majority opinion,Civil Rights,47
+808,54289,Metropolitan Stevedore Company v. Rambo,94-820,1994,Metropolitan Stevedore Company,Rambo,1.0,1,True,majority opinion,Economic Activity,49
+809,54288,"Plaut v. Spendthrift Farm, Inc.",93-1121,1994,Ed Plaut et al.,"Spendthrift Farm, Inc., et al.",32.0,2,False,minority opinion,Miscellaneous,33
+810,54290,Asgrow Seed Company v. Winterboer,92-2038,1994,Asgrow Seed Company,"Winterboer et al., Dba Deebees",7.0,1,True,majority opinion,Economic Activity,22
+811,54297,"First Options of Chicago, Inc. v. Kaplan",94-560,1994,"First Options of Chicago, Inc.",Kaplan,5.0,0,False,majority opinion,Economic Activity,38
+812,54299,Miller v. Johnson,94-631,1994,Miller,Johnson,27.0,4,False,majority opinion,Civil Rights,38
+813,54302,"United States v. X-Citement Video, Inc.",93-723,1994,United States,"X-Citement Video, Inc.",19.0,2,True,majority opinion,First Amendment,34
+814,54306,"American Airlines, Inc. v. Wolens",93-1286,1994,"American Airlines, Inc.",Wolens,25.0,3,True,majority opinion,Federalism,43
+815,54307,"Adarand Constructors, Inc. v. Peña",93-1841,1994,"Adarand Constructors, Inc.",Peña,60.0,4,True,minority opinion,Civil Rights,29
+816,54315,United States v. National Treasury Employees Union,93-1170,1994,United States,National Treasury Employees Union,28.0,3,False,majority opinion,First Amendment,27
+817,54317,United States v. Aguilar,94-270,1994,United States,Robert P. Aguilar,22.0,3,True,majority opinion,Criminal Procedure,31
+818,54320,Rosenberger v. Rector and Visitors of the University of Virginia,94-329,1994,Rosenberger,Rector and Visitors of the University of Virginia,11.0,4,True,majority opinion,First Amendment,24
+819,54324,"Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston, Inc.",94-749,1994,Hurley,"Irish-American Gay, Lesbian and Bisexual Group of Boston, Inc.",17.0,0,True,majority opinion,First Amendment,21
+820,54326,Wilson v. Arkansas,94-5707,1994,Wilson,Arkansas,6.0,0,True,majority opinion,Criminal Procedure,48
+821,54328,"Jerome B. Grubart, Inc. v. Great Lakes Dredge & Dock Company",93-762,1994,Jerome B. Graubart Inc.,Great Lakes Dredge & Dock Company,37.0,0,False,minority opinion,Judicial Power,36
+822,54331,United States v. Lopez,93-1260,1994,United States,Lopez,12.0,4,False,majority opinion,Federalism,50
+823,54330,Allied-Bruce Terminix Co. v. Dobson,93-1001,1994,Allied-Bruce Terminix Co.,Dobson,12.0,2,True,majority opinion,Federalism,27
+824,54333,Arizona v. Evans,93-1660,1994,Arizona,Isaac Evans,19.0,2,True,majority opinion,Criminal Procedure,49
+825,54336,"City of Edmonds v. Oxford House, Inc.",94-23,1994,City of Edmonds,"Oxford House, Inc.",25.0,3,False,majority opinion,Civil Rights,37
+826,54343,McIntyre v. Ohio Elections Commission,93-986,1994,McIntyre,Ohio Elections Commission,29.0,2,True,majority opinion,First Amendment,30
+827,54346,Tome v. United States,93-6892,1994,Matthew Wayne Tome ,United States,61.0,4,True,minority opinion,Criminal Procedure,48
+828,54353,Vernonia School District 47J v. Acton,94-590,1994,Vernonia School District 47J,Acton,30.0,3,True,majority opinion,Privacy,47
+829,54354,Shalala v. Whitecotton,94-372,1994,"Donna E. Shalala, Secretary of Health and Human Services","Margaret Whitecotton, et al.",6.0,0,True,majority opinion,Economic Activity,23
+830,54355,Capitol Square Review and Advisory Bd. v. Pinette,94-780,1994,Capitol Square Review and Advisory Bd.,Pinette,28.0,2,False,majority opinion,First Amendment,26
+831,54357,"Milwaukee v. Cement Div., National Gypsum Co.",94-788,1994,Milwaukee,"Cement Div., National Gypsum Co.",16.0,0,False,majority opinion,Economic Activity,46
+832,54359,Reynoldsville Casket Company v. Hyde,94-3,1994,Reynoldsville Casket Co. et al.,Hyde,15.0,0,True,majority opinion,Due Process,23
+833,54360,Johnson v. Jones,94-455,1994,Johnson,Jones,47.0,0,False,minority opinion,Judicial Power,28
+834,54362,Kyles v. Whitley,93-7927,1994,Curtis Lee Kyles ,John P. Whitley,12.0,4,True,majority opinion,Criminal Procedure,19
+835,54366,Wilton v. Seven Falls Company,94-562,1994,Wilton,Seven Falls Company,28.0,0,False,majority opinion,Judicial Power,27
+836,54369,"U. S. Term Limits, Inc. v. Thornton",93-1456,1994,"U. S. Term Limits, Inc.",Ray Thornton,4.0,4,False,majority opinion,Federalism,29
+837,54371,Florida Bar v. Went For It Inc.,94-226,1994,Florida Bar,Went For It Inc.,6.0,4,True,majority opinion,Attorneys,41
+838,54373,Brown v. Gardner,93-1128,1994,Brown,Gardner,14.0,0,False,majority opinion,Civil Rights,44
+839,54375,North Star Steel Company v. Thomas,94-834,1994,North Star Steel Company,Thomas,41.0,0,False,minority opinion,Criminal Procedure,28
+840,54378,Lockheed Corporation v. Spink,95-809,1995,Lockheed Corporation,Spink,6.0,0,True,majority opinion,Economic Activity,26
+841,54379,O'Connor v. Consolidated Coin Caterers Corporation,95-354,1995,O'Connor,Consolidated Coin Caterers Corporation,1.0,0,True,majority opinion,Civil Rights,34
+842,54380,Jaffee v. Redmond,95-266,1995,Jaffee,Redmond,11.0,2,False,majority opinion,Judicial Power,19
+843,54383,Carlisle v. United States,94-9247,1995,Carlisle,United States,5.0,2,False,majority opinion,Criminal Procedure,29
+844,54384,United States v. Armstrong,95-157,1995,United States,Armstrong,16.0,1,True,majority opinion,Criminal Procedure,33
+845,54381,Lewis v. United States,95-6465,1995,Lewis,United States,33.0,2,False,minority opinion,Criminal Procedure,28
+846,54382,Shaw v. Hunt,94-923,1995,Shaw,Hunt,28.0,4,True,majority opinion,Civil Rights,45
+847,54385,Wisconsin v. City of New York,94-1614,1995,Wisconsin,City of New York,3.0,0,True,majority opinion,Civil Rights,35
+848,54387,United States v. International Business Machines Corporation,95-591,1995,United States,International Business Machines Corporation,8.0,2,False,majority opinion,Federal Taxation,48
+849,54388,Neal v. United States,94-9088,1995,Neal,United States,20.0,0,False,majority opinion,Criminal Procedure,41
+850,54386,Holly Farms Corporation v. National Labor Relations Board,95-210,1995,Holly Farms Corporation,National Labor Relations Board,12.0,4,False,majority opinion,Unions,29
+851,54390,Lewis v. Casey,94-1511,1995,Lewis,Casey,42.0,1,True,minority opinion,Due Process,29
+852,54391,"BMW of North America, Inc. v. Gore",94-896,1995,"BMW of North America, Inc.",Gore,16.0,4,True,majority opinion,Economic Activity,45
+853,54392,"Board of County Commissioners, Wabaunsee County, Kansas v. Umbehr",94-1654,1995,"Board of County Commissioners, Wabaunsee County, Kansas",Umbehr,9.0,2,False,majority opinion,First Amendment,40
+854,54395,"National Labor Relations Board v. Town & Country Electric, Inc.",94-947,1995,National Labor Relations Board,"Town & Country Electric, Inc., et al.",28.0,0,True,majority opinion,Unions,20
+855,54393,United States v. Chesapeake & Potomac Telephone Co. of Va.,94-1893,1995,United States et al.,Chesapeake & Potomac Telephone Company Of Virginia et al.  516 U.S. 415,84.0,0,True,judge,Judicial Power,35
+856,54394,Doctor's Associates Inc. v. Casarotto,95-559,1995,Doctor's Associates Inc.,Casarotto,12.0,1,True,majority opinion,Federalism,22
+857,54396,Lane v. Peña,95-365,1995,Lane,Peña,57.0,2,False,minority opinion,Economic Activity,23
+858,54397,Felker v. Turpin,95-8836,1995,Felker,Turpin,1.0,0,False,majority opinion,Criminal Procedure,19
+859,54399,United States v. Ursery,95-345,1995,United States,Ursery,21.0,1,True,majority opinion,Criminal Procedure,19
+860,54403,Tuggle v. Netherland,95-6016,1995,Tuggle,Netherland,88.0,0,True,judge,Criminal Procedure,40
+861,54405,United States  v. Noland,95-323,1995,United States,Noland,19.0,0,True,majority opinion,Federal Taxation,24
+862,54408,United States v. Reorganized CF& I Fab. of UT,95-325,1995,United States,Reorganized CF& I Fab. of UT,18.0,0,True,majority opinion,Federal Taxation,33
+863,54404,Lonchar v. Thomas,95-5015,1995,Lonchar,Thomas,50.0,4,True,minority opinion,Criminal Procedure,36
+864,54407,Seminole Tribe of Florida v. Florida,94-12,1995,Seminole Tribe of Florida,Florida,26.0,4,False,majority opinion,Federalism,49
+865,54409,Gasperini v. Center for Humanities Inc.,95-719,1995,Gasperini,Center for Humanities Inc.,27.0,4,True,majority opinion,,38
+866,54410,Hercules Inc. v. United States,94-818,1995,Hercules Inc.,United States,11.0,2,False,majority opinion,Economic Activity,39
+867,54411,"Things Remembered, Inc. v. Petrarca",94-1530,1995,"Things Remembered, Inc.",Petrarca,25.0,0,False,majority opinion,Judicial Power,22
+868,54412,Lawrence v. Chater,94-9323,1995,Lawrence,Chater,94.0,2,True,judge,Judicial Power,46
+869,54415,"Lotus Development Corporation v. Borland International, Inc.",94-2003,1995,Lotus Development Corporation,"Borland International, Inc.",58.0,4,False,minority opinion,Economic Activity,45
+870,54414,"Bank One Chicago, N.A. v. Midwest Bank & Trust Company",94-1175,1995,"Bank One Chicago, N.A.",Midwest Bank & Trust Company,12.0,0,True,majority opinion,Economic Activity,23
+871,54416,Henderson v. United States,95-232,1995,Henderson,United States,16.0,3,True,majority opinion,Judicial Power,23
+872,54418,Norfolk & Western Railway Company v. Hiles,95-6,1995,Norfolk & Western Railway Company,Hiles,11.0,0,True,majority opinion,Economic Activity,45
+873,54419,Gray v. Netherland,95-6510,1995,Gray,Netherland,3.0,4,True,majority opinion,Criminal Procedure,22
+874,54421,Pennsylvania v. Labron,95-1691,1995,Pennsylvania,Edwin Labron,73.0,2,True,judge,Criminal Procedure,41
+875,54420,Ornelas v. United States,95-5257,1995,Ornelas,United States,65.0,1,True,minority opinion,Criminal Procedure,35
+876,54422,Leavitt v. Jane L.,95-1242,1995,"Leavitt, Governor of Utah",Jane L.,79.0,4,True,judge,Privacy,22
+877,54424,"Markman v. Westview Instruments, Inc.",95-26,1995,Markman,"Westview Instruments, Inc.",27.0,0,False,majority opinion,Criminal Procedure,50
+878,54423,Rutledge v. United States,94-8769,1995,Rutledge,United States,24.0,0,True,majority opinion,Criminal Procedure,36
+879,54426,"Auciello Iron Works, Inc. v. National Labor Relations Board",95-668,1995,"Auciello Iron Works, Inc.",National Labor Relations Board,7.0,0,False,majority opinion,Unions,29
+880,54425,Colorado Republican Federal Campaign Committee v. Federal Election Commission,95-489,1995,Colorado Republican Federal Campaign Committee,Federal Election Commission,84.0,2,True,judge,First Amendment,28
+881,54427,Romer v. Evans,94-1039,1995,Romer,Evans,33.0,3,False,minority opinion,Privacy,35
+882,54429,Bush v. Vera,94-805,1995,Bush,Vera,97.0,4,False,judge,Civil Rights,23
+883,54431,Robinson v. United States,94-7448,1995,Robinson,United States,22.0,0,True,majority opinion,Criminal Procedure,22
+884,54432,United States v. Winstar Corporation,95-865,1995,United States,Winstar Corporation,19.0,2,False,majority opinion,Economic Activity,24
+885,54433,"United Food & Commercial Workers v. Brown Group, Inc.",95-340,1995,United Food & Commercial Workers,"Brown Group, Inc.",4.0,0,True,majority opinion,Judicial Power,29
+886,54434,Brown v. Pro Football Inc.,95-388,1995,Brown,Pro Football Inc.,27.0,1,False,majority opinion,Economic Activity,39
+887,54435,44 Liquormart Inc. v. Rhode Island,94-1140,1995,44 Liquormart Inc.,Rhode Island,46.0,0,True,minority opinion,First Amendment,48
+888,54437,Morse v. Republican Party of Virginia,94-203,1995,Morse,Republican Party of Virginia,91.0,4,True,judge,Civil Rights,50
+889,54436,Fulton Corporation v. Faulkner,94-1239,1995,Fulton Corporation,Faulkner,20.0,0,True,majority opinion,Economic Activity,22
+890,54438,Koon v. United States,94-1664,1995,Koon,United States,10.0,4,True,majority opinion,Criminal Procedure,30
+891,54440,Quackenbush v. Allstate Insurance Company,95-244,1995,Quackenbush,Allstate Insurance Company,10.0,0,False,majority opinion,Judicial Power,42
+892,54439,Zicherman v. Korean Air Lines Company,94-1361,1995,Zicherman,Korean Air Lines Company,29.0,0,False,majority opinion,Economic Activity,46
+893,54441,Behrens v. Pelletier,94-1244,1995,Behrens,Pelletier,45.0,2,True,minority opinion,Judicial Power,40
+894,54442,Peacock v. Thomas,94-1453,1995,Peacock,Thomas,3.0,1,True,majority opinion,Economic Activity,22
+895,54443,"Meghrig v. KFC Western, Inc.",95-83,1995,Meghrig,"KFC Western, Inc.",29.0,0,True,majority opinion,Judicial Power,37
+896,54445,Varity Corporation v. Howe,94-1471,1995,Varity Corporation,Howe,15.0,3,False,majority opinion,Economic Activity,19
+897,54447,Montana v. Egelhoff,95-566,1995,Montana,Egelhoff,96.0,4,True,judge,Due Process,35
+898,54448,Whren v. United States,95-5841,1995,Whren,United States,16.0,0,False,majority opinion,Criminal Procedure,42
+899,54449,United States v. Virginia,94-1941,1995,United States,Virginia,45.0,1,True,minority opinion,Civil Rights,22
+900,54450,"Smiley v. Citibank (South Dakota), N. A.",95-860,1995,Smiley,"Citibank (South Dakota), N. A.",23.0,0,False,majority opinion,Judicial Power,33
+901,54452,"O'Hare Truck Service, Inc. v. City of Northlake",95-191,1995,"O'Hare Truck Service, Inc.",City of Northlake,30.0,2,True,majority opinion,First Amendment,22
+902,54454,Degen v. United States,95-173,1995,Degen,United States,11.0,0,True,majority opinion,Criminal Procedure,25
+903,54453,"Yamaha Motor Corporation, U.S.A. v. Calhoun",94-1387,1995,"Yamaha Motor Corporation, U.S.A.",Calhoun,14.0,0,False,majority opinion,Economic Activity,44
+904,54455,Bennis v. Michigan,94-8729,1995,Bennis,Michigan,27.0,4,False,majority opinion,Due Process,42
+905,54459,Loving v. United States,94-1966,1995,Loving,United States,30.0,0,False,minority opinion,Civil Rights,29
+906,54456,"Exxon Company, U.S.A. v. Sorec, Inc.",95-129,1995,"Exxon Company, U.S.A.","Sorec, Inc.",23.0,0,False,majority opinion,Economic Activity,31
+907,54458,Melendez v. United States,95-5661,1995,Melendez,United States,8.0,2,False,majority opinion,Criminal Procedure,38
+908,54457,Medtronic Inc. v. Lohr,95-754,1995,Medtronic Inc.,Lohr,9.0,4,False,majority opinion,Federalism,28
+909,54461,Wood v. Bartholomew,94-1419,1995,Wood,Bartholomew,93.0,4,True,judge,Criminal Procedure,25
+910,54463,Richards  v. Jefferson County,95-386,1995,Richards,Jefferson County,7.0,0,True,majority opinion,Due Process,34
+911,54462,"Denver Area Educational Telecommunications Consortium, Inc. v. Federal Communications Commission",95-124,1995,"Denver Area Educational Telecommunications Consortium, Inc.",Federal Communications Commission,65.0,2,False,minority opinion,First Amendment,44
+912,54466,Cooper v. Oklahoma,95-5207,1995,Cooper,Oklahoma,20.0,0,True,majority opinion,Due Process,32
+913,54467,Commissioner v. Lundy,94-1785,1995,Commissioner,Lundy,4.0,2,True,majority opinion,Federal Taxation,18
+914,54465,Matsushita Elec. Industrial Company v. Epstein,94-1809,1995,Matsushita Elec. Industrial Company,Epstein,5.0,3,True,majority opinion,Judicial Power,35
+915,54468,Clinton v. Jones,95-1853,1996,Clinton,Jones,28.0,0,False,majority opinion,Economic Activity,50
+916,54470,Young v. Fordice,95-2031,1996,Young,Fordice,18.0,0,True,majority opinion,Civil Rights,25
+917,54471,Lawyer v. Department of Justice,95-2024,1996,Lawyer,Department of Justice,52.0,4,False,minority opinion,Civil Rights,22
+918,54472,"Department of State v. Legal Assistance for Vietnamese Asylum Seekers, Inc.",95-1521,1996,Department of State,"Legal Assistance for Vietnamese Asylum Seekers, Inc.",79.0,0,True,judge,Civil Rights,42
+919,54473,Young v. Harper,95-1598,1996,Young,Harper,18.0,0,False,majority opinion,Due Process,42
+920,54474,Ohio v. Robinette,95-891,1996,Ohio,Robinette,27.0,1,True,majority opinion,Criminal Procedure,18
+921,54475,Boggs v. Boggs,96-79,1996,Boggs,Boggs,9.0,4,True,majority opinion,Federalism,48
+922,54476,"Glickman v. Wileman Brothers & Elliott, Inc.",95-1184,1996,Glickman,Wileman Brothers & Elliot,22.0,4,True,majority opinion,First Amendment,46
+923,54480,Saratoga Fishing Company v. J. M. Martinac & Company,95-1764,1996,Saratoga Fishing Company,J. M. Martinac & Company,53.0,3,True,minority opinion,Economic Activity,24
+924,54479,Raines v. Byrd,96-1671,1996,Raines,Byrd,22.0,2,True,majority opinion,Judicial Power,41
+925,54481,Gilbert v. Homar,96-651,1996,"Gilbert, President, East Stroudsburg University, et al.",Hamar,7.0,0,True,majority opinion,Due Process,48
+926,54483,United States v. Jose,95-2082,1996,United States,Jose,95.0,0,True,judge,Judicial Power,42
+927,54486,O'Dell v. Netherland,96-6867,1996,O'Dell,Netherland,27.0,4,False,majority opinion,Criminal Procedure,33
+928,54482,Adams v. Robertson,95-1873,1996,Adams,Robertson,93.0,0,False,judge,Judicial Power,29
+929,54484,United States v. Brockamp,95-1225,1996,United States,Brockamp,63.0,0,True,minority opinion,Federal Taxation,29
+930,54485,Printz v. United States,95-1478,1996,Printz,United States,16.0,4,True,majority opinion,Federalism,41
+931,54487,Arizonans for Official English v. Arizona,95-974,1996,Arizonans for Official English,Arizona,7.0,0,False,majority opinion,Judicial Power,23
+932,54489,Arkansas v. Farm Credit Services of Central Arkansas,95-1918,1996,Arkansas,Farm Credit Services of Central Arkansas,11.0,0,True,majority opinion,Judicial Power,48
+933,54488,Maryland v. Wilson,95-1268,1996,Maryland,Wilson,21.0,2,True,majority opinion,Criminal Procedure,20
+934,54490,Lopez v. Monterey County,95-1201,1996,Lopez,Monterey County,27.0,0,True,majority opinion,Civil Rights,44
+935,54491,"Camps Newfound/Owatonna, Inc. v. Town of Harrison",94-1988,1996,"Camps Newfound/Owatonna, Inc.",Town of Harrison,39.0,4,True,minority opinion,Economic Activity,31
+936,54492,"Turner Broadcasting System, Inc. v. Federal Communications Commission",95-992,1996,"Turner Broadcasting System, Inc.",Federal Communications Commission,8.0,4,False,majority opinion,First Amendment,27
+937,54495,Metropolitan Stevedore Company v. Rambo,96-272,1996,Metropolitan Stevedore Company,Rambo,28.0,3,False,majority opinion,Economic Activity,25
+938,54494,Strate v. A-1 Contractors,95-1872,1996,Strate,A-1 Contractors,7.0,0,False,majority opinion,Civil Rights,23
+939,54493,Johnson v. United States,96-203,1996,Johnson,United States,15.0,0,False,majority opinion,Criminal Procedure,25
+940,54496,Lynce v. Mathis,95-7452,1996,Lynce,Mathis,17.0,0,True,majority opinion,Criminal Procedure,37
+941,54497,Timmons v. Twin Cities Area New Party,95-1608,1996,Timmons,Twin Cities Area New Party,45.0,3,True,minority opinion,Civil Rights,44
+942,54503,Foreman v. Dallas County,96-987,1996,B. C. Foreman et al.,"Dallas County, Texas et al. ",92.0,0,True,judge,Civil Rights,23
+943,54499,Immigration and Naturalization Service v. Yueh-Shaio Yang,95-938,1996,Immigration and Naturalization Service,Yueh-Shaio Yang,22.0,0,True,majority opinion,Civil Rights,27
+944,54498,Harbor Tug & Barge Company v. Papai,95-1621,1996,Harbor Tug & Barge Company,Papai,12.0,3,True,majority opinion,Economic Activity,28
+945,54501,Abrams v. Johnson,95-1425,1996,Abrams,Johnson,5.0,4,False,majority opinion,Civil Rights,39
+946,54504,"Amchem Products, Inc. v. Windsor",96-270,1996,"Amchem Products, Inc.",Windsor,16.0,2,False,majority opinion,Judicial Power,21
+947,54505,Board of Comm'rs of Bryan Cty. v. Brown,95-1100,1996,Board of Comm'rs of Bryan Cty.,Brown,32.0,4,True,minority opinion,Civil Rights,39
+948,54502,Lindh v. Murphy,96-6298,1996,Lindh,Murphy,30.0,4,True,majority opinion,Criminal Procedure,19
+949,54506,Robinson v. Shell Oil Company,95-1376,1996,Robinson,Shell Oil Company,12.0,0,True,majority opinion,Civil Rights,18
+950,54510,Reno v. ACLU,96-511,1996,Reno,ACLU,2.0,0,False,majority opinion,First Amendment,41
+951,54508,Chandler v. Miller,96-126,1996,Walker L. Chandler,Zell  D. Miller,19.0,1,True,majority opinion,Privacy,44
+952,54509,Edmond v. United States,96-262,1996,Edmond,United States,13.0,0,False,majority opinion,Civil Rights,39
+953,54511,Richards v. Wisconsin,96-5955,1996,Richards,Wisconsin,59.0,0,False,minority opinion,Criminal Procedure,43
+954,54513,United States v. Watts,95-1906,1996,United States,Watts,100.0,2,True,judge,Criminal Procedure,33
+955,54512,United States v. Gonzales,95-1605,1996,United States,Gonzales,3.0,2,True,majority opinion,Criminal Procedure,24
+956,54514,Bennett v. Spear,95-813,1996,Bennett,Spear,1.0,0,True,majority opinion,Judicial Power,44
+957,54515,Reno v. Bossier Parish School Board,95-1455,1996,Reno,Bossier Parish School Board,4.0,2,False,majority opinion,Civil Rights,39
+958,54516,United States v. LaBonte,95-1726,1996,United States,LaBonte,16.0,3,True,majority opinion,Criminal Procedure,39
+959,54520,Washington v. Glucksberg,96-110,1996,Washington,Glucksberg,67.0,0,True,minority opinion,Privacy,50
+960,54519,Klehr v. A. O. Smith Corporation,96-663,1996,Klehr,A. O. Smith Corp. et al.,19.0,0,False,majority opinion,Criminal Procedure,38
+961,54517,Commissioner v. Estate of Hubert,95-1402,1996,Commissioner,Estate of Hubert,70.0,2,False,judge,Federal Taxation,43
+962,54522,Lambert v. Wicklund,96-858,1996,Lambert,Wicklund,90.0,0,True,judge,Privacy,26
+963,54521,City of Boerne v. Flores,95-2074,1996,City of Boerne,Flores,28.0,3,True,majority opinion,First Amendment,36
+964,54523,Johnson v. Fankell,96-292,1996,Johnson,Fankell,27.0,0,False,majority opinion,Federalism,31
+965,54524,De Buono v. NYSA-ILA Medical and Clinical Services Fund,95-1594,1996,De Buono,NYSA-ILA Medical and Clinical Services Fund,45.0,2,True,minority opinion,Federalism,28
+966,54526,General Motors Corporation v. Tracy,95-1232,1996,General Motors Corporation,Tracy,16.0,1,False,majority opinion,Economic Activity,26
+967,54525,Babbitt v. Youpee,95-1595,1996,Babbitt,Youpee,1.0,1,False,majority opinion,Due Process,40
+968,54528,"California Division of Labor Standards Enforcement v. Dillingham Construction, N.A.",95-789,1996,California Division of Labor Standards Enforcement,"Dillingham Construction, N.A.",20.0,0,True,majority opinion,Federalism,32
+969,54527,Dunn v. Commodity Futures Trading Commission,95-1181,1996,Dunn,Commodity Futures Trading Commission,23.0,0,True,majority opinion,Economic Activity,18
+970,54529,Richardson v. McKnight,96-318,1996,Richardson,McKnight,16.0,4,False,majority opinion,Civil Rights,29
+971,54531,"Inter-Modal Rail Employees Assn. v. Atchison, Topeka & Santa Fe Railway Company",96-491,1996,Inter-Modal Rail Employees Assn.,"Atchison, Topeka & Santa Fe Railway Company",43.0,0,True,minority opinion,Economic Activity,48
+972,54530,Metro-North Commuter Railroad Company v. Buckley,96-320,1996,Metro-North Commuter Railroad Company,Buckley,3.0,2,True,majority opinion,Economic Activity,38
+973,54533,United States v. Lanier,95-1717,1996,United States,Lanier,3.0,0,True,majority opinion,Criminal Procedure,46
+974,54532,Regents of University of California v. Doe,95-1694,1996,Regents of University of California,Doe,1.0,0,True,majority opinion,Economic Activity,25
+975,54534,Blessing v. Freestone,95-1441,1996,Blessing,Freestone,1.0,0,True,majority opinion,Judicial Power,21
+976,54535,Agostini v. Felton,96-552,1996,Agostini,Felton,27.0,4,True,majority opinion,First Amendment,19
+977,54536,United States v. Alaska,84-orig,1996,United States,Alaska,34.0,3,True,minority opinion,,48
+978,54537,Grimmett v. Brown,95-1723,1996,Grimmett,Brown,89.0,0,False,judge,Judicial Power,44
+979,54539,"McMillian v. Monroe County, Alabama",96-542,1996,Mcmillian,"Monroe County, Alabama",30.0,4,False,majority opinion,Civil Rights,26
+980,54538,M. L. B. v. S. L. J.,95-853,1996,M. L. B.,S. L. J.,8.0,3,True,majority opinion,Civil Rights,44
+981,54540,Auer v. Robbins,95-897,1996,Auer,Robbins,2.0,0,False,majority opinion,Unions,42
+982,54541,United States v. Wells,95-1228,1996,United States,Wells,29.0,1,True,majority opinion,Criminal Procedure,36
+983,54542,"Walters v. Metropolitan Educational Enterprises, Inc.",95-259,1996,Walters,"Metropolitan Educational Enterprises, Inc.",44.0,0,True,minority opinion,Civil Rights,47
+984,54543,Vacco v. Quill,95-1858,1996,Vacco,Quill,27.0,0,True,majority opinion,Privacy,45
+985,54544,Pounders v. Watson,96-1383,1996,"William R. Pounders, Judge",Penelope Watson,99.0,2,True,judge,Criminal Procedure,20
+986,54545,Bracy v. Gramley,96-6133,1996,Bracy,Gramley,9.0,0,True,majority opinion,Criminal Procedure,28
+987,54549,California v. Roy,95-2025,1996,California,Roy,86.0,0,True,judge,Criminal Procedure,38
+988,54548,Suitum v. Tahoe Regional Planning Agency,96-243,1996,Suitum,Tahoe Regional Planning Agency,7.0,0,True,majority opinion,Due Process,41
+989,54546,Caterpillar Inc. v. Lewis,95-1263,1996,Caterpillar Inc.,Lewis,43.0,0,True,minority opinion,Judicial Power,50
+990,54547,Associates Commercial Corp. v. Rash,96-454,1996,Associates Commercial Corp.,Rash,9.0,1,True,majority opinion,Economic Activity,37
+991,54550,"Warner-Jenkinson Company, Inc. v. Hilton Davis Chemical Company",95-728,1996,"Warner-Jenkinson Company, Inc.",Hilton Davis Chemical Company,29.0,0,True,majority opinion,Economic Activity,27
+992,54551,Kansas v. Hendricks,95-1649,1996,Kansas,Hendricks,13.0,4,True,majority opinion,Due Process,37
+993,54552,United States v. O'Hagan,96-842,1996,United States,O'Hagan,20.0,3,True,majority opinion,Economic Activity,29
+994,54555,Bibles v. Oregon Natural Desert Association,96-713,1996,Bibles,Oregon Natural Desert Association,85.0,0,True,judge,Privacy,45
+995,54554,Idaho v. Coeur d'Alene Tribe of Idaho,94-1474,1996,Idaho,Coeur d'Alene Tribe of Idaho,61.0,4,True,minority opinion,Federalism,30
+996,54557,Lords Landing Village Condominium Council of Unit Owners v. Continental Insurance Company,96-1033,1996,Lords Landing Village Condominium Council of Unit Owners,Continental Insurance Company,70.0,2,True,judge,Judicial Power,25
+997,54556,Atherton v. Federal Deposit Insurance Corporation,95-928,1996,Atherton,Federal Deposit Insurance Corporation,4.0,0,False,majority opinion,Economic Activity,29
+998,54559,O'Gilvie v. United States,95-966,1996,O'Gilvie,United States,29.0,3,False,majority opinion,Federal Taxation,33
+999,54561,"Ingalls Shipbuilding, Inc. v. Director, Office of Workers' Compensation Programs",95-1081,1996,"Ingalls Shipbuilding, Inc.","Director, Office of Workers' Compensation Programs",15.0,0,False,majority opinion,Economic Activity,28
