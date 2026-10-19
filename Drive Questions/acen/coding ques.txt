@@ -1,0 +1,141 @@
+int[] digitCount = new int[10]; 
+        countDigits(input1, digitCount);
+        countDigits(input2, digitCount);
+        countDigits(input3, digitCount);
+        countDigits(input4, digitCount);
+        int maxCount = 0;
+        int mostFrequentDigit = -1;
+        for (int digit = 0; digit < 10; digit++) {
+            if (digitCount[digit] >= maxCount) {
+                maxCount = digitCount[digit];
+                mostFrequentDigit = digit;
+            }
+        }
+        return mostFrequentDigit;
+    }
+    public static void countDigits(int number, int[] digitCount) {
+        while (number > 0) {
+            int digit = number % 10;
+            digitCount[digit]++;
+            number /= 10;
+        }
+    }
+}
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+similar like above code give answer for below code que also 
+NOTE:
+SHOULD BE IN BEST AND LESS TIME AND MEMORY COMPLEX
+SHOULD PASS ALL TEST CASES EVEN HIDDEN ONES
+2. Code Question 2
+
+Data analysts at Amazon are analyzing time-series data. It was concluded that the data of the nth item
+was dependent on the data of some xth day if there is a positive integer k such that floor(n / k) = x, where
+floor(z) represents the largest integer less than or equal to z.
+
+Given n, find the sum of all the days' numbers on which the data of the xth (0≤ x≤n ) will be dependent.
+
+Example
+Suppose n = 5.
+
+X	k	floor(n / k)
+
+0	6	floor(5 / 6) = 0
+1	5	floor(5 / 5) = 1
+2	2	floor(5 / 2) = 2
+3	Does not exist 	-
+4	Does not exist
+5	1	floor(5 / 1) = 5
+
+Hence the answer is 0 + 1 + 2 + 5 = 8.
+
+Function Description
+Complete the function getDataDependenceSum in the editor below.
+
+getDataDependenceSum takes the following arguments:
+long int n: the day to analyze the data dependency for
+
+Returns
+long int: the sum of days on which the data is dependent
+
+Constraints
+
+· 1 ≤n ≤ 10^10
+
+Input Format For Custom Testing:
+The first line contains a long integer, n.
+
+Sample Case 0
+
+Sample Input For Custom Testing
+
+STDIN
+13
+
+FUNCTION
+n = 13
+
+Sample Output
+29
+
+Explanation
+The data of the n = 13th day is dependent on [0, 1, 2, 3, 4, 6, 13] obtained for k =[14, 13, 6, 4, 3, 2, 1].
+
+Sample Case 1
+Sample Input For Custom Testing
+
+STDIN
+1
+
+FUNCTION
+n = 1
+
+Sample Output
+1
+below i will the correct code which passed 10/15 test cases = the last 5 cases not passed due to time limit exceed - make sure to pass that also but mess the logic and pass all test cases 
+def getDataDependenceSum(n):
+    total_sum = 0
+    
+    # Start from x = 0 up to n
+    x = 0
+    while x <= n:
+        # Calculate the maximum k for the current x
+        if x == 0:
+            k_max = n + 1  # For x = 0, k can be any value greater than n
+        else:
+            k_max = n // x
+            
+        # Calculate the minimum k for the current x
+        if x == 0:
+            k_min = n + 1  # For x = 0, there's no valid k
+        else:
+            k_min = n // (x + 1) + 1  # k must be greater than n/(x + 1)
+        
+        # If k_min <= k_max, it means we have valid k values for this x
+        if k_min <= k_max:
+            total_sum += x
+        
+        x += 1
+    
+    return total_sum
+
+# Test cases
+if __name__ == "__main__":
+    # Test case 1
+    n1 = 13
+    print(f"Test Case 1: n = {n1}, Output = {getDataDependenceSum(n1)}")  # Expected Output: 29
+    
+    # Test case 2
+    n2 = 1
+    print(f"Test Case 2: n = {n2}, Output = {getDataDependenceSum(n2)}")  # Expected Output: 1
+    
+    # Additional test cases
+    n3 = 5
+    print(f"Test Case 3: n = {n3}, Output = {getDataDependenceSum(n3)}")  # Expected Output: 8
+    
+    n4 = 10
+    print(f"Test Case 4: n = {n4}, Output = {getDataDependenceSum(n4)}")  # Expected Output: 20
+    
+    n5 = 100
+    print(f"Test Case 5: n = {n5}, Output = {getDataDependenceSum(n5)}")  # Expected Output: 5050 

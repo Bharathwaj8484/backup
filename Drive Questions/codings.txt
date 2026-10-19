@@ -1,0 +1,100 @@
+RULES:
+1. THE CODE TO SHOULD BE SIMPLE AND BEST ANSWER
+2. IT SHOULD PASS ALL HIDDEN TEST CASES TOO
+3. FOLLOW ALL CONSTRAINT AND CHECK IF ALL TEST CASES PASSES
+
+Convertible Graph
+
+Problem Statement
+You are given a graph of n vertices and k edges. You have to tell whether the given graph can be converted to a LinkedList or not.
+A graph is said to be a Linked List if
+• There is no cycle in the graph
+• The given graph is a connected graph.
+
+You can convert a graph to a linked list by removing at most one edge from the graph.
+Input Format
+• The first line will contain an integer n, denoting the number of vertices.
+• The second line will contain an integer k, denoting the number of edges.
+• Next, k lines each will contain 2 space-separated integers x, and y, denoting that there is an edge from x to y.
+
+Constraints
+• 1 ≤ n ≤ 10^3
+• 1 ≤ k ≤ 10^5
+• 1 ≤x, y <= n
+
+Output Format
+• Return "Yes" (without quotes) if it can be converted to a Linked List, or else return "No" (without quotes).
+
+Evaluation Parameters
+Sample Input 1
+3
+2
+1 2
+2 3
+Sample Output 1
+Yes
+
+Explanation
+The graph 1 - 2 - 3 is already a valid linked list. It is connected and has no cycle.
+
+
+
+Sample Input 2
+4
+5
+1 2
+2 3
+3 4
+4 1
+1 3
+
+Sample Output 2
+No
+
+Explanation:
+The graph has multiple cycles. Removing just one edge cannot convert it into a linked list.
+Execution 
+
+time limit: 10 seconds
+
+
+NOTE: NOW I WANT YOU FOLLOW ALL THE RULES AND GIVE ME CODE IN Java 21 BASED ON THE BELOW FORMAT ANSWER BELOW (ONLY ANSWER IN PLACES NEEDED ALONE IN SIMPLE)
+
+
+import java.io.*; •
+class Result 1
+/*
+* Complete the 'covertLinkedList' function below.
+* The function is expected to return an STRING.
+* The function accepts following parameters:
+* 1. INTEGER n
+* 2. INTEGER k
+* 3. INTEGER 2D ARRAY edges
+*/
+28
+29
+public static String covertLinkedList(int n, int k,
+List‹List< Integer>> edges) {
+// Write your code here
+public class Source {
+
+public static void main (String[] args) throws IOException 1
+BufferedReader bufferedReader = new BufferedReader (new
+InputStreamReader (System. in));
+int n= Integer parseInt(bufferedReader.readLine(). trim()) ;
+int k = Integer. parseInt(bufferedReader.readLine().trim());
+int edgesRows = k;
+int edgesColumns =2;
+
+List‹List<Integer>> edges = new ArrayList<>();
+IntStream. range (0, edgesRows). forEach (i -> {
+try
+edges. add (
+Stream. of(bufferedReader.readLine().replaceAll("|\s+$,"") split (" "))
+. map (Integer:: parseInt)
+.collect(toList())
+catch (IOException ex) {
+throw new RuntimeException (ex);
+String result = Result.covertLinkedList(n, k, edges);
+System.out print(result);
+bufferedReader.close ();}}

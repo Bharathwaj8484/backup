@@ -1,0 +1,69 @@
+RULES:
+1. THE CODE TO SHOULD BE SIMPLE AND BEST ANSWER
+2. IT SHOULD PASS ALL HIDDEN TEST CASES TOO
+3. FOLLOW ALL CONSTRAINT AND CHECK IF ALL TEST CASES PASSES
+4. Dont change the code there , just add code needed in simple to pass all test cases
+
+Student's Height
+Problem Statement
+There are n students standing in a line. For each student, they can see only the next student ahead of them whose height is strictly greater than their own. If there is no taller student ahead, they see 0. The heights of students are given in the form of a singly linked list, where the head of the list represents the first student in the line.
+Your task is to find the sum of all the heights seen by every student.
+Input Format
+• The first line contains an integer n, the number of students.
+• The next n lines contain integers h;, representing the heights of each student in order.
+• These values will be used to create a singly linked list, where the first entered value is the head.
+Constraints
+・ 1<＝n <＝10^5
+• 1<= hi < = 10^5
+
+Output Format
+• Return the sum of heights seen by every student.
+
+Evaluation Parameters
+Sample Input 1
+6
+3
+6
+2
+4
+2
+6
+Sample Output 1
+22
+Explanation
+For the list [3,6, 2,4,2,6], the next greater elements are
+[6,0,4,6,6,0]. Their sum is 6+0+4+6+6+0 = 22.
+
+Sample Input 2
+⁠5
+6
+12
+16
+15
+5
+
+Sample Output 2
+28
+
+Explanation
+For the list [6,12, 16, 15, 5], the next greater elements are
+[12,16,0,0,0]. Their sum is 12+16+0+0+0 = 28.
+Execution time limit: 10 seconds
+
+Java 21
+import java.io.*;
+import java.util.; import java. text.; import java.math. *;
+import java.util. regex. *;
+Class name should be "Source",
+//- otherwise solution won't be accepted
+public class Source {
+public static void main (String[] args) {
+Scanner in = new Scanner (System.in);
+// Declare the variable
+int a;
+// Read the variable from STDIN
+a = in.nextInt();
+// Output the variable to STDOUT
+System.out. println(a);
+｝
+｝

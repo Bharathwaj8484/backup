@@ -1,0 +1,449 @@
+*************************************************************************************************
+* NOTE : All the programs are tested under Turbo C/C++ compilers.  				*
+* It is assumed that,										*
+*			*=> Programs run under DOS environment,					*
+*			*=> The underlying machine is an x86 system,				*
+*			*=> Necessary header files are included.				*
+*			*=> Program is compiled using Turbo C/C++ compiler.			*
+* The program output may depend on the information based on this assumptions. 			*
+* (For example sizeof(int) = 2 bytes may be assumed). 						*
+*************************************************************************************************
+
+
+[Q001]. What will be the output of the following program :
+	void main()
+	{
+	  printf("Hi!");
+	  if (-1)
+	    printf("Bye");
+	}
+(a)No Output		(b)Hi!				(c)Bye			(d)Hi!Bye
+Ans. (d)	
+_________________________________________________________________________________________________
+	
+[Q002]. What will be the output of the following program :
+	void main()
+	{
+	  printf("Hi!");
+	  if (0 || -1)
+	    printf("Bye");
+	}
+(a)No Output		(b)Hi!				(c)Bye			(d)Hi!Bye
+Ans. (d) 	
+_________________________________________________________________________________________________
+
+[Q003]. What will be the output of the following program :
+	void main()
+	{
+	  printf("Hi!");
+	  if (!1)
+	    printf("Bye");
+	}
+(a)Compile-Time error	(b)Hi!				(c)Bye			(d)Hi!Bye
+Ans. (b)
+_________________________________________________________________________________________________
+	
+[Q004]. What will be the output of the following program :
+	void main()
+	{
+	  printf("Hi!");
+	  if !(0)
+	    printf("Bye");
+	}
+(a)Compile-Time error	(b)Hi!				(c)Bye			(d)Hi!Bye
+Ans. (a)
+_________________________________________________________________________________________________
+
+[Q005]. What will be the output of the following program :
+	void main()
+	{
+	  printf("Hi!");
+	  if (-1+1+1+1-1-1-1+(-1)-(-1))
+	    printf("Bye");
+	}
+(a)No Output		(b)Hi!				(c)Bye			(d)Hi!Bye
+Ans. (d)
+_________________________________________________________________________________________________
+	
+[Q006]. What will be the output of the following program :
+	void main()
+	{
+	  if (sizeof(int) && sizeof(float) && sizeof(float)/2-sizeof(int))
+		printf("Testing");	    
+	  printf("OK");
+	}
+(a)No Output		(b)OK				(c)Testing		(d)TestingOK
+Ans. (b)
+_________________________________________________________________________________________________
+
+[Q007]. What will be the output of the following program :
+	void main()
+	{
+	  int a=1,b=2,c=3,d=4,e;
+	  if (e=(a & b | c ^ d))
+	      printf("%d",e);
+	}
+(a)0			(b)7				(c)3			(d)No Output
+Ans. (b)	
+_________________________________________________________________________________________________
+	
+[Q008]. What will be the output of the following program :
+	void main()
+	{
+	  unsigned val=0xffff;
+	  if (~val)
+	    printf("%d",val);
+	  printf("%d",~val);
+	}
+(a)Compile-Time error	(b)-1				(c)0			(d)-1 0
+Ans. (c)
+_________________________________________________________________________________________________
+
+[Q009]. What will be the output of the following program :
+	void main()
+	{
+	  unsigned a=0xe75f,b=0x0EF4,c;
+	  c=(a|b);
+	  if ((c > a) && (c > b))
+	    printf("%x",c);
+	}
+(a)No Output		(b)0xe75f			(c)0xefff		(d)None of these
+Ans. (c)
+_________________________________________________________________________________________________
+	
+[Q010]. What will be the output of the following program :
+	void main()
+	{
+	  unsigned val=0xabcd;
+	  if (val>>16 | val<<16)
+	    {
+		printf("Success");
+		return;
+	    }
+	  printf("Failure");
+	}
+(a)No Output		(b)Success			(c)Failure		(d)SuccessFailure
+Ans. (b) 	
+_________________________________________________________________________________________________
+
+[Q011]. What will be the output of the following program :
+	void main()
+	{
+   	  unsigned x=0xf880,y=5,z;
+	  z=x<<y;
+	  printf("%#x %#x",z,x>>y-1);
+	}
+(a)1000 f87		(b)8800 0xf88			(c)1000 f88		(d)0x1000 0xf88
+Ans. (d)
+_________________________________________________________________________________________________
+	
+[Q012]. What will be the output of the following program :
+	void main()
+	{
+	  register int a=5;
+	  int *b=&a;
+	  printf("%d %d",a,*b);
+	}
+(a)Compile-Time error	(b)Run-Time error		(c)5 5			(d)Unpredictable
+Ans. (a)	
+_________________________________________________________________________________________________
+
+[Q013]. What will be the output of the following program :
+	auto int a=5;
+	void main()
+	{
+	  printf("%d",a);
+	}
+(a)Compile-Time error	(b)Run-Time error		(c)5			(d)Unpredictable
+Ans. (a)
+_________________________________________________________________________________________________
+	
+[Q014]. What will be the output of the following program :
+	void main()
+	{
+	  auto int a=5;
+	  printf("%d",a);
+	}
+(a)Compile-Time error	(b)Run-Time error		(c)5			(d)Unpredictable
+Ans. (c)	
+_________________________________________________________________________________________________
+
+[Q015]. What will be the output of the following program :
+	void main()
+	{
+	  int a=1,b=2,c=3,d=4;
+	  if (d > c)
+	     if (c > b)
+		printf("%d %d",d,c);
+	     else if (c > a)
+		printf("%d %d",c,d);
+	  if (c > a)
+		if (b < a)
+		   printf("%d %d",c,a);
+		else if (b < c)
+		   printf("%d %d",b,c);
+
+	}
+(a)4 3 3 4		(b)4 3 3 2			(c)4 32 3 		(d)4 33 1
+Ans. (c)
+_________________________________________________________________________________________________
+	
+[Q016]. What will be the output of the following program :
+	void main()
+	{
+	  int a=1,b=2,c=3,d=4;
+	  if (d > c)
+	     if (c > b)
+		printf("%d %d",d,c);
+	     if (c > a)
+		printf("%d %d",c,d);
+	  if (c > a)
+		if (b < a)
+		   printf("%d %d",c,a);
+		if (b < c)
+		   printf("%d %d",b,c);
+
+	}
+(a)4 32 3		(b)4 33 42 3			(c)4 3 3 4 2 3 		(d)None of these
+Ans. (b)
+_________________________________________________________________________________________________
+
+[Q017]. What will be the output of the following program :
+	void main()
+	{
+	  int a=1;
+	  if (a == 2);
+	     printf("C Program");
+	}
+(a)No Output		(b)C Program			(c)Compile-Time Error
+Ans. (b)	
+_________________________________________________________________________________________________
+	
+[Q018]. What will be the output of the following program :
+	void main()
+	{
+	  int a=1;
+	  if (a)
+	     printf("Test");
+	  else;
+	     printf("Again");
+	}
+(a)Again		(b)Test				(c)Compile-Time Error	(d)TestAgain
+Ans. (d)	
+_________________________________________________________________________________________________
+
+[Q019]. What will be the output of the following program :
+	void main()
+	{
+	  int i=1;
+	  for (; i<4; i++);
+	      printf("%d\n",i);
+	}
+(a)No Output		(b)1				(c)4			(d)None of these
+			   2
+			   3
+Ans. (c)	
+_________________________________________________________________________________________________
+	
+[Q020]. What will be the output of the following program :
+	void main()
+	{
+	  int a,b;
+	  for (a=0; a<10; a++);
+	     for (b=25; b>9; b-=3);
+	        printf("%d %d",a,b);
+	}
+(a)Compile-Time error	(b)10 9				(c)10 7			(d)None of these
+Ans. (c)	
+_________________________________________________________________________________________________
+
+[Q021]. What will be the output of the following program :
+	void main()
+	{
+	  float i;
+	  for (i=0.1; i<0.4; i+=0.1)
+	      printf("%.1f",i);
+	}
+(a)0.10.20.3		(b)Compile-Time Error		(c)Run-Time Error	(d)No Output
+Ans. (a)	
+_________________________________________________________________________________________________
+	
+[Q022]. What will be the output of the following program :
+	void main()
+	{
+	  int i;
+	  for (i=-10; !i; i++);
+		printf("%d",-i);
+	}
+(a)0			(b)Compile-Time Error		(c)10			(d)No Output
+Ans. (c)	
+_________________________________________________________________________________________________
+
+[Q023]. What will be the output of the following program :
+	void main()
+	{
+	  int i=5;
+	  do;
+	    printf("%d",i--);
+	  while (i>0);
+	}
+(a)5			(b)54321			(c)Compile-Time Error	(d)None of these
+Ans. (c)	
+_________________________________________________________________________________________________
+	
+[Q024]. What will be the output of the following program :
+	void main()
+	{
+     	  int i;
+	  for (i=2,i+=2; i<=9; i+=2)
+              printf("%d",i);
+	}
+(a)Compile-Time error	(b)2468				(c)468			(d)None of these
+Ans. (c)	
+_________________________________________________________________________________________________
+
+[Q025]. What will be the output of the following program :
+	void main()
+	{
+	  int i=3;
+	  for (i--; i<7; i=7)
+	     printf("%d",i++);
+	}
+(a)No Output		(b)3456				(c)23456		(d)None of these
+Ans. (d)	
+_________________________________________________________________________________________________
+	
+[Q026]. What will be the output of the following program :
+	void main()
+	{
+	  int i;
+	  for (i=5; --i;)
+		printf("%d",i);
+	}
+(a)No Output		(b)54321			(c)4321			(d)None of these
+Ans. (c)	
+_________________________________________________________________________________________________
+
+[Q027]. What will be the output of the following program :
+	void main()
+	{
+  	  int choice=3;
+	  switch(choice)
+	  {
+	     default:
+	        printf("Default");
+	
+	     case 1:
+	        printf("Choice1");
+	        break;
+	
+	     case 2:
+	        printf("Choice2");
+	        break;
+	  }
+	}
+(a)No Output		(b)Default			(c)DefaultChoice1	(d)None of these
+Ans. (c)	
+_________________________________________________________________________________________________
+	
+[Q028]. What will be the output of the following program :
+	void main()
+	{
+  	  static int choice;
+	  switch(--choice,choice-1,choice-1,choice+=2)
+	  {
+	     case 1:
+	        printf("Choice1");
+	        break;
+	
+	     case 2:
+	        printf("Choice2");
+	        break;
+
+	     default:
+	        printf("Default");
+	  }
+	}
+(a)Choice1		(b)Choice2			(c)Default		(d)None of these
+Ans. (a)	
+_________________________________________________________________________________________________
+
+[Q029]. What will be the output of the following program :
+	void main()
+	{
+	  for (;printf(""););
+	}
+(a)Compile-Time error	(b)Executes ONLY once		(c)Executes INFINITELY	(d)None of these
+Ans. (b)	
+_________________________________________________________________________________________________
+	
+[Q030]. What will be the output of the following program :
+	void main()
+	{
+	  int i;
+	  for (;(i=4)?(i-4):i++;)
+	     printf("%d",i);
+	}
+(a)Compile-Time error	(b)4				(c)Infinite Loop	(d)No Output
+Ans. (d)	
+_________________________________________________________________________________________________
+
+[Q031]. What will be the output of the following program :
+	void main()
+	{
+	  static int j;
+	  for (j<5; j<5; j+=j<5)
+ 	      printf("%d",j++);
+	}
+(a)024			(b)Compile-Time Error		(c)01234 		(d)No Output
+Ans.	
+_________________________________________________________________________________________________
+	
+[Q032]. What will be the output of the following program :
+	void main()
+	{
+	  int i=9;
+	  for (i--; i--; i--)
+	      printf("%d ",i);
+	}
+(a)9 6 3		(b)Compile-Time Error		(c)7 5 3 1 		(d)Infinite Loop
+Ans. 	
+_________________________________________________________________________________________________
+
+[Q033]. What will be the output of the following program :
+	void main()
+	{
+	  int i;
+	  for (i=5; ++i; i-=3)
+	      printf("%d ",i);
+	}
+(a)6 4 2		(b)Compile-Time Error		(c)6 3 1 		(d)Infinite Loop
+Ans. 	
+_________________________________________________________________________________________________
+
+[Q034]. Which of the following code causes INFINITE Loop :
+(a)do while(1);		(b)do;while(1);			(c)do; 			(d)do{}while(1);
+							   while(1);
+
+(i)Only (a)		(ii)Only (b), (c) & (d)		(iii)None of these	(iv)All of these
+										   
+Ans. 			
+_________________________________________________________________________________________________
+
+[Q035]. What will be the output of the following program :
+	#define Loop(i) for (j=0; j<i; j++){ \
+                    	    sum += i+j;     \
+                    	}
+	void main()
+	{
+	   int i,j,sum=0;
+	   for (i=0; i<=3; i++)
+	      Loop(i)
+	   printf("%d",sum);
+	}
+
+(a)Run-Time Error	(b)Compile-Time Error		(c)18	 		(d)0
+Ans. 	
+_________________________________________________________________________________________________
+				Thanx for using "C For Swimmers".
+Regarding this material, you can send Bug Reports, Suggestions, Comments,etc. to nandakishorkn@rediffmail.com

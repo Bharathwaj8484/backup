@@ -1,0 +1,240 @@
+1. Power grid
+
+Given a grid of H rows and W columns. (i,j) denotes the cell at ith row and jth
+column. You are given H string S1, S2 ..... SH which describes as follows:
+
+. if jth character of Si is 'C`, then there is a transformer at (i,j)
+
+. If jth character of Si is 'A`, then there is a relay at (i, j)
+
+. If jth character of Si is '.`, then there is NOTHING at (i,j)
+
+Both the transformer and relay can only pass electricity to the neighbor located to its right
+or below (which could be either a transformer or a relay). The main station is connected to
+(1,1) and the city main line is connected to (H,W). Electricity can flow from (1, 1) to
+(H,W) in any way possible. Every time electricity is passed through a transformer, its
+voltage changes. You want a steady voltage in the city.
+
+Formally, the number of transformers in any possible path to (H, W) from (1, 1) should be
+the same after filling the empty cells. We just need to ensure that the voltage supply is
+steady at the city (H, W) only
+
+Find the number of ways of filling up the empty cells with either a transformer or a relay in such a way that for each configuration, the voltage received at the city would be the same irrespective of the choice of the path.
+
+Notes
+
+· All transformers are identical.
+· All empty cells must be filled to be considered a valid configuration
+· All paths are independent of each other.
+· Return the answer modulo 10^9 +7
+
+Hint: For a given i and j, 1 <= i <= H and 1 <=j <= W values with i+j should have the same
+type, which means either all should be a transformer or all should be a relay
+
+Function description
+
+Complete the function solution(). The function takes the fo lowing 3 parameters and returns
+Function description
+
+Complete the function solution(). The function takes the following 3 parameters and returns
+the solution
+
+. H. Represents the total number of the string
+. W. Represents the length of the string
+· S. Represents an array of H input strings
+
+Input format for custom testing
+Note: Use this input format if you are testing against custom input or writing code in a
+language where we don't provide boilerplate code
+
+. The first the contains H denoting the number of rows.
+. The second the contains W denoting the number of columns
+. The third line contains H spaced string of size W each.
+
+Output format
+
+Print a single integer representing the number of valid configurations.
+
+Constraints
+
+2≤H< 10^3
+2≤W <10^3
+S|i|j| is among ['C`, 'A`,'!`].
+Sample output 
+2
+2
+AC C.
+Sample output 
+2
+
+Explanation
+Given
+Input
+ H=2
+ W=2
+ S =["AC, "C."]
+
+Output: 2
+
+Approach
+AC
+C.
+
+That is the grid
+There are two ways to get from (1,  1) to (2,  2).
+
+(1, 1) -> (1.,2) -> (2, 2) and (1, 1) -> (2,1)) -> (2, 2)
+
+You can put either a transformer or a relay and the condition is satisfied.
+
+Note:
+Your code must be able to print the sample output from the provided sample input. However, your
+code is run against multiple hidden test cases. Therefore, your code must pass these hidden test cases
+to solve the problem statement.
+
+Limits
+Time Limit: 1.0 sec(s) for each input file
+Memory Limit: 256 MB
+Source Limit: 1024 KB
+
+code: def solution(H, W, S):
+    MOD = 10**9 + 7
+    
+    # Create a grid to track the type of each cell
+    type_grid = [[None] * W for _ in range(H)]
+    
+    # Fill the type_grid based on input
+    for i in range(H):
+        for j in range(W):
+            if S[i][j] == 'C':
+                type_grid[i][j] = 'C'
+            elif S[i][j] == 'A':
+                type_grid[i][j] = 'A'
+            else:
+                type_grid[i][j] = None  # Empty cell
+
+    # Determine the number of configurations
+    configurations = 1
+    
+    # Check each diagonal (i + j)
+    for d in range(H + W - 1):
+        # Track the type of the first cell in this diagonal
+        current_type = None
+        for i in range(max(0, d - W + 1), min(H, d + 1)):
+            j = d - i
+            if 0 <= j < W:
+                if type_grid[i][j] is not None:
+                    if current_type is None:
+                        current_type = type_grid[i][j]
+                    elif current_type != type_grid[i][j]:
+                        # If we encounter a different type, we cannot fill this diagonal consistently
+                        return 0
+        
+        # If the diagonal is empty, we can fill it in 2 ways (either all 'C' or all 'A')
+        if current_type is None:
+            configurations = (configurations * 2) % MOD
+    
+    return configurations
+if __name__ == "__main__":
+    # Test cases
+    test_cases = [
+        (2, 2, ["AC", "C."], "Expected output: 2"),
+        (3, 3, ["A..", ".C.", "..A"], "Expected output: 4"),
+        (2, 3, ["A.C", "C.A"], "Expected output: 2"),
+        (4, 4, ["A.C.", ".C.A", "A.C.", ".C.A"], "Expected output: 16"),
+        (3, 3, ["AAA", "AAA", "AAA"], "Expected output: 1"),
+        (3, 3, ["ACC", "CAC", "CCA"], "Expected output: 0")
+    ]
+
+    for H, W, S, expected_output in test_cases:
+        result = solution(H, W, S)
+        print(f"Input: H={H}, W={W}, S={S}")
+        print(f"Expected output: {expected_output}")
+        print(f"Actual output: {result}")
+        print("Test passed" 
+        if result == int(expected_output.split(": ")[1]) else "Test failed")
+        print()
+
+ouput:
+Input: H=2, W=2, S=['AC', 'C.']
+Expected output: Expected output: 2
+Actual output: 2
+Test passed
+
+Input: H=3, W=3, S=['A..', '.C.', '..A']
+Expected output: Expected output: 4
+Actual output: 4
+Test passed
+
+Input: H=2, W=3, S=['A.C', 'C.A']
+Expected output: Expected output: 2
+Actual output: 1
+Test failed
+
+Input: H=4, W=4, S=['A.C.', '.C.A', 'A.C.', '.C.A']
+Expected output: Expected output: 16
+Actual output: 0
+Test failed
+
+Input: H=3, W=3, S=['AAA', 'AAA', 'AAA']
+Expected output: Expected output: 1
+Actual output: 1
+Test passed
+
+Input: H=3, W=3, S=['ACC', 'CAC', 'CCA']
+Expected output: Expected output: 0
+Actual output: 0
+Test passed
+--the code is not passing all test cases - make sure to pass all the test cases
+
+_____________________________________________________________________________________________
+2.
+Possible decryptions
+
+You are working in the Cyber Security team of your company. You are working on a decryption algorithm that converts an integer into the number of set bits present in the integer. You have to determine the possible number of decryptions with certain conditions such as:
+
+A number can be called a possible decryption if it can be changed into 1 by passing it into the decryption algorithm continuously K times with the result coming as 1 in the Kth step. For example, in 1 step 12, l.e (1100)2 can be converted into 2 because it has 2 set bits.
+
+For the experiment, you are given a binary string representing a number N and an integer K.
+
+Find the number of possible decryptions not greater than N modulo 10^9 + 7.
+
+Function description
+
+Complete the function Decryptions(). This function takes the following 2 parameters and returns the required answer:
+
+• N: Represents the binary string
+
+• K: Represents the number of steps in which a number should become 1 to be a possible decryption
+
+Input format for custom testing Note: Use this input format if you are testing against custom input or writing code in a language where we don't provide boilerplate code.
+
+The first line contains the binary string N. The second line contains integer K.
+
+Note: N is given in its binary representation without any leading zeros.
+
+Output format
+
+Print the number of possible decryptions not greater than N modulo 10^9 +7.
+
+Constraints 1 <=| N |≤ 437 0≤ K≤700
+
+Sample input
+
+110 2
+
+Sample output 2
+
+Explanation
+
+The 3 possible decryptions are 3, 5, and 6. They get reduced to 2 in one operation (since there are two set bits in each of 3, 5 and 6) and then to 1 in one more operation (since there is only one set bit in 2).
+
+Note:
+
+Your code must be able to print the sample output from the provided sample input. However, your code is run against multiple hidden test cases. Therefore, your code must pass these hidden test cases to solve the problem statement.
+
+Limits
+
+Time Limit: 1.0 sec(s) for each input file Memory Limit: 256 MB Source Limit 1024 KB
+
+For the above code gives the best and simple c++ 17 (g++ 10.3.0) Code to pass all the hidden test cases with main and input value inside for verifying In below format (SHOULD COME UNDER TIME AND MEMORY LIMIT)

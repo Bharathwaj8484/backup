@@ -1,0 +1,53 @@
+1.download git
+then setup 
+open cmd 
+
+2.type "git" in cmd and check if installed like u see for java version, python etc - it will show error if not there 
+
+setup git:- 
+	git config  --global user.name "(your GitHub user name)"
+	git config  --global user.email "(your GitHub email)"
+
+
+3.need vs code 
+4. open terminal in vscode 
+5. below cmd
+	git clone (link from clone link - GitHub website)
+	cd (folder name)
+
+6. create a new file
+	git status    # to know your status 
+	
+
+7. how to add in GitHub a local file
+	i. 	git add (filename.datatype) (or) just a dot - . (dot will add all existing changes)
+	ii. 	git commit -m "any message"
+	iii. 	git push origin main
+
+(sign in GitHub might ask)
+
+8. to go back to main folder 
+	cd .. #goes to back folder
+
+9.pull a file from GitHub 
+	git init
+
+10.create new repository -- start a project file - from local
+	then take a link as http 
+	then cmd 
+	i.	git remote add origin (paste link)
+	ii.	git branch # will show what branch your are in 
+
+11. change branch name
+	git branch -M main
+
+12.now push all
+	git push origin main
+
+13. to list all branches there 
+	git branch -a
+
+14. to update all changes happened in GitHub 
+	git pull 			
+
+15. how to cja	 
